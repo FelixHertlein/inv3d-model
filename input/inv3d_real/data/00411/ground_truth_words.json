@@ -1,0 +1,548 @@
+[
+    {
+        "text": "INVOICE",
+        "top": 119,
+        "left": 272,
+        "height": 217,
+        "width": 541
+    },
+    {
+        "text": "Invoice",
+        "top": 341,
+        "left": 272,
+        "height": 40,
+        "width": 91
+    },
+    {
+        "text": "number",
+        "top": 341,
+        "left": 370,
+        "height": 40,
+        "width": 96
+    },
+    {
+        "text": "#415808",
+        "top": 377,
+        "left": 272,
+        "height": 40,
+        "width": 99
+    },
+    {
+        "text": "Date",
+        "top": 329,
+        "left": 654,
+        "height": 40,
+        "width": 58
+    },
+    {
+        "text": "of",
+        "top": 329,
+        "left": 720,
+        "height": 40,
+        "width": 25
+    },
+    {
+        "text": "issue",
+        "top": 329,
+        "left": 754,
+        "height": 40,
+        "width": 66
+    },
+    {
+        "text": "24",
+        "top": 365,
+        "left": 654,
+        "height": 40,
+        "width": 28
+    },
+    {
+        "text": "October,",
+        "top": 365,
+        "left": 690,
+        "height": 40,
+        "width": 104
+    },
+    {
+        "text": "2007",
+        "top": 365,
+        "left": 802,
+        "height": 40,
+        "width": 58
+    },
+    {
+        "text": "Billed",
+        "top": 475,
+        "left": 272,
+        "height": 40,
+        "width": 70
+    },
+    {
+        "text": "to",
+        "top": 475,
+        "left": 350,
+        "height": 40,
+        "width": 26
+    },
+    {
+        "text": "Kimberly",
+        "top": 510,
+        "left": 272,
+        "height": 40,
+        "width": 109
+    },
+    {
+        "text": "Gaines",
+        "top": 510,
+        "left": 391,
+        "height": 40,
+        "width": 85
+    },
+    {
+        "text": "6688",
+        "top": 544,
+        "left": 272,
+        "height": 40,
+        "width": 59
+    },
+    {
+        "text": "David",
+        "top": 544,
+        "left": 340,
+        "height": 40,
+        "width": 72
+    },
+    {
+        "text": "Shores",
+        "top": 544,
+        "left": 421,
+        "height": 40,
+        "width": 85
+    },
+    {
+        "text": "Suite",
+        "top": 544,
+        "left": 515,
+        "height": 40,
+        "width": 64
+    },
+    {
+        "text": "516",
+        "top": 544,
+        "left": 587,
+        "height": 40,
+        "width": 39
+    },
+    {
+        "text": "Andrewview,",
+        "top": 578,
+        "left": 272,
+        "height": 40,
+        "width": 154
+    },
+    {
+        "text": "MT",
+        "top": 578,
+        "left": 435,
+        "height": 40,
+        "width": 36
+    },
+    {
+        "text": "59959",
+        "top": 578,
+        "left": 479,
+        "height": 40,
+        "width": 71
+    },
+    {
+        "text": "59959",
+        "top": 612,
+        "left": 272,
+        "height": 40,
+        "width": 71
+    },
+    {
+        "text": "Brown-Rivers",
+        "top": 463,
+        "left": 654,
+        "height": 40,
+        "width": 165
+    },
+    {
+        "text": "4083",
+        "top": 498,
+        "left": 654,
+        "height": 40,
+        "width": 59
+    },
+    {
+        "text": "Jason",
+        "top": 498,
+        "left": 722,
+        "height": 40,
+        "width": 70
+    },
+    {
+        "text": "Valleys",
+        "top": 498,
+        "left": 800,
+        "height": 40,
+        "width": 89
+    },
+    {
+        "text": "Suite",
+        "top": 498,
+        "left": 899,
+        "height": 40,
+        "width": 64
+    },
+    {
+        "text": "237",
+        "top": 498,
+        "left": 971,
+        "height": 40,
+        "width": 40
+    },
+    {
+        "text": "North",
+        "top": 532,
+        "left": 654,
+        "height": 40,
+        "width": 72
+    },
+    {
+        "text": "Sheenabury,",
+        "top": 532,
+        "left": 734,
+        "height": 40,
+        "width": 152
+    },
+    {
+        "text": "AK",
+        "top": 532,
+        "left": 895,
+        "height": 40,
+        "width": 31
+    },
+    {
+        "text": "83615",
+        "top": 532,
+        "left": 935,
+        "height": 40,
+        "width": 68
+    },
+    {
+        "text": "+55",
+        "top": 566,
+        "left": 654,
+        "height": 40,
+        "width": 41
+    },
+    {
+        "text": "31",
+        "top": 566,
+        "left": 704,
+        "height": 40,
+        "width": 25
+    },
+    {
+        "text": "2543",
+        "top": 566,
+        "left": 738,
+        "height": 40,
+        "width": 55
+    },
+    {
+        "text": "8618",
+        "top": 566,
+        "left": 802,
+        "height": 40,
+        "width": 55
+    },
+    {
+        "text": "jamessmith@smith-holmes.com",
+        "top": 600,
+        "left": 654,
+        "height": 40,
+        "width": 416
+    },
+    {
+        "text": "\ufb02eming-bird.com",
+        "top": 634,
+        "left": 654,
+        "height": 40,
+        "width": 217
+    },
+    {
+        "text": "Description",
+        "top": 722,
+        "left": 272,
+        "height": 40,
+        "width": 145
+    },
+    {
+        "text": "Charlie",
+        "top": 859,
+        "left": 272,
+        "height": 40,
+        "width": 89
+    },
+    {
+        "text": "And",
+        "top": 859,
+        "left": 368,
+        "height": 40,
+        "width": 48
+    },
+    {
+        "text": "Lola",
+        "top": 859,
+        "left": 425,
+        "height": 40,
+        "width": 54
+    },
+    {
+        "text": "Figures",
+        "top": 859,
+        "left": 487,
+        "height": 40,
+        "width": 89
+    },
+    {
+        "text": "Tins",
+        "top": 859,
+        "left": 585,
+        "height": 40,
+        "width": 51
+    },
+    {
+        "text": "Jumbo",
+        "top": 917,
+        "left": 272,
+        "height": 40,
+        "width": 80
+    },
+    {
+        "text": "Shopper",
+        "top": 917,
+        "left": 360,
+        "height": 40,
+        "width": 104
+    },
+    {
+        "text": "Vintage",
+        "top": 917,
+        "left": 473,
+        "height": 40,
+        "width": 97
+    },
+    {
+        "text": "Red",
+        "top": 917,
+        "left": 577,
+        "height": 40,
+        "width": 46
+    },
+    {
+        "text": "Paisley",
+        "top": 917,
+        "left": 631,
+        "height": 40,
+        "width": 89
+    },
+    {
+        "text": "Terms",
+        "top": 1823,
+        "left": 272,
+        "height": 40,
+        "width": 73
+    },
+    {
+        "text": "Payment",
+        "top": 1857,
+        "left": 272,
+        "height": 40,
+        "width": 109
+    },
+    {
+        "text": "in",
+        "top": 1857,
+        "left": 390,
+        "height": 40,
+        "width": 24
+    },
+    {
+        "text": "advance",
+        "top": 1857,
+        "left": 423,
+        "height": 40,
+        "width": 107
+    },
+    {
+        "text": "Unit",
+        "top": 722,
+        "left": 976,
+        "height": 40,
+        "width": 51
+    },
+    {
+        "text": "cost",
+        "top": 757,
+        "left": 974,
+        "height": 40,
+        "width": 53
+    },
+    {
+        "text": "1.95",
+        "top": 859,
+        "left": 982,
+        "height": 40,
+        "width": 45
+    },
+    {
+        "text": "2.08",
+        "top": 917,
+        "left": 976,
+        "height": 40,
+        "width": 51
+    },
+    {
+        "text": "Qty/HR",
+        "top": 722,
+        "left": 1131,
+        "height": 40,
+        "width": 95
+    },
+    {
+        "text": "rate",
+        "top": 757,
+        "left": 1175,
+        "height": 40,
+        "width": 50
+    },
+    {
+        "text": "Amount",
+        "top": 722,
+        "left": 1312,
+        "height": 40,
+        "width": 97
+    },
+    {
+        "text": "4",
+        "top": 859,
+        "left": 1211,
+        "height": 40,
+        "width": 14
+    },
+    {
+        "text": "5",
+        "top": 917,
+        "left": 1211,
+        "height": 40,
+        "width": 13
+    },
+    {
+        "text": "7.80",
+        "top": 859,
+        "left": 1360,
+        "height": 40,
+        "width": 49
+    },
+    {
+        "text": "10.40",
+        "top": 917,
+        "left": 1348,
+        "height": 40,
+        "width": 61
+    },
+    {
+        "text": "Subtotal",
+        "top": 1353,
+        "left": 1117,
+        "height": 40,
+        "width": 108
+    },
+    {
+        "text": "Discount",
+        "top": 1411,
+        "left": 1113,
+        "height": 40,
+        "width": 111
+    },
+    {
+        "text": "(Tax",
+        "top": 1470,
+        "left": 1107,
+        "height": 40,
+        "width": 51
+    },
+    {
+        "text": "rate)",
+        "top": 1470,
+        "left": 1165,
+        "height": 40,
+        "width": 59
+    },
+    {
+        "text": "Tax",
+        "top": 1528,
+        "left": 1185,
+        "height": 40,
+        "width": 40
+    },
+    {
+        "text": "18.20",
+        "top": 1353,
+        "left": 1346,
+        "height": 40,
+        "width": 63
+    },
+    {
+        "text": "4.29",
+        "top": 1411,
+        "left": 1362,
+        "height": 40,
+        "width": 48
+    },
+    {
+        "text": "1.6%",
+        "top": 1470,
+        "left": 1356,
+        "height": 40,
+        "width": 54
+    },
+    {
+        "text": "0.22",
+        "top": 1528,
+        "left": 1360,
+        "height": 40,
+        "width": 49
+    },
+    {
+        "text": "Invoice",
+        "top": 1668,
+        "left": 1135,
+        "height": 40,
+        "width": 91
+    },
+    {
+        "text": "total",
+        "top": 1703,
+        "left": 1165,
+        "height": 40,
+        "width": 60
+    },
+    {
+        "text": "$",
+        "top": 1659,
+        "left": 1268,
+        "height": 88,
+        "width": 32
+    },
+    {
+        "text": "14.13",
+        "top": 1659,
+        "left": 1318,
+        "height": 88,
+        "width": 120
+    }
+]

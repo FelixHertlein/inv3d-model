@@ -1,0 +1,314 @@
+[
+    {
+        "tag": "buyer.bill.address",
+        "value": "381 Allen Hill Apt. 974\nSouth Pamela, SD 34674",
+        "top": 485,
+        "left": 109,
+        "height": 122,
+        "width": 375
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Theodore Wade",
+        "top": 440,
+        "left": 109,
+        "height": 45,
+        "width": 375
+    },
+    {
+        "tag": "buyer.shipment.address",
+        "value": "78356 William Trail Suite 944\nJohnbury, UT 64194",
+        "top": 485,
+        "left": 485,
+        "height": 122,
+        "width": 445
+    },
+    {
+        "tag": "buyer.shipment.contact",
+        "value": "Tyler Perez",
+        "top": 440,
+        "left": 485,
+        "height": 45,
+        "width": 445
+    },
+    {
+        "tag": "invoice_date",
+        "value": "16 January, 2002",
+        "top": 275,
+        "left": 850,
+        "height": 70,
+        "width": 740
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#664905",
+        "top": 275,
+        "left": 109,
+        "height": 70,
+        "width": 740
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Payment ten days after invoice date",
+        "top": 440,
+        "left": 931,
+        "height": 167,
+        "width": 659
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Scotties design washbag",
+        "top": 669,
+        "left": 408,
+        "height": 61,
+        "width": 587
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "7",
+        "top": 669,
+        "left": 109,
+        "height": 61,
+        "width": 298
+    },
+    {
+        "tag": "products.0.total",
+        "value": "13.65",
+        "top": 669,
+        "left": 1294,
+        "height": 61,
+        "width": 296
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "1.95",
+        "top": 669,
+        "left": 996,
+        "height": 61,
+        "width": 297
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Christmas tree decoration with bell",
+        "top": 731,
+        "left": 408,
+        "height": 62,
+        "width": 587
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "3",
+        "top": 731,
+        "left": 109,
+        "height": 62,
+        "width": 298
+    },
+    {
+        "tag": "products.1.total",
+        "value": "1.26",
+        "top": 731,
+        "left": 1294,
+        "height": 62,
+        "width": 296
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "0.42",
+        "top": 731,
+        "left": 996,
+        "height": 62,
+        "width": 297
+    },
+    {
+        "tag": "products.2.description",
+        "value": "Swallows greeting card",
+        "top": 794,
+        "left": 408,
+        "height": 61,
+        "width": 587
+    },
+    {
+        "tag": "products.2.quantity",
+        "value": "9",
+        "top": 794,
+        "left": 109,
+        "height": 61,
+        "width": 298
+    },
+    {
+        "tag": "products.2.total",
+        "value": "3.24",
+        "top": 794,
+        "left": 1294,
+        "height": 61,
+        "width": 296
+    },
+    {
+        "tag": "products.2.unit_price",
+        "value": "0.36",
+        "top": 794,
+        "left": 996,
+        "height": 61,
+        "width": 297
+    },
+    {
+        "tag": "products.3.description",
+        "value": "Musical zinc heart decoration ",
+        "top": 856,
+        "left": 408,
+        "height": 62,
+        "width": 587
+    },
+    {
+        "tag": "products.3.quantity",
+        "value": "4",
+        "top": 856,
+        "left": 109,
+        "height": 62,
+        "width": 298
+    },
+    {
+        "tag": "products.3.total",
+        "value": "1.16",
+        "top": 856,
+        "left": 1294,
+        "height": 62,
+        "width": 296
+    },
+    {
+        "tag": "products.3.unit_price",
+        "value": "0.29",
+        "top": 856,
+        "left": 996,
+        "height": 62,
+        "width": 297
+    },
+    {
+        "tag": "products.4.description",
+        "value": "Ivory kitchen scales",
+        "top": 919,
+        "left": 408,
+        "height": 61,
+        "width": 587
+    },
+    {
+        "tag": "products.4.quantity",
+        "value": "4",
+        "top": 919,
+        "left": 109,
+        "height": 61,
+        "width": 298
+    },
+    {
+        "tag": "products.4.total",
+        "value": "34.00",
+        "top": 919,
+        "left": 1294,
+        "height": 61,
+        "width": 296
+    },
+    {
+        "tag": "products.4.unit_price",
+        "value": "8.50",
+        "top": 919,
+        "left": 996,
+        "height": 61,
+        "width": 297
+    },
+    {
+        "tag": "products.5.description",
+        "value": "Foot stool home sweet home ",
+        "top": 981,
+        "left": 408,
+        "height": 62,
+        "width": 587
+    },
+    {
+        "tag": "products.5.quantity",
+        "value": "10",
+        "top": 981,
+        "left": 109,
+        "height": 62,
+        "width": 298
+    },
+    {
+        "tag": "products.5.total",
+        "value": "99.50",
+        "top": 981,
+        "left": 1294,
+        "height": 62,
+        "width": 296
+    },
+    {
+        "tag": "products.5.unit_price",
+        "value": "9.95",
+        "top": 981,
+        "left": 996,
+        "height": 62,
+        "width": 297
+    },
+    {
+        "tag": "seller.address",
+        "value": "8236 Lucas Prairie Suite 967\nLake Donna, MO 14815",
+        "top": 142,
+        "left": 109,
+        "height": 54,
+        "width": 565
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Clark PLC",
+        "top": 108,
+        "left": 109,
+        "height": 34,
+        "width": 565
+    },
+    {
+        "tag": "seller.fax_number",
+        "value": "+962779154769",
+        "top": 196,
+        "left": 295,
+        "height": 78,
+        "width": 379
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+66 956 305 313",
+        "top": 196,
+        "left": 109,
+        "height": 78,
+        "width": 186
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 176.53",
+        "top": 1731,
+        "left": 985,
+        "height": 62,
+        "width": 605
+    },
+    {
+        "tag": "summary.shipping.price",
+        "value": "6.30",
+        "top": 1669,
+        "left": 985,
+        "height": 61,
+        "width": 605
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "152.81",
+        "top": 1546,
+        "left": 985,
+        "height": 59,
+        "width": 605
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "17.42",
+        "top": 1606,
+        "left": 985,
+        "height": 62,
+        "width": 605
+    }
+]

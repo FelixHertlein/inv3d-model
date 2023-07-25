@@ -1,0 +1,338 @@
+[
+    {
+        "tag": "buyer.bill.address.city",
+        "value": "New Mark, CA 92356",
+        "top": 894,
+        "left": 142,
+        "height": 41,
+        "width": 800
+    },
+    {
+        "tag": "buyer.bill.address.street",
+        "value": "126 Michael Causeway",
+        "top": 853,
+        "left": 142,
+        "height": 40,
+        "width": 800
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Kevin Bryant",
+        "top": 770,
+        "left": 142,
+        "height": 40,
+        "width": 800
+    },
+    {
+        "tag": "buyer.bill.customer_id",
+        "value": "7254210",
+        "top": 646,
+        "left": 1327,
+        "height": 40,
+        "width": 230
+    },
+    {
+        "tag": "buyer.bill.email",
+        "value": "benjamin18@beasley-esparza.biz",
+        "top": 977,
+        "left": 142,
+        "height": 40,
+        "width": 800
+    },
+    {
+        "tag": "buyer.bill.phone_number",
+        "value": "+1-416-274-7727x890",
+        "top": 936,
+        "left": 142,
+        "height": 40,
+        "width": 800
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Reyes PLC",
+        "top": 811,
+        "left": 943,
+        "height": 41,
+        "width": 383
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Reyes PLC",
+        "top": 811,
+        "left": 142,
+        "height": 41,
+        "width": 800
+    },
+    {
+        "tag": "buyer.shipment.address.city",
+        "value": "Reynoldstown, CT 52260",
+        "top": 894,
+        "left": 943,
+        "height": 41,
+        "width": 383
+    },
+    {
+        "tag": "buyer.shipment.address.street",
+        "value": "979 Haas Glen Suite 654",
+        "top": 853,
+        "left": 943,
+        "height": 40,
+        "width": 383
+    },
+    {
+        "tag": "buyer.shipment.contact",
+        "value": "Laura Wilcox",
+        "top": 770,
+        "left": 943,
+        "height": 40,
+        "width": 383
+    },
+    {
+        "tag": "buyer.shipment.phone_number",
+        "value": "9804987591",
+        "top": 936,
+        "left": 943,
+        "height": 40,
+        "width": 383
+    },
+    {
+        "tag": "invoice_date",
+        "value": "02/26/2011",
+        "top": 480,
+        "left": 1327,
+        "height": 41,
+        "width": 230
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#853827",
+        "top": 563,
+        "left": 1327,
+        "height": 40,
+        "width": 230
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Payment terms: End of month",
+        "top": 1060,
+        "left": 142,
+        "height": 50,
+        "width": 1415
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Ribbon Reel Hearts Design ",
+        "top": 1161,
+        "left": 142,
+        "height": 50,
+        "width": 1184
+    },
+    {
+        "tag": "products.0.total",
+        "value": "16.50",
+        "top": 1161,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Party Bunting",
+        "top": 1212,
+        "left": 142,
+        "height": 50,
+        "width": 1184
+    },
+    {
+        "tag": "products.1.total",
+        "value": "14.85",
+        "top": 1212,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "products.2.description",
+        "value": "Kitchen Metal Sign",
+        "top": 1263,
+        "left": 142,
+        "height": 50,
+        "width": 1184
+    },
+    {
+        "tag": "products.2.total",
+        "value": "12.80",
+        "top": 1263,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "products.3.description",
+        "value": "Herb Marker Thyme",
+        "top": 1314,
+        "left": 142,
+        "height": 50,
+        "width": 1184
+    },
+    {
+        "tag": "products.3.total",
+        "value": "4.55",
+        "top": 1314,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "products.4.description",
+        "value": "Record Frame 7\" Single Size ",
+        "top": 1365,
+        "left": 142,
+        "height": 49,
+        "width": 1184
+    },
+    {
+        "tag": "products.4.total",
+        "value": "14.88",
+        "top": 1365,
+        "left": 1327,
+        "height": 49,
+        "width": 230
+    },
+    {
+        "tag": "products.5.description",
+        "value": "Card Party Games ",
+        "top": 1415,
+        "left": 142,
+        "height": 50,
+        "width": 1184
+    },
+    {
+        "tag": "products.5.total",
+        "value": "2.94",
+        "top": 1415,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "products.6.description",
+        "value": "Lunch Bag  Black Skull.",
+        "top": 1466,
+        "left": 142,
+        "height": 50,
+        "width": 1184
+    },
+    {
+        "tag": "products.6.total",
+        "value": "11.55",
+        "top": 1466,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "seller.address.city",
+        "value": "Burchmouth, RI 00785",
+        "top": 563,
+        "left": 142,
+        "height": 40,
+        "width": 800
+    },
+    {
+        "tag": "seller.address.street",
+        "value": "9782 Soto Key",
+        "top": 522,
+        "left": 142,
+        "height": 40,
+        "width": 800
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Young, Hernandez and Garcia",
+        "top": 480,
+        "left": 142,
+        "height": 41,
+        "width": 800
+    },
+    {
+        "tag": "seller.contact",
+        "value": "Nicholas Thompson",
+        "top": 687,
+        "left": 142,
+        "height": 41,
+        "width": 800
+    },
+    {
+        "tag": "seller.email",
+        "value": "hoodbrandy@stewart.com",
+        "top": 646,
+        "left": 142,
+        "height": 40,
+        "width": 800
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+421 910 085 705",
+        "top": 604,
+        "left": 142,
+        "height": 41,
+        "width": 800
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 85.08",
+        "top": 1873,
+        "left": 1327,
+        "height": 51,
+        "width": 230
+    },
+    {
+        "tag": "summary.discount",
+        "value": "0.00",
+        "top": 1568,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "summary.shipping.price",
+        "value": "2.09",
+        "top": 1771,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "78.07",
+        "top": 1517,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "summary.subtotal_less_discount",
+        "value": "78.07",
+        "top": 1619,
+        "left": 1327,
+        "height": 49,
+        "width": 230
+    },
+    {
+        "tag": "summary.tax_rate",
+        "value": "6.3%",
+        "top": 1669,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "4.92",
+        "top": 1720,
+        "left": 1327,
+        "height": 50,
+        "width": 230
+    }
+]

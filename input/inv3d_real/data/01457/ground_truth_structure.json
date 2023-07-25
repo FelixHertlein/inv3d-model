@@ -1,0 +1,120 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "New Vincent",
+                    "postcode": "88113",
+                    "state_abbr": "NH"
+                },
+                "street": {
+                    "building_number": "956",
+                    "secondary_address": "Apt. 000",
+                    "street_name": "Steven Mountain"
+                }
+            },
+            "contact": {
+                "first_name": "Julie",
+                "last_name": "Eaton"
+            },
+            "email": "nwilson@fitzgerald-cervantes.info",
+            "phone_number": {
+                "country_code": 61,
+                "national_number": 310395226
+            }
+        },
+        "company": {
+            "name": "Franklin PLC"
+        }
+    },
+    "invoice_date": {
+        "day": 27,
+        "month": 6,
+        "year": 2016
+    },
+    "invoice_due_date": {
+        "day": 21,
+        "month": 7,
+        "year": 2016
+    },
+    "invoice_number": 509715,
+    "products": {
+        "0": {
+            "description": "Blue polkadot luggage tag ",
+            "id": 3627,
+            "quantity": 8,
+            "total": 10.0,
+            "unit_price": 1.25
+        },
+        "1": {
+            "description": "Hand warmer red love heart",
+            "id": 3210,
+            "quantity": 7,
+            "total": 14.7,
+            "unit_price": 2.1
+        },
+        "2": {
+            "description": "I love london baby gift set",
+            "id": 4211,
+            "quantity": 4,
+            "total": 67.8,
+            "unit_price": 16.95
+        },
+        "3": {
+            "description": "Toilet sign occupied or vacant",
+            "id": 9234,
+            "quantity": 10,
+            "total": 8.3,
+            "unit_price": 0.83
+        },
+        "4": {
+            "description": "Lunch bag vintage doily ",
+            "id": 4977,
+            "quantity": 3,
+            "total": 4.95,
+            "unit_price": 1.65
+        },
+        "5": {
+            "description": "Herb marker thyme",
+            "id": 2477,
+            "quantity": 10,
+            "total": 6.5,
+            "unit_price": 0.65
+        },
+        "6": {
+            "description": "Box of 6 assorted colour teaspoons",
+            "id": 6576,
+            "quantity": 8,
+            "total": 26.32,
+            "unit_price": 3.29
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Dominguezview",
+                "postcode": "50108",
+                "state_abbr": "MI"
+            },
+            "street": {
+                "building_number": "50479",
+                "street_name": "Anderson Manors"
+            }
+        },
+        "company": {
+            "name": "Gates, Myers and Stone"
+        },
+        "email": "andrew89@alexander.info",
+        "phone_number": {
+            "country_code": 1,
+            "extension": 2511,
+            "national_number": 5133013977
+        },
+        "website": "henry.biz"
+    },
+    "summary": {
+        "balance": 161.99,
+        "subtotal": 138.57,
+        "tax_total": 23.42
+    }
+}

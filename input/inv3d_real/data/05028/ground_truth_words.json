@@ -1,0 +1,863 @@
+[
+    {
+        "text": "BLANK",
+        "top": 181,
+        "left": 141,
+        "height": 59,
+        "width": 160
+    },
+    {
+        "text": "INVOICE",
+        "top": 181,
+        "left": 312,
+        "height": 59,
+        "width": 196
+    },
+    {
+        "text": "TEMPLATE",
+        "top": 181,
+        "left": 519,
+        "height": 59,
+        "width": 252
+    },
+    {
+        "text": "YOUR",
+        "top": 320,
+        "left": 155,
+        "height": 118,
+        "width": 265
+    },
+    {
+        "text": "LOGO",
+        "top": 320,
+        "left": 443,
+        "height": 118,
+        "width": 246
+    },
+    {
+        "text": "INVOICE",
+        "top": 347,
+        "left": 1326,
+        "height": 65,
+        "width": 218
+    },
+    {
+        "text": "Young,",
+        "top": 484,
+        "left": 142,
+        "height": 32,
+        "width": 84
+    },
+    {
+        "text": "Hernandez",
+        "top": 484,
+        "left": 232,
+        "height": 32,
+        "width": 128
+    },
+    {
+        "text": "and",
+        "top": 484,
+        "left": 366,
+        "height": 32,
+        "width": 42
+    },
+    {
+        "text": "Garcia",
+        "top": 484,
+        "left": 415,
+        "height": 32,
+        "width": 76
+    },
+    {
+        "text": "9782",
+        "top": 528,
+        "left": 142,
+        "height": 29,
+        "width": 48
+    },
+    {
+        "text": "Soto",
+        "top": 528,
+        "left": 197,
+        "height": 29,
+        "width": 46
+    },
+    {
+        "text": "Key",
+        "top": 528,
+        "left": 249,
+        "height": 29,
+        "width": 42
+    },
+    {
+        "text": "Burchmouth,",
+        "top": 569,
+        "left": 142,
+        "height": 29,
+        "width": 143
+    },
+    {
+        "text": "RI",
+        "top": 569,
+        "left": 291,
+        "height": 29,
+        "width": 23
+    },
+    {
+        "text": "00785",
+        "top": 569,
+        "left": 319,
+        "height": 29,
+        "width": 60
+    },
+    {
+        "text": "+421",
+        "top": 611,
+        "left": 142,
+        "height": 29,
+        "width": 47
+    },
+    {
+        "text": "910",
+        "top": 611,
+        "left": 197,
+        "height": 29,
+        "width": 37
+    },
+    {
+        "text": "085",
+        "top": 611,
+        "left": 240,
+        "height": 29,
+        "width": 36
+    },
+    {
+        "text": "705",
+        "top": 611,
+        "left": 281,
+        "height": 29,
+        "width": 36
+    },
+    {
+        "text": "hoodbrandy@stewart.com",
+        "top": 652,
+        "left": 142,
+        "height": 29,
+        "width": 285
+    },
+    {
+        "text": "Nicholas",
+        "top": 693,
+        "left": 142,
+        "height": 29,
+        "width": 96
+    },
+    {
+        "text": "Thompson",
+        "top": 693,
+        "left": 244,
+        "height": 29,
+        "width": 115
+    },
+    {
+        "text": "BILL",
+        "top": 743,
+        "left": 142,
+        "height": 26,
+        "width": 43
+    },
+    {
+        "text": "TO",
+        "top": 743,
+        "left": 191,
+        "height": 26,
+        "width": 27
+    },
+    {
+        "text": "Kevin",
+        "top": 776,
+        "left": 155,
+        "height": 29,
+        "width": 63
+    },
+    {
+        "text": "Bryant",
+        "top": 776,
+        "left": 224,
+        "height": 29,
+        "width": 75
+    },
+    {
+        "text": "Reyes",
+        "top": 817,
+        "left": 155,
+        "height": 29,
+        "width": 64
+    },
+    {
+        "text": "PLC",
+        "top": 817,
+        "left": 224,
+        "height": 29,
+        "width": 42
+    },
+    {
+        "text": "126",
+        "top": 859,
+        "left": 155,
+        "height": 29,
+        "width": 37
+    },
+    {
+        "text": "Michael",
+        "top": 859,
+        "left": 198,
+        "height": 29,
+        "width": 88
+    },
+    {
+        "text": "Causeway",
+        "top": 859,
+        "left": 292,
+        "height": 29,
+        "width": 114
+    },
+    {
+        "text": "New",
+        "top": 900,
+        "left": 155,
+        "height": 29,
+        "width": 48
+    },
+    {
+        "text": "Mark,",
+        "top": 900,
+        "left": 209,
+        "height": 29,
+        "width": 66
+    },
+    {
+        "text": "CA",
+        "top": 900,
+        "left": 281,
+        "height": 29,
+        "width": 31
+    },
+    {
+        "text": "92356",
+        "top": 900,
+        "left": 318,
+        "height": 29,
+        "width": 63
+    },
+    {
+        "text": "+1-416-274-7727x890",
+        "top": 942,
+        "left": 155,
+        "height": 29,
+        "width": 225
+    },
+    {
+        "text": "benjamin18@beasley-esparza.biz",
+        "top": 983,
+        "left": 155,
+        "height": 29,
+        "width": 362
+    },
+    {
+        "text": "TERMS",
+        "top": 1033,
+        "left": 142,
+        "height": 26,
+        "width": 74
+    },
+    {
+        "text": "Payment",
+        "top": 1071,
+        "left": 157,
+        "height": 29,
+        "width": 98
+    },
+    {
+        "text": "terms:",
+        "top": 1071,
+        "left": 260,
+        "height": 29,
+        "width": 65
+    },
+    {
+        "text": "End",
+        "top": 1071,
+        "left": 332,
+        "height": 29,
+        "width": 43
+    },
+    {
+        "text": "of",
+        "top": 1071,
+        "left": 380,
+        "height": 29,
+        "width": 22
+    },
+    {
+        "text": "month",
+        "top": 1071,
+        "left": 409,
+        "height": 29,
+        "width": 70
+    },
+    {
+        "text": "DESCRIPTION",
+        "top": 1134,
+        "left": 142,
+        "height": 26,
+        "width": 141
+    },
+    {
+        "text": "Ribbon",
+        "top": 1173,
+        "left": 157,
+        "height": 29,
+        "width": 76
+    },
+    {
+        "text": "Reel",
+        "top": 1173,
+        "left": 239,
+        "height": 29,
+        "width": 44
+    },
+    {
+        "text": "Hearts",
+        "top": 1173,
+        "left": 290,
+        "height": 29,
+        "width": 69
+    },
+    {
+        "text": "Design",
+        "top": 1173,
+        "left": 365,
+        "height": 29,
+        "width": 74
+    },
+    {
+        "text": "Party",
+        "top": 1224,
+        "left": 157,
+        "height": 29,
+        "width": 59
+    },
+    {
+        "text": "Bunting",
+        "top": 1224,
+        "left": 222,
+        "height": 29,
+        "width": 88
+    },
+    {
+        "text": "Kitchen",
+        "top": 1275,
+        "left": 157,
+        "height": 29,
+        "width": 83
+    },
+    {
+        "text": "Metal",
+        "top": 1275,
+        "left": 247,
+        "height": 29,
+        "width": 61
+    },
+    {
+        "text": "Sign",
+        "top": 1275,
+        "left": 315,
+        "height": 29,
+        "width": 47
+    },
+    {
+        "text": "Herb",
+        "top": 1325,
+        "left": 157,
+        "height": 29,
+        "width": 50
+    },
+    {
+        "text": "Marker",
+        "top": 1325,
+        "left": 213,
+        "height": 29,
+        "width": 81
+    },
+    {
+        "text": "Thyme",
+        "top": 1325,
+        "left": 300,
+        "height": 29,
+        "width": 77
+    },
+    {
+        "text": "Record",
+        "top": 1376,
+        "left": 157,
+        "height": 29,
+        "width": 73
+    },
+    {
+        "text": "Frame",
+        "top": 1376,
+        "left": 236,
+        "height": 29,
+        "width": 68
+    },
+    {
+        "text": "7\"",
+        "top": 1376,
+        "left": 309,
+        "height": 29,
+        "width": 20
+    },
+    {
+        "text": "Single",
+        "top": 1376,
+        "left": 335,
+        "height": 29,
+        "width": 68
+    },
+    {
+        "text": "Size",
+        "top": 1376,
+        "left": 409,
+        "height": 29,
+        "width": 45
+    },
+    {
+        "text": "Card",
+        "top": 1427,
+        "left": 157,
+        "height": 29,
+        "width": 50
+    },
+    {
+        "text": "Party",
+        "top": 1427,
+        "left": 213,
+        "height": 29,
+        "width": 59
+    },
+    {
+        "text": "Games",
+        "top": 1427,
+        "left": 279,
+        "height": 29,
+        "width": 71
+    },
+    {
+        "text": "Lunch",
+        "top": 1478,
+        "left": 157,
+        "height": 29,
+        "width": 68
+    },
+    {
+        "text": "Bag",
+        "top": 1478,
+        "left": 232,
+        "height": 29,
+        "width": 41
+    },
+    {
+        "text": "Black",
+        "top": 1478,
+        "left": 279,
+        "height": 29,
+        "width": 61
+    },
+    {
+        "text": "Skull.",
+        "top": 1478,
+        "left": 347,
+        "height": 29,
+        "width": 64
+    },
+    {
+        "text": "Remarks",
+        "top": 1538,
+        "left": 155,
+        "height": 29,
+        "width": 96
+    },
+    {
+        "text": "/",
+        "top": 1538,
+        "left": 256,
+        "height": 29,
+        "width": 8
+    },
+    {
+        "text": "Instructions:",
+        "top": 1538,
+        "left": 271,
+        "height": 29,
+        "width": 136
+    },
+    {
+        "text": "02/26/2011",
+        "top": 495,
+        "left": 1391,
+        "height": 26,
+        "width": 101
+    },
+    {
+        "text": "#853827",
+        "top": 577,
+        "left": 1403,
+        "height": 26,
+        "width": 78
+    },
+    {
+        "text": "7254210",
+        "top": 660,
+        "left": 1404,
+        "height": 26,
+        "width": 77
+    },
+    {
+        "text": "TOTAL",
+        "top": 1134,
+        "left": 1409,
+        "height": 26,
+        "width": 66
+    },
+    {
+        "text": "16.50",
+        "top": 1173,
+        "left": 1490,
+        "height": 29,
+        "width": 54
+    },
+    {
+        "text": "14.85",
+        "top": 1224,
+        "left": 1492,
+        "height": 29,
+        "width": 53
+    },
+    {
+        "text": "12.80",
+        "top": 1275,
+        "left": 1490,
+        "height": 29,
+        "width": 54
+    },
+    {
+        "text": "4.55",
+        "top": 1325,
+        "left": 1503,
+        "height": 29,
+        "width": 42
+    },
+    {
+        "text": "14.88",
+        "top": 1376,
+        "left": 1492,
+        "height": 29,
+        "width": 53
+    },
+    {
+        "text": "2.94",
+        "top": 1427,
+        "left": 1499,
+        "height": 29,
+        "width": 44
+    },
+    {
+        "text": "11.55",
+        "top": 1478,
+        "left": 1494,
+        "height": 29,
+        "width": 51
+    },
+    {
+        "text": "78.07",
+        "top": 1529,
+        "left": 1492,
+        "height": 29,
+        "width": 53
+    },
+    {
+        "text": "0.00",
+        "top": 1579,
+        "left": 1499,
+        "height": 29,
+        "width": 44
+    },
+    {
+        "text": "78.07",
+        "top": 1630,
+        "left": 1492,
+        "height": 29,
+        "width": 53
+    },
+    {
+        "text": "6.3%",
+        "top": 1681,
+        "left": 1497,
+        "height": 29,
+        "width": 47
+    },
+    {
+        "text": "4.92",
+        "top": 1732,
+        "left": 1499,
+        "height": 29,
+        "width": 44
+    },
+    {
+        "text": "2.09",
+        "top": 1783,
+        "left": 1499,
+        "height": 29,
+        "width": 44
+    },
+    {
+        "text": "$",
+        "top": 1884,
+        "left": 1475,
+        "height": 29,
+        "width": 12
+    },
+    {
+        "text": "85.08",
+        "top": 1884,
+        "left": 1492,
+        "height": 29,
+        "width": 53
+    },
+    {
+        "text": "SHIP",
+        "top": 743,
+        "left": 956,
+        "height": 26,
+        "width": 50
+    },
+    {
+        "text": "TO",
+        "top": 743,
+        "left": 1013,
+        "height": 26,
+        "width": 27
+    },
+    {
+        "text": "Laura",
+        "top": 776,
+        "left": 976,
+        "height": 29,
+        "width": 63
+    },
+    {
+        "text": "Wilcox",
+        "top": 776,
+        "left": 1046,
+        "height": 29,
+        "width": 79
+    },
+    {
+        "text": "Reyes",
+        "top": 817,
+        "left": 976,
+        "height": 29,
+        "width": 64
+    },
+    {
+        "text": "PLC",
+        "top": 817,
+        "left": 1046,
+        "height": 29,
+        "width": 42
+    },
+    {
+        "text": "979",
+        "top": 859,
+        "left": 976,
+        "height": 29,
+        "width": 36
+    },
+    {
+        "text": "Haas",
+        "top": 859,
+        "left": 1019,
+        "height": 29,
+        "width": 54
+    },
+    {
+        "text": "Glen",
+        "top": 859,
+        "left": 1080,
+        "height": 29,
+        "width": 47
+    },
+    {
+        "text": "Suite",
+        "top": 859,
+        "left": 1134,
+        "height": 29,
+        "width": 55
+    },
+    {
+        "text": "654",
+        "top": 859,
+        "left": 1194,
+        "height": 29,
+        "width": 36
+    },
+    {
+        "text": "Reynoldstown,",
+        "top": 900,
+        "left": 976,
+        "height": 29,
+        "width": 164
+    },
+    {
+        "text": "CT",
+        "top": 900,
+        "left": 1146,
+        "height": 29,
+        "width": 30
+    },
+    {
+        "text": "52260",
+        "top": 900,
+        "left": 1181,
+        "height": 29,
+        "width": 63
+    },
+    {
+        "text": "9804987591",
+        "top": 942,
+        "left": 976,
+        "height": 29,
+        "width": 121
+    },
+    {
+        "text": "SUBTOTAL",
+        "top": 1529,
+        "left": 1206,
+        "height": 26,
+        "width": 107
+    },
+    {
+        "text": "enter",
+        "top": 1578,
+        "left": 1002,
+        "height": 26,
+        "width": 52
+    },
+    {
+        "text": "total",
+        "top": 1578,
+        "left": 1061,
+        "height": 26,
+        "width": 43
+    },
+    {
+        "text": "amount",
+        "top": 1578,
+        "left": 1112,
+        "height": 26,
+        "width": 74
+    },
+    {
+        "text": "DISCOUNT",
+        "top": 1578,
+        "left": 1204,
+        "height": 26,
+        "width": 109
+    },
+    {
+        "text": "SUBTOTAL",
+        "top": 1629,
+        "left": 1034,
+        "height": 26,
+        "width": 107
+    },
+    {
+        "text": "LESS",
+        "top": 1629,
+        "left": 1147,
+        "height": 26,
+        "width": 50
+    },
+    {
+        "text": "DISCOUNT",
+        "top": 1629,
+        "left": 1204,
+        "height": 26,
+        "width": 109
+    },
+    {
+        "text": "enter",
+        "top": 1680,
+        "left": 1021,
+        "height": 26,
+        "width": 52
+    },
+    {
+        "text": "percentage",
+        "top": 1680,
+        "left": 1080,
+        "height": 26,
+        "width": 112
+    },
+    {
+        "text": "TAX",
+        "top": 1680,
+        "left": 1209,
+        "height": 26,
+        "width": 41
+    },
+    {
+        "text": "RATE",
+        "top": 1680,
+        "left": 1256,
+        "height": 26,
+        "width": 56
+    },
+    {
+        "text": "TOTAL",
+        "top": 1731,
+        "left": 1200,
+        "height": 26,
+        "width": 66
+    },
+    {
+        "text": "TAX",
+        "top": 1731,
+        "left": 1272,
+        "height": 26,
+        "width": 41
+    },
+    {
+        "text": "SHIPPING/HANDLING",
+        "top": 1781,
+        "left": 1093,
+        "height": 26,
+        "width": 220
+    },
+    {
+        "text": "OTHER",
+        "top": 1832,
+        "left": 1240,
+        "height": 26,
+        "width": 72
+    },
+    {
+        "text": "TOTAL",
+        "top": 1885,
+        "left": 1247,
+        "height": 26,
+        "width": 66
+    }
+]

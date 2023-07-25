@@ -1,0 +1,250 @@
+[
+    {
+        "tag": "buyer.bill.address",
+        "value": "8121 Dustin Ports Apt. 366\nHoganmouth, MN 54696",
+        "top": 599,
+        "left": 378,
+        "height": 91,
+        "width": 452
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Angela Davis",
+        "top": 434,
+        "left": 378,
+        "height": 57,
+        "width": 452
+    },
+    {
+        "tag": "buyer.bill.customer_id",
+        "value": "5502274",
+        "top": 545,
+        "left": 378,
+        "height": 53,
+        "width": 452
+    },
+    {
+        "tag": "buyer.bill.phone_number",
+        "value": "+30 6937 010622",
+        "top": 691,
+        "left": 378,
+        "height": 53,
+        "width": 452
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Williams, Allison and Wilcox",
+        "top": 491,
+        "left": 378,
+        "height": 53,
+        "width": 452
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Williams, Allison and Wilcox",
+        "top": 491,
+        "left": 1150,
+        "height": 53,
+        "width": 451
+    },
+    {
+        "tag": "buyer.shipment.address",
+        "value": "915 Moore Parkways\nNorth Nathaniel, IL 19312",
+        "top": 545,
+        "left": 1150,
+        "height": 91,
+        "width": 451
+    },
+    {
+        "tag": "buyer.shipment.contact",
+        "value": "Melissa Spears",
+        "top": 434,
+        "left": 1150,
+        "height": 57,
+        "width": 451
+    },
+    {
+        "tag": "buyer.shipment.phone_number",
+        "value": "(438)407-3207x62441",
+        "top": 637,
+        "left": 1150,
+        "height": 53,
+        "width": 451
+    },
+    {
+        "tag": "invoice_date",
+        "value": "12/06/2006",
+        "top": 143,
+        "left": 107,
+        "height": 40,
+        "width": 1517
+    },
+    {
+        "tag": "invoice_due_date",
+        "value": "-",
+        "top": 764,
+        "left": 378,
+        "height": 72,
+        "width": 452
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#524880",
+        "top": 268,
+        "left": 279,
+        "height": 57,
+        "width": 1345
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Cash next delivery",
+        "top": 891,
+        "left": 1150,
+        "height": 53,
+        "width": 451
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Cash next delivery",
+        "top": 891,
+        "left": 378,
+        "height": 53,
+        "width": 452
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Jumbo bag red retrospot",
+        "top": 1097,
+        "left": 318,
+        "height": 72,
+        "width": 591
+    },
+    {
+        "tag": "products.0.id",
+        "value": "2990",
+        "top": 1097,
+        "left": 182,
+        "height": 72,
+        "width": 135
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "1",
+        "top": 1097,
+        "left": 78,
+        "height": 72,
+        "width": 103
+    },
+    {
+        "tag": "products.0.total",
+        "value": "1.79",
+        "top": 1097,
+        "left": 1385,
+        "height": 72,
+        "width": 237
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "1.79",
+        "top": 1097,
+        "left": 910,
+        "height": 72,
+        "width": 236
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Cook with wine metal sign ",
+        "top": 1170,
+        "left": 318,
+        "height": 72,
+        "width": 591
+    },
+    {
+        "tag": "products.1.id",
+        "value": "7203",
+        "top": 1170,
+        "left": 182,
+        "height": 72,
+        "width": 135
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "2",
+        "top": 1170,
+        "left": 78,
+        "height": 72,
+        "width": 103
+    },
+    {
+        "tag": "products.1.total",
+        "value": "3.90",
+        "top": 1170,
+        "left": 1385,
+        "height": 72,
+        "width": 237
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "1.95",
+        "top": 1170,
+        "left": 910,
+        "height": 72,
+        "width": 236
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Marshall, Evans and Williams",
+        "top": 78,
+        "left": 107,
+        "height": 57,
+        "width": 1517
+    },
+    {
+        "tag": "seller.salesperson",
+        "value": "Stuart Gonzalez",
+        "top": 837,
+        "left": 378,
+        "height": 53,
+        "width": 452
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 5.24",
+        "top": 1865,
+        "left": 1385,
+        "height": 72,
+        "width": 237
+    },
+    {
+        "tag": "summary.discount",
+        "value": "0.72",
+        "top": 1608,
+        "left": 1385,
+        "height": 110,
+        "width": 237
+    },
+    {
+        "tag": "summary.shipping.method",
+        "value": "FedEx",
+        "top": 837,
+        "left": 1150,
+        "height": 53,
+        "width": 451
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "5.69",
+        "top": 1719,
+        "left": 1385,
+        "height": 72,
+        "width": 237
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "0.27",
+        "top": 1792,
+        "left": 1385,
+        "height": 72,
+        "width": 237
+    }
+]

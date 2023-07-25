@@ -1,0 +1,370 @@
+[
+    {
+        "tag": "buyer.bill.address.city",
+        "value": "South Haleybury, CA 54170",
+        "top": 498,
+        "left": 156,
+        "height": 101,
+        "width": 710
+    },
+    {
+        "tag": "buyer.bill.address.street",
+        "value": "02447 Dave Place",
+        "top": 475,
+        "left": 156,
+        "height": 23,
+        "width": 710
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Jonathan Hurst",
+        "top": 417,
+        "left": 156,
+        "height": 35,
+        "width": 710
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Arnold-Garcia",
+        "top": 452,
+        "left": 156,
+        "height": 23,
+        "width": 710
+    },
+    {
+        "tag": "invoice_date",
+        "value": "06 Oct, 1999",
+        "top": 356,
+        "left": 1381,
+        "height": 20,
+        "width": 162
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#738410",
+        "top": 335,
+        "left": 1439,
+        "height": 30,
+        "width": 104
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Payment terms: 21MFI",
+        "top": 1380,
+        "left": 156,
+        "height": 22,
+        "width": 1387
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Pink fairy cake childrens apron",
+        "top": 664,
+        "left": 156,
+        "height": 39,
+        "width": 708
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "9",
+        "top": 664,
+        "left": 865,
+        "height": 39,
+        "width": 220
+    },
+    {
+        "tag": "products.0.total",
+        "value": "17.55",
+        "top": 664,
+        "left": 1309,
+        "height": 39,
+        "width": 232
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "1.95",
+        "top": 664,
+        "left": 1086,
+        "height": 39,
+        "width": 222
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Felt egg cosy white rabbit ",
+        "top": 712,
+        "left": 156,
+        "height": 22,
+        "width": 708
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "9",
+        "top": 704,
+        "left": 865,
+        "height": 39,
+        "width": 220
+    },
+    {
+        "tag": "products.1.total",
+        "value": "7.65",
+        "top": 704,
+        "left": 1309,
+        "height": 39,
+        "width": 232
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "0.85",
+        "top": 704,
+        "left": 1086,
+        "height": 39,
+        "width": 222
+    },
+    {
+        "tag": "products.2.description",
+        "value": "Hanging heart zinc t-light holder",
+        "top": 744,
+        "left": 156,
+        "height": 38,
+        "width": 708
+    },
+    {
+        "tag": "products.2.quantity",
+        "value": "3",
+        "top": 744,
+        "left": 865,
+        "height": 38,
+        "width": 220
+    },
+    {
+        "tag": "products.2.total",
+        "value": "2.55",
+        "top": 744,
+        "left": 1309,
+        "height": 38,
+        "width": 232
+    },
+    {
+        "tag": "products.2.unit_price",
+        "value": "0.85",
+        "top": 744,
+        "left": 1086,
+        "height": 38,
+        "width": 222
+    },
+    {
+        "tag": "products.3.description",
+        "value": "Easter tin bunny bouquet",
+        "top": 783,
+        "left": 156,
+        "height": 39,
+        "width": 708
+    },
+    {
+        "tag": "products.3.quantity",
+        "value": "9",
+        "top": 783,
+        "left": 865,
+        "height": 39,
+        "width": 220
+    },
+    {
+        "tag": "products.3.total",
+        "value": "14.85",
+        "top": 783,
+        "left": 1309,
+        "height": 39,
+        "width": 232
+    },
+    {
+        "tag": "products.3.unit_price",
+        "value": "1.65",
+        "top": 783,
+        "left": 1086,
+        "height": 39,
+        "width": 222
+    },
+    {
+        "tag": "products.4.description",
+        "value": "Strawberry lunch box with cutlery",
+        "top": 823,
+        "left": 156,
+        "height": 39,
+        "width": 708
+    },
+    {
+        "tag": "products.4.quantity",
+        "value": "9",
+        "top": 823,
+        "left": 865,
+        "height": 39,
+        "width": 220
+    },
+    {
+        "tag": "products.4.total",
+        "value": "22.95",
+        "top": 823,
+        "left": 1309,
+        "height": 39,
+        "width": 232
+    },
+    {
+        "tag": "products.4.unit_price",
+        "value": "2.55",
+        "top": 823,
+        "left": 1086,
+        "height": 39,
+        "width": 222
+    },
+    {
+        "tag": "products.5.description",
+        "value": "Milk bottle with glass stopper ",
+        "top": 863,
+        "left": 156,
+        "height": 38,
+        "width": 708
+    },
+    {
+        "tag": "products.5.quantity",
+        "value": "3",
+        "top": 863,
+        "left": 865,
+        "height": 38,
+        "width": 220
+    },
+    {
+        "tag": "products.5.total",
+        "value": "20.85",
+        "top": 863,
+        "left": 1309,
+        "height": 38,
+        "width": 232
+    },
+    {
+        "tag": "products.5.unit_price",
+        "value": "6.95",
+        "top": 863,
+        "left": 1086,
+        "height": 38,
+        "width": 222
+    },
+    {
+        "tag": "products.6.description",
+        "value": "Regency cakestand 3 tier",
+        "top": 902,
+        "left": 156,
+        "height": 39,
+        "width": 708
+    },
+    {
+        "tag": "products.6.quantity",
+        "value": "8",
+        "top": 902,
+        "left": 865,
+        "height": 39,
+        "width": 220
+    },
+    {
+        "tag": "products.6.total",
+        "value": "102.00",
+        "top": 902,
+        "left": 1309,
+        "height": 39,
+        "width": 232
+    },
+    {
+        "tag": "products.6.unit_price",
+        "value": "12.75",
+        "top": 902,
+        "left": 1086,
+        "height": 39,
+        "width": 222
+    },
+    {
+        "tag": "products.7.description",
+        "value": "Set of 6 kashmir folkart baubles",
+        "top": 942,
+        "left": 156,
+        "height": 38,
+        "width": 708
+    },
+    {
+        "tag": "products.7.quantity",
+        "value": "4",
+        "top": 942,
+        "left": 865,
+        "height": 38,
+        "width": 220
+    },
+    {
+        "tag": "products.7.total",
+        "value": "17.00",
+        "top": 942,
+        "left": 1309,
+        "height": 38,
+        "width": 232
+    },
+    {
+        "tag": "products.7.unit_price",
+        "value": "4.25",
+        "top": 942,
+        "left": 1086,
+        "height": 38,
+        "width": 222
+    },
+    {
+        "tag": "seller.address.city",
+        "value": "South Jacquelinebury, MS 95850",
+        "top": 260,
+        "left": 156,
+        "height": 24,
+        "width": 712
+    },
+    {
+        "tag": "seller.address.street",
+        "value": "747 Hendricks Junctions",
+        "top": 223,
+        "left": 156,
+        "height": 37,
+        "width": 712
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Leach Inc",
+        "top": 156,
+        "left": 156,
+        "height": 31,
+        "width": 712
+    },
+    {
+        "tag": "seller.company.slogan",
+        "value": "Face-to-face next generation capacity",
+        "top": 187,
+        "left": 156,
+        "height": 36,
+        "width": 712
+    },
+    {
+        "tag": "seller.fax_number",
+        "value": "+48 572 328 688",
+        "top": 283,
+        "left": 440,
+        "height": 22,
+        "width": 428
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "(856)296-4823",
+        "top": 283,
+        "left": 236,
+        "height": 22,
+        "width": 167
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 240.73",
+        "top": 1338,
+        "left": 1309,
+        "height": 39,
+        "width": 232
+    }
+]

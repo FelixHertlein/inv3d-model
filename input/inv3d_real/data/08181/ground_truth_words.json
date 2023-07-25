@@ -1,0 +1,667 @@
+[
+    {
+        "text": "Snyder,",
+        "top": 165,
+        "left": 92,
+        "height": 45,
+        "width": 113
+    },
+    {
+        "text": "Hammond",
+        "top": 165,
+        "left": 215,
+        "height": 45,
+        "width": 166
+    },
+    {
+        "text": "and",
+        "top": 165,
+        "left": 390,
+        "height": 45,
+        "width": 58
+    },
+    {
+        "text": "Anderson",
+        "top": 165,
+        "left": 457,
+        "height": 45,
+        "width": 150
+    },
+    {
+        "text": "765",
+        "top": 210,
+        "left": 92,
+        "height": 45,
+        "width": 57
+    },
+    {
+        "text": "Ruth",
+        "top": 210,
+        "left": 159,
+        "height": 45,
+        "width": 71
+    },
+    {
+        "text": "Harbors",
+        "top": 210,
+        "left": 238,
+        "height": 45,
+        "width": 126
+    },
+    {
+        "text": "Lynnmouth,",
+        "top": 250,
+        "left": 92,
+        "height": 45,
+        "width": 182
+    },
+    {
+        "text": "NM",
+        "top": 250,
+        "left": 284,
+        "height": 45,
+        "width": 53
+    },
+    {
+        "text": "46135",
+        "top": 250,
+        "left": 346,
+        "height": 45,
+        "width": 90
+    },
+    {
+        "text": "+48",
+        "top": 308,
+        "left": 92,
+        "height": 45,
+        "width": 52
+    },
+    {
+        "text": "880",
+        "top": 308,
+        "left": 153,
+        "height": 45,
+        "width": 57
+    },
+    {
+        "text": "467",
+        "top": 308,
+        "left": 219,
+        "height": 45,
+        "width": 57
+    },
+    {
+        "text": "751",
+        "top": 308,
+        "left": 286,
+        "height": 45,
+        "width": 51
+    },
+    {
+        "text": "katherineterrell@lynch-hutchinson.org",
+        "top": 373,
+        "left": 92,
+        "height": 45,
+        "width": 582
+    },
+    {
+        "text": "barnett.com",
+        "top": 423,
+        "left": 92,
+        "height": 45,
+        "width": 186
+    },
+    {
+        "text": "Clark-Williams",
+        "top": 165,
+        "left": 1387,
+        "height": 45,
+        "width": 220
+    },
+    {
+        "text": "Daniel",
+        "top": 229,
+        "left": 1339,
+        "height": 45,
+        "width": 94
+    },
+    {
+        "text": "Thompson",
+        "top": 229,
+        "left": 1441,
+        "height": 45,
+        "width": 169
+    },
+    {
+        "text": "8601",
+        "top": 290,
+        "left": 1333,
+        "height": 45,
+        "width": 74
+    },
+    {
+        "text": "Gibbs",
+        "top": 290,
+        "left": 1416,
+        "height": 45,
+        "width": 86
+    },
+    {
+        "text": "Fields",
+        "top": 290,
+        "left": 1512,
+        "height": 45,
+        "width": 88
+    },
+    {
+        "text": "Johnsonstad,",
+        "top": 329,
+        "left": 1247,
+        "height": 45,
+        "width": 205
+    },
+    {
+        "text": "AK",
+        "top": 329,
+        "left": 1462,
+        "height": 45,
+        "width": 44
+    },
+    {
+        "text": "78644",
+        "top": 329,
+        "left": 1514,
+        "height": 45,
+        "width": 95
+    },
+    {
+        "text": "+972",
+        "top": 373,
+        "left": 1372,
+        "height": 45,
+        "width": 69
+    },
+    {
+        "text": "4",
+        "top": 373,
+        "left": 1449,
+        "height": 45,
+        "width": 18
+    },
+    {
+        "text": "241",
+        "top": 373,
+        "left": 1476,
+        "height": 45,
+        "width": 49
+    },
+    {
+        "text": "3359",
+        "top": 373,
+        "left": 1535,
+        "height": 45,
+        "width": 75
+    },
+    {
+        "text": "kimthomas@foster-edwards.com",
+        "top": 423,
+        "left": 1097,
+        "height": 45,
+        "width": 511
+    },
+    {
+        "text": "Invoice",
+        "top": 569,
+        "left": 111,
+        "height": 45,
+        "width": 111
+    },
+    {
+        "text": "Number:",
+        "top": 569,
+        "left": 229,
+        "height": 45,
+        "width": 135
+    },
+    {
+        "text": "#308044",
+        "top": 569,
+        "left": 423,
+        "height": 45,
+        "width": 138
+    },
+    {
+        "text": "Issue",
+        "top": 569,
+        "left": 636,
+        "height": 45,
+        "width": 81
+    },
+    {
+        "text": "Date:",
+        "top": 569,
+        "left": 726,
+        "height": 45,
+        "width": 77
+    },
+    {
+        "text": "2002-06-28",
+        "top": 569,
+        "left": 885,
+        "height": 45,
+        "width": 181
+    },
+    {
+        "text": "Expiry",
+        "top": 569,
+        "left": 1145,
+        "height": 45,
+        "width": 94
+    },
+    {
+        "text": "Date:",
+        "top": 569,
+        "left": 1249,
+        "height": 45,
+        "width": 77
+    },
+    {
+        "text": "-",
+        "top": 569,
+        "left": 1486,
+        "height": 45,
+        "width": 13
+    },
+    {
+        "text": "Item",
+        "top": 731,
+        "left": 149,
+        "height": 45,
+        "width": 67
+    },
+    {
+        "text": "#",
+        "top": 731,
+        "left": 226,
+        "height": 45,
+        "width": 22
+    },
+    {
+        "text": "Description",
+        "top": 731,
+        "left": 501,
+        "height": 45,
+        "width": 173
+    },
+    {
+        "text": "Quantity",
+        "top": 731,
+        "left": 908,
+        "height": 45,
+        "width": 128
+    },
+    {
+        "text": "Unit",
+        "top": 731,
+        "left": 1145,
+        "height": 45,
+        "width": 61
+    },
+    {
+        "text": "Price",
+        "top": 731,
+        "left": 1213,
+        "height": 45,
+        "width": 77
+    },
+    {
+        "text": "1866",
+        "top": 818,
+        "left": 163,
+        "height": 45,
+        "width": 74
+    },
+    {
+        "text": "5239",
+        "top": 908,
+        "left": 164,
+        "height": 45,
+        "width": 73
+    },
+    {
+        "text": "7172",
+        "top": 995,
+        "left": 166,
+        "height": 45,
+        "width": 69
+    },
+    {
+        "text": "4955",
+        "top": 1083,
+        "left": 163,
+        "height": 45,
+        "width": 74
+    },
+    {
+        "text": "8313",
+        "top": 1170,
+        "left": 165,
+        "height": 45,
+        "width": 69
+    },
+    {
+        "text": "Set",
+        "top": 818,
+        "left": 344,
+        "height": 45,
+        "width": 50
+    },
+    {
+        "text": "12",
+        "top": 818,
+        "left": 402,
+        "height": 45,
+        "width": 31
+    },
+    {
+        "text": "Colour",
+        "top": 818,
+        "left": 442,
+        "height": 45,
+        "width": 105
+    },
+    {
+        "text": "Pencils",
+        "top": 818,
+        "left": 556,
+        "height": 45,
+        "width": 107
+    },
+    {
+        "text": "Spaceboy",
+        "top": 818,
+        "left": 673,
+        "height": 45,
+        "width": 157
+    },
+    {
+        "text": "Red",
+        "top": 908,
+        "left": 367,
+        "height": 45,
+        "width": 60
+    },
+    {
+        "text": "Retrospot",
+        "top": 908,
+        "left": 435,
+        "height": 45,
+        "width": 152
+    },
+    {
+        "text": "Charlotte",
+        "top": 908,
+        "left": 596,
+        "height": 45,
+        "width": 142
+    },
+    {
+        "text": "Bag",
+        "top": 908,
+        "left": 746,
+        "height": 45,
+        "width": 62
+    },
+    {
+        "text": "Spaceboy",
+        "top": 995,
+        "left": 394,
+        "height": 45,
+        "width": 157
+    },
+    {
+        "text": "Mini",
+        "top": 995,
+        "left": 560,
+        "height": 45,
+        "width": 61
+    },
+    {
+        "text": "Backpack",
+        "top": 995,
+        "left": 629,
+        "height": 45,
+        "width": 152
+    },
+    {
+        "text": "Set",
+        "top": 1083,
+        "left": 371,
+        "height": 45,
+        "width": 50
+    },
+    {
+        "text": "Of",
+        "top": 1083,
+        "left": 429,
+        "height": 45,
+        "width": 35
+    },
+    {
+        "text": "4",
+        "top": 1083,
+        "left": 473,
+        "height": 45,
+        "width": 18
+    },
+    {
+        "text": "Pantry",
+        "top": 1083,
+        "left": 500,
+        "height": 45,
+        "width": 99
+    },
+    {
+        "text": "Jelly",
+        "top": 1083,
+        "left": 608,
+        "height": 45,
+        "width": 69
+    },
+    {
+        "text": "Moulds",
+        "top": 1083,
+        "left": 687,
+        "height": 45,
+        "width": 115
+    },
+    {
+        "text": "Heart",
+        "top": 1170,
+        "left": 416,
+        "height": 45,
+        "width": 86
+    },
+    {
+        "text": "Of",
+        "top": 1170,
+        "left": 509,
+        "height": 45,
+        "width": 35
+    },
+    {
+        "text": "Wicker",
+        "top": 1170,
+        "left": 553,
+        "height": 45,
+        "width": 107
+    },
+    {
+        "text": "Large",
+        "top": 1170,
+        "left": 670,
+        "height": 45,
+        "width": 90
+    },
+    {
+        "text": "10",
+        "top": 818,
+        "left": 955,
+        "height": 45,
+        "width": 34
+    },
+    {
+        "text": "4",
+        "top": 908,
+        "left": 963,
+        "height": 45,
+        "width": 18
+    },
+    {
+        "text": "2",
+        "top": 995,
+        "left": 964,
+        "height": 45,
+        "width": 17
+    },
+    {
+        "text": "10",
+        "top": 1083,
+        "left": 955,
+        "height": 45,
+        "width": 34
+    },
+    {
+        "text": "7",
+        "top": 1170,
+        "left": 963,
+        "height": 45,
+        "width": 17
+    },
+    {
+        "text": "0.65",
+        "top": 818,
+        "left": 1184,
+        "height": 45,
+        "width": 65
+    },
+    {
+        "text": "0.85",
+        "top": 908,
+        "left": 1185,
+        "height": 45,
+        "width": 63
+    },
+    {
+        "text": "4.15",
+        "top": 995,
+        "left": 1188,
+        "height": 45,
+        "width": 57
+    },
+    {
+        "text": "2.46",
+        "top": 1083,
+        "left": 1186,
+        "height": 45,
+        "width": 61
+    },
+    {
+        "text": "2.95",
+        "top": 1170,
+        "left": 1187,
+        "height": 45,
+        "width": 59
+    },
+    {
+        "text": "Total",
+        "top": 731,
+        "left": 1446,
+        "height": 45,
+        "width": 75
+    },
+    {
+        "text": "6.50",
+        "top": 818,
+        "left": 1451,
+        "height": 45,
+        "width": 66
+    },
+    {
+        "text": "3.40",
+        "top": 908,
+        "left": 1452,
+        "height": 45,
+        "width": 63
+    },
+    {
+        "text": "8.30",
+        "top": 995,
+        "left": 1452,
+        "height": 45,
+        "width": 63
+    },
+    {
+        "text": "24.60",
+        "top": 1083,
+        "left": 1442,
+        "height": 45,
+        "width": 82
+    },
+    {
+        "text": "20.65",
+        "top": 1170,
+        "left": 1442,
+        "height": 45,
+        "width": 82
+    },
+    {
+        "text": "Subtotal",
+        "top": 1551,
+        "left": 1197,
+        "height": 45,
+        "width": 131
+    },
+    {
+        "text": "Tax",
+        "top": 1601,
+        "left": 1276,
+        "height": 45,
+        "width": 52
+    },
+    {
+        "text": "63.45",
+        "top": 1551,
+        "left": 1443,
+        "height": 45,
+        "width": 82
+    },
+    {
+        "text": "5.77",
+        "top": 1601,
+        "left": 1454,
+        "height": 45,
+        "width": 61
+    },
+    {
+        "text": "TOTAL",
+        "top": 1696,
+        "left": 1160,
+        "height": 74,
+        "width": 168
+    },
+    {
+        "text": "$",
+        "top": 1714,
+        "left": 1358,
+        "height": 45,
+        "width": 20
+    },
+    {
+        "text": "69.22",
+        "top": 1714,
+        "left": 1387,
+        "height": 45,
+        "width": 79
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "tag": "buyer.bill.address.city",
+        "value": "Port Michaelside, HI 50543",
+        "top": 485,
+        "left": 134,
+        "height": 93,
+        "width": 730
+    },
+    {
+        "tag": "buyer.bill.address.street",
+        "value": "3292 Conner Way Suite 853",
+        "top": 460,
+        "left": 134,
+        "height": 25,
+        "width": 730
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Kelly Smith",
+        "top": 399,
+        "left": 134,
+        "height": 36,
+        "width": 730
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Sanford-Smith",
+        "top": 435,
+        "left": 134,
+        "height": 25,
+        "width": 730
+    },
+    {
+        "tag": "invoice_date",
+        "value": "06/03/1994",
+        "top": 331,
+        "left": 1416,
+        "height": 22,
+        "width": 149
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#873375",
+        "top": 308,
+        "left": 1447,
+        "height": 22,
+        "width": 118
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Payment: Bill of exchange",
+        "top": 1360,
+        "left": 134,
+        "height": 25,
+        "width": 1431
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Woodland Charlotte Bag",
+        "top": 646,
+        "left": 134,
+        "height": 38,
+        "width": 723
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "10",
+        "top": 646,
+        "left": 858,
+        "height": 38,
+        "width": 233
+    },
+    {
+        "tag": "products.0.total",
+        "value": "7.20",
+        "top": 646,
+        "left": 1323,
+        "height": 38,
+        "width": 241
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "0.72",
+        "top": 646,
+        "left": 1092,
+        "height": 38,
+        "width": 230
+    },
+    {
+        "tag": "seller.address.city",
+        "value": "West Ryan, IL 39483",
+        "top": 246,
+        "left": 134,
+        "height": 26,
+        "width": 727
+    },
+    {
+        "tag": "seller.address.street",
+        "value": "89311 Alexander Village Suite 959",
+        "top": 207,
+        "left": 134,
+        "height": 39,
+        "width": 727
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Thompson Ltd",
+        "top": 133,
+        "left": 134,
+        "height": 36,
+        "width": 727
+    },
+    {
+        "tag": "seller.company.slogan",
+        "value": "Operative non-volatile concept",
+        "top": 169,
+        "left": 134,
+        "height": 38,
+        "width": 727
+    },
+    {
+        "tag": "seller.fax_number",
+        "value": "1-402-448-6325x048",
+        "top": 271,
+        "left": 466,
+        "height": 24,
+        "width": 395
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+91 252 8276816",
+        "top": 271,
+        "left": 219,
+        "height": 24,
+        "width": 209
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 8.09",
+        "top": 1319,
+        "left": 1323,
+        "height": 38,
+        "width": 241
+    }
+]

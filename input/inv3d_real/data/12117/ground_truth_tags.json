@@ -1,0 +1,330 @@
+[
+    {
+        "tag": "buyer.bill.address",
+        "value": "04688 Kevin Ford Apt. 634\nNew Katie, VT 58714",
+        "top": 372,
+        "left": 849,
+        "height": 82,
+        "width": 703
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Alex Fleming",
+        "top": 289,
+        "left": 849,
+        "height": 82,
+        "width": 703
+    },
+    {
+        "tag": "buyer.bill.email",
+        "value": "brookeanderson@peterson-powers.biz",
+        "top": 505,
+        "left": 849,
+        "height": 49,
+        "width": 703
+    },
+    {
+        "tag": "buyer.bill.phone_number",
+        "value": "+918452663186",
+        "top": 455,
+        "left": 849,
+        "height": 49,
+        "width": 703
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Olson-Sandoval",
+        "top": 239,
+        "left": 849,
+        "height": 49,
+        "width": 703
+    },
+    {
+        "tag": "invoice_date",
+        "value": "11/16/1999",
+        "top": 639,
+        "left": 843,
+        "height": 78,
+        "width": 236
+    },
+    {
+        "tag": "invoice_due_date",
+        "value": "12/16/1999",
+        "top": 639,
+        "left": 1313,
+        "height": 78,
+        "width": 237
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#69072",
+        "top": 639,
+        "left": 432,
+        "height": 78,
+        "width": 181
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Ivory kitchen scales",
+        "top": 891,
+        "left": 370,
+        "height": 86,
+        "width": 463
+    },
+    {
+        "tag": "products.0.id",
+        "value": "8004",
+        "top": 891,
+        "left": 147,
+        "height": 86,
+        "width": 222
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "1",
+        "top": 891,
+        "left": 834,
+        "height": 86,
+        "width": 222
+    },
+    {
+        "tag": "products.0.total",
+        "value": "8.50",
+        "top": 891,
+        "left": 1292,
+        "height": 86,
+        "width": 260
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "8.50",
+        "top": 891,
+        "left": 1057,
+        "height": 86,
+        "width": 234
+    },
+    {
+        "tag": "products.1.description",
+        "value": "French paisley cushion cover ",
+        "top": 978,
+        "left": 370,
+        "height": 87,
+        "width": 463
+    },
+    {
+        "tag": "products.1.id",
+        "value": "1033",
+        "top": 978,
+        "left": 147,
+        "height": 87,
+        "width": 222
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "5",
+        "top": 978,
+        "left": 834,
+        "height": 87,
+        "width": 222
+    },
+    {
+        "tag": "products.1.total",
+        "value": "16.45",
+        "top": 978,
+        "left": 1292,
+        "height": 87,
+        "width": 260
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "3.29",
+        "top": 978,
+        "left": 1057,
+        "height": 87,
+        "width": 234
+    },
+    {
+        "tag": "products.2.description",
+        "value": "Sweet heart cake carrier",
+        "top": 1066,
+        "left": 370,
+        "height": 86,
+        "width": 463
+    },
+    {
+        "tag": "products.2.id",
+        "value": "3992",
+        "top": 1066,
+        "left": 147,
+        "height": 86,
+        "width": 222
+    },
+    {
+        "tag": "products.2.quantity",
+        "value": "9",
+        "top": 1066,
+        "left": 834,
+        "height": 86,
+        "width": 222
+    },
+    {
+        "tag": "products.2.total",
+        "value": "89.55",
+        "top": 1066,
+        "left": 1292,
+        "height": 86,
+        "width": 260
+    },
+    {
+        "tag": "products.2.unit_price",
+        "value": "9.95",
+        "top": 1066,
+        "left": 1057,
+        "height": 86,
+        "width": 234
+    },
+    {
+        "tag": "products.3.description",
+        "value": "Watering can blue elephant",
+        "top": 1153,
+        "left": 370,
+        "height": 86,
+        "width": 463
+    },
+    {
+        "tag": "products.3.id",
+        "value": "6429",
+        "top": 1153,
+        "left": 147,
+        "height": 86,
+        "width": 222
+    },
+    {
+        "tag": "products.3.quantity",
+        "value": "9",
+        "top": 1153,
+        "left": 834,
+        "height": 86,
+        "width": 222
+    },
+    {
+        "tag": "products.3.total",
+        "value": "17.55",
+        "top": 1153,
+        "left": 1292,
+        "height": 86,
+        "width": 260
+    },
+    {
+        "tag": "products.3.unit_price",
+        "value": "1.95",
+        "top": 1153,
+        "left": 1057,
+        "height": 86,
+        "width": 234
+    },
+    {
+        "tag": "products.4.description",
+        "value": "Doormat multicolour stripe",
+        "top": 1240,
+        "left": 370,
+        "height": 87,
+        "width": 463
+    },
+    {
+        "tag": "products.4.id",
+        "value": "8023",
+        "top": 1240,
+        "left": 147,
+        "height": 87,
+        "width": 222
+    },
+    {
+        "tag": "products.4.quantity",
+        "value": "4",
+        "top": 1240,
+        "left": 834,
+        "height": 87,
+        "width": 222
+    },
+    {
+        "tag": "products.4.total",
+        "value": "57.72",
+        "top": 1240,
+        "left": 1292,
+        "height": 87,
+        "width": 260
+    },
+    {
+        "tag": "products.4.unit_price",
+        "value": "14.43",
+        "top": 1240,
+        "left": 1057,
+        "height": 87,
+        "width": 234
+    },
+    {
+        "tag": "seller.address",
+        "value": "16482 James Ports Suite 005\nHendricksburgh, CT 62202",
+        "top": 289,
+        "left": 147,
+        "height": 82,
+        "width": 701
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Smith Ltd",
+        "top": 239,
+        "left": 147,
+        "height": 49,
+        "width": 701
+    },
+    {
+        "tag": "seller.email",
+        "value": "mmitchell@moore.org",
+        "top": 455,
+        "left": 147,
+        "height": 49,
+        "width": 701
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+34 705358093",
+        "top": 372,
+        "left": 147,
+        "height": 82,
+        "width": 701
+    },
+    {
+        "tag": "seller.website",
+        "value": "carter.biz",
+        "top": 505,
+        "left": 147,
+        "height": 49,
+        "width": 701
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 225.07",
+        "top": 1790,
+        "left": 1292,
+        "height": 76,
+        "width": 260
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "189.77",
+        "top": 1640,
+        "left": 1292,
+        "height": 49,
+        "width": 260
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "35.30",
+        "top": 1690,
+        "left": 1292,
+        "height": 49,
+        "width": 260
+    }
+]

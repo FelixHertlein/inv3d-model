@@ -1,0 +1,20 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_47.htm",
+        "logo": "logos/LLD-logo-files/vaudoise.png",
+        "font": "fonts/Roboto_Slab/RobotoSlab-ExtraLight.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#3B3838": "#38383b",
+            "#C1C1C1": "#c1c1c1",
+            "#002060": "#300060"
+        },
+        "font_scale": 1.0263156724715445,
+        "margin": 19
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/9C4A2789-4aa46ff9fc.exr",
+        "mesh": "meshes/objs/C/1/1_546_5.obj",
+        "resolution": 1600
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_47.htm",
+        "logo": "logos/LLD-logo-files/definicionabc.png",
+        "font": "fonts/Roboto_Slab/RobotoSlab-Black.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#3B3838": "#38383b",
+            "#C1C1C1": "#c1c1c1",
+            "#002060": "#600007"
+        },
+        "font_scale": 1.1670281535151297,
+        "margin": 10
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/9C4A8214-62124c8576.exr",
+        "mesh": "meshes/objs/P/537_5.obj",
+        "resolution": 1600
+    }
+}

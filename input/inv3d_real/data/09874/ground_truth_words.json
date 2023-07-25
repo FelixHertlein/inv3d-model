@@ -1,0 +1,793 @@
+[
+    {
+        "text": "MARSHALL,",
+        "top": 61,
+        "left": 107,
+        "height": 82,
+        "width": 380
+    },
+    {
+        "text": "EVANS",
+        "top": 61,
+        "left": 503,
+        "height": 82,
+        "width": 220
+    },
+    {
+        "text": "AND",
+        "top": 61,
+        "left": 741,
+        "height": 82,
+        "width": 149
+    },
+    {
+        "text": "WILLIAMS",
+        "top": 61,
+        "left": 908,
+        "height": 82,
+        "width": 328
+    },
+    {
+        "text": "12/06/2006",
+        "top": 135,
+        "left": 107,
+        "height": 51,
+        "width": 216
+    },
+    {
+        "text": "INVOICE",
+        "top": 264,
+        "left": 77,
+        "height": 60,
+        "width": 204
+    },
+    {
+        "text": "#524880",
+        "top": 264,
+        "left": 294,
+        "height": 60,
+        "width": 203
+    },
+    {
+        "text": "Bill",
+        "top": 375,
+        "left": 99,
+        "height": 38,
+        "width": 47
+    },
+    {
+        "text": "To",
+        "top": 375,
+        "left": 156,
+        "height": 38,
+        "width": 33
+    },
+    {
+        "text": "Customer",
+        "top": 450,
+        "left": 99,
+        "height": 38,
+        "width": 149
+    },
+    {
+        "text": "Customer",
+        "top": 542,
+        "left": 99,
+        "height": 38,
+        "width": 149
+    },
+    {
+        "text": "ID#",
+        "top": 542,
+        "left": 258,
+        "height": 38,
+        "width": 54
+    },
+    {
+        "text": "Address",
+        "top": 596,
+        "left": 99,
+        "height": 38,
+        "width": 123
+    },
+    {
+        "text": "Phone",
+        "top": 688,
+        "left": 99,
+        "height": 38,
+        "width": 99
+    },
+    {
+        "text": "Angela",
+        "top": 450,
+        "left": 377,
+        "height": 38,
+        "width": 107
+    },
+    {
+        "text": "Davis",
+        "top": 450,
+        "left": 491,
+        "height": 38,
+        "width": 81
+    },
+    {
+        "text": "Williams,",
+        "top": 488,
+        "left": 377,
+        "height": 38,
+        "width": 135
+    },
+    {
+        "text": "Allison",
+        "top": 488,
+        "left": 521,
+        "height": 38,
+        "width": 99
+    },
+    {
+        "text": "and",
+        "top": 488,
+        "left": 629,
+        "height": 38,
+        "width": 57
+    },
+    {
+        "text": "Wilcox",
+        "top": 488,
+        "left": 696,
+        "height": 38,
+        "width": 101
+    },
+    {
+        "text": "5502274",
+        "top": 542,
+        "left": 377,
+        "height": 38,
+        "width": 119
+    },
+    {
+        "text": "8121",
+        "top": 596,
+        "left": 377,
+        "height": 38,
+        "width": 56
+    },
+    {
+        "text": "Dustin",
+        "top": 596,
+        "left": 441,
+        "height": 38,
+        "width": 101
+    },
+    {
+        "text": "Ports",
+        "top": 596,
+        "left": 552,
+        "height": 38,
+        "width": 79
+    },
+    {
+        "text": "Apt.",
+        "top": 596,
+        "left": 639,
+        "height": 38,
+        "width": 60
+    },
+    {
+        "text": "366",
+        "top": 596,
+        "left": 708,
+        "height": 38,
+        "width": 53
+    },
+    {
+        "text": "Hoganmouth,",
+        "top": 634,
+        "left": 377,
+        "height": 38,
+        "width": 212
+    },
+    {
+        "text": "MN",
+        "top": 634,
+        "left": 598,
+        "height": 38,
+        "width": 53
+    },
+    {
+        "text": "54696",
+        "top": 634,
+        "left": 660,
+        "height": 38,
+        "width": 91
+    },
+    {
+        "text": "+30",
+        "top": 688,
+        "left": 377,
+        "height": 38,
+        "width": 53
+    },
+    {
+        "text": "6937",
+        "top": 688,
+        "left": 437,
+        "height": 38,
+        "width": 71
+    },
+    {
+        "text": "010622",
+        "top": 688,
+        "left": 516,
+        "height": 38,
+        "width": 100
+    },
+    {
+        "text": "Ship",
+        "top": 375,
+        "left": 873,
+        "height": 38,
+        "width": 68
+    },
+    {
+        "text": "To",
+        "top": 375,
+        "left": 950,
+        "height": 38,
+        "width": 33
+    },
+    {
+        "text": "Recipient",
+        "top": 450,
+        "left": 873,
+        "height": 38,
+        "width": 145
+    },
+    {
+        "text": "Address",
+        "top": 542,
+        "left": 873,
+        "height": 38,
+        "width": 123
+    },
+    {
+        "text": "Phone",
+        "top": 634,
+        "left": 873,
+        "height": 38,
+        "width": 99
+    },
+    {
+        "text": "Melissa",
+        "top": 450,
+        "left": 1148,
+        "height": 38,
+        "width": 111
+    },
+    {
+        "text": "Spears",
+        "top": 450,
+        "left": 1267,
+        "height": 38,
+        "width": 102
+    },
+    {
+        "text": "Williams,",
+        "top": 488,
+        "left": 1148,
+        "height": 38,
+        "width": 135
+    },
+    {
+        "text": "Allison",
+        "top": 488,
+        "left": 1292,
+        "height": 38,
+        "width": 99
+    },
+    {
+        "text": "and",
+        "top": 488,
+        "left": 1401,
+        "height": 38,
+        "width": 57
+    },
+    {
+        "text": "Wilcox",
+        "top": 488,
+        "left": 1467,
+        "height": 38,
+        "width": 101
+    },
+    {
+        "text": "915",
+        "top": 542,
+        "left": 1148,
+        "height": 38,
+        "width": 46
+    },
+    {
+        "text": "Moore",
+        "top": 542,
+        "left": 1202,
+        "height": 38,
+        "width": 97
+    },
+    {
+        "text": "Parkways",
+        "top": 542,
+        "left": 1309,
+        "height": 38,
+        "width": 143
+    },
+    {
+        "text": "North",
+        "top": 580,
+        "left": 1148,
+        "height": 38,
+        "width": 88
+    },
+    {
+        "text": "Nathaniel,",
+        "top": 580,
+        "left": 1246,
+        "height": 38,
+        "width": 154
+    },
+    {
+        "text": "IL",
+        "top": 580,
+        "left": 1409,
+        "height": 38,
+        "width": 25
+    },
+    {
+        "text": "19312",
+        "top": 580,
+        "left": 1442,
+        "height": 38,
+        "width": 73
+    },
+    {
+        "text": "(438)407-3207x62441",
+        "top": 634,
+        "left": 1148,
+        "height": 38,
+        "width": 306
+    },
+    {
+        "text": "Payment",
+        "top": 780,
+        "left": 99,
+        "height": 38,
+        "width": 137
+    },
+    {
+        "text": "Due",
+        "top": 780,
+        "left": 245,
+        "height": 38,
+        "width": 63
+    },
+    {
+        "text": "Salesperson",
+        "top": 834,
+        "left": 99,
+        "height": 38,
+        "width": 182
+    },
+    {
+        "text": "Payment",
+        "top": 888,
+        "left": 99,
+        "height": 38,
+        "width": 137
+    },
+    {
+        "text": "Terms",
+        "top": 888,
+        "left": 245,
+        "height": 38,
+        "width": 91
+    },
+    {
+        "text": "Cash",
+        "top": 888,
+        "left": 377,
+        "height": 38,
+        "width": 72
+    },
+    {
+        "text": "next",
+        "top": 888,
+        "left": 458,
+        "height": 38,
+        "width": 68
+    },
+    {
+        "text": "delivery",
+        "top": 888,
+        "left": 535,
+        "height": 38,
+        "width": 120
+    },
+    {
+        "text": "-",
+        "top": 780,
+        "left": 377,
+        "height": 38,
+        "width": 11
+    },
+    {
+        "text": "Stuart",
+        "top": 834,
+        "left": 377,
+        "height": 38,
+        "width": 93
+    },
+    {
+        "text": "Gonzalez",
+        "top": 834,
+        "left": 479,
+        "height": 38,
+        "width": 136
+    },
+    {
+        "text": "Delivery",
+        "top": 780,
+        "left": 873,
+        "height": 38,
+        "width": 124
+    },
+    {
+        "text": "Date",
+        "top": 780,
+        "left": 1006,
+        "height": 38,
+        "width": 72
+    },
+    {
+        "text": "Shipping",
+        "top": 834,
+        "left": 873,
+        "height": 38,
+        "width": 139
+    },
+    {
+        "text": "Method",
+        "top": 834,
+        "left": 1021,
+        "height": 38,
+        "width": 120
+    },
+    {
+        "text": "FedEx",
+        "top": 834,
+        "left": 1148,
+        "height": 38,
+        "width": 95
+    },
+    {
+        "text": "Shipping",
+        "top": 888,
+        "left": 873,
+        "height": 38,
+        "width": 139
+    },
+    {
+        "text": "Terms",
+        "top": 888,
+        "left": 1021,
+        "height": 38,
+        "width": 91
+    },
+    {
+        "text": "Cash",
+        "top": 888,
+        "left": 1148,
+        "height": 38,
+        "width": 72
+    },
+    {
+        "text": "next",
+        "top": 888,
+        "left": 1230,
+        "height": 38,
+        "width": 68
+    },
+    {
+        "text": "delivery",
+        "top": 888,
+        "left": 1307,
+        "height": 38,
+        "width": 120
+    },
+    {
+        "text": "Qty.",
+        "top": 1041,
+        "left": 100,
+        "height": 38,
+        "width": 60
+    },
+    {
+        "text": "Item#",
+        "top": 1041,
+        "left": 204,
+        "height": 38,
+        "width": 91
+    },
+    {
+        "text": "Description",
+        "top": 1041,
+        "left": 339,
+        "height": 38,
+        "width": 176
+    },
+    {
+        "text": "Unit",
+        "top": 1041,
+        "left": 931,
+        "height": 38,
+        "width": 64
+    },
+    {
+        "text": "Price",
+        "top": 1041,
+        "left": 1004,
+        "height": 38,
+        "width": 76
+    },
+    {
+        "text": "Discount",
+        "top": 1041,
+        "left": 1169,
+        "height": 38,
+        "width": 137
+    },
+    {
+        "text": "Line",
+        "top": 1041,
+        "left": 1407,
+        "height": 38,
+        "width": 63
+    },
+    {
+        "text": "Total",
+        "top": 1041,
+        "left": 1480,
+        "height": 38,
+        "width": 70
+    },
+    {
+        "text": "1",
+        "top": 1113,
+        "left": 125,
+        "height": 38,
+        "width": 10
+    },
+    {
+        "text": "2",
+        "top": 1186,
+        "left": 122,
+        "height": 38,
+        "width": 16
+    },
+    {
+        "text": "2990",
+        "top": 1113,
+        "left": 214,
+        "height": 38,
+        "width": 73
+    },
+    {
+        "text": "Jumbo",
+        "top": 1113,
+        "left": 339,
+        "height": 38,
+        "width": 106
+    },
+    {
+        "text": "bag",
+        "top": 1113,
+        "left": 454,
+        "height": 38,
+        "width": 57
+    },
+    {
+        "text": "red",
+        "top": 1113,
+        "left": 521,
+        "height": 38,
+        "width": 51
+    },
+    {
+        "text": "retrospot",
+        "top": 1113,
+        "left": 581,
+        "height": 38,
+        "width": 141
+    },
+    {
+        "text": "7203",
+        "top": 1186,
+        "left": 216,
+        "height": 38,
+        "width": 68
+    },
+    {
+        "text": "Cook",
+        "top": 1186,
+        "left": 339,
+        "height": 38,
+        "width": 76
+    },
+    {
+        "text": "with",
+        "top": 1186,
+        "left": 425,
+        "height": 38,
+        "width": 68
+    },
+    {
+        "text": "wine",
+        "top": 1186,
+        "left": 502,
+        "height": 38,
+        "width": 74
+    },
+    {
+        "text": "metal",
+        "top": 1186,
+        "left": 585,
+        "height": 38,
+        "width": 87
+    },
+    {
+        "text": "sign",
+        "top": 1186,
+        "left": 681,
+        "height": 38,
+        "width": 63
+    },
+    {
+        "text": "Thank",
+        "top": 1985,
+        "left": 77,
+        "height": 51,
+        "width": 123
+    },
+    {
+        "text": "you",
+        "top": 1985,
+        "left": 211,
+        "height": 51,
+        "width": 72
+    },
+    {
+        "text": "for",
+        "top": 1985,
+        "left": 294,
+        "height": 51,
+        "width": 53
+    },
+    {
+        "text": "your",
+        "top": 1985,
+        "left": 359,
+        "height": 51,
+        "width": 88
+    },
+    {
+        "text": "business!",
+        "top": 1985,
+        "left": 459,
+        "height": 51,
+        "width": 183
+    },
+    {
+        "text": "1.79",
+        "top": 1113,
+        "left": 1075,
+        "height": 38,
+        "width": 51
+    },
+    {
+        "text": "1.95",
+        "top": 1186,
+        "left": 1075,
+        "height": 38,
+        "width": 52
+    },
+    {
+        "text": "1.79",
+        "top": 1113,
+        "left": 1550,
+        "height": 38,
+        "width": 51
+    },
+    {
+        "text": "3.90",
+        "top": 1186,
+        "left": 1542,
+        "height": 38,
+        "width": 61
+    },
+    {
+        "text": "0.72",
+        "top": 1624,
+        "left": 1544,
+        "height": 38,
+        "width": 58
+    },
+    {
+        "text": "5.69",
+        "top": 1735,
+        "left": 1542,
+        "height": 38,
+        "width": 59
+    },
+    {
+        "text": "0.27",
+        "top": 1808,
+        "left": 1544,
+        "height": 38,
+        "width": 59
+    },
+    {
+        "text": "Total",
+        "top": 1624,
+        "left": 1294,
+        "height": 38,
+        "width": 70
+    },
+    {
+        "text": "Discount",
+        "top": 1662,
+        "left": 1227,
+        "height": 38,
+        "width": 137
+    },
+    {
+        "text": "Subtotal",
+        "top": 1735,
+        "left": 1235,
+        "height": 38,
+        "width": 128
+    },
+    {
+        "text": "Sales",
+        "top": 1808,
+        "left": 1229,
+        "height": 38,
+        "width": 77
+    },
+    {
+        "text": "Tax",
+        "top": 1808,
+        "left": 1315,
+        "height": 38,
+        "width": 49
+    },
+    {
+        "text": "Total",
+        "top": 1881,
+        "left": 1294,
+        "height": 38,
+        "width": 70
+    },
+    {
+        "text": "$",
+        "top": 1881,
+        "left": 1517,
+        "height": 38,
+        "width": 18
+    },
+    {
+        "text": "5.24",
+        "top": 1881,
+        "left": 1544,
+        "height": 38,
+        "width": 59
+    }
+]

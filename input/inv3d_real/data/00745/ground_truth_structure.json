@@ -1,0 +1,109 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "South Haleybury",
+                    "postcode": "54170",
+                    "state_abbr": "CA"
+                },
+                "street": {
+                    "building_number": "02447",
+                    "street_name": "Dave Place"
+                }
+            },
+            "contact": {
+                "first_name": "Jonathan",
+                "last_name": "Hurst"
+            }
+        },
+        "company": {
+            "name": "Arnold-Garcia"
+        }
+    },
+    "invoice_date": {
+        "day": 6,
+        "month": 10,
+        "year": 1999
+    },
+    "invoice_number": 738410,
+    "payment_terms": "21 MFI",
+    "products": {
+        "0": {
+            "description": "Pink fairy cake childrens apron",
+            "quantity": 9,
+            "total": 17.55,
+            "unit_price": 1.95
+        },
+        "1": {
+            "description": "Felt egg cosy white rabbit ",
+            "quantity": 9,
+            "total": 7.65,
+            "unit_price": 0.85
+        },
+        "2": {
+            "description": "Hanging heart zinc t-light holder",
+            "quantity": 3,
+            "total": 2.55,
+            "unit_price": 0.85
+        },
+        "3": {
+            "description": "Easter tin bunny bouquet",
+            "quantity": 9,
+            "total": 14.85,
+            "unit_price": 1.65
+        },
+        "4": {
+            "description": "Strawberry lunch box with cutlery",
+            "quantity": 9,
+            "total": 22.95,
+            "unit_price": 2.55
+        },
+        "5": {
+            "description": "Milk bottle with glass stopper ",
+            "quantity": 3,
+            "total": 20.85,
+            "unit_price": 6.95
+        },
+        "6": {
+            "description": "Regency cakestand 3 tier",
+            "quantity": 8,
+            "total": 102.0,
+            "unit_price": 12.75
+        },
+        "7": {
+            "description": "Set of 6 kashmir folkart baubles",
+            "quantity": 4,
+            "total": 17.0,
+            "unit_price": 4.25
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "South Jacquelinebury",
+                "postcode": "95850",
+                "state_abbr": "MS"
+            },
+            "street": {
+                "building_number": "747",
+                "street_name": "Hendricks Junctions"
+            }
+        },
+        "company": {
+            "name": "Leach Inc",
+            "slogan": "Face-to-face next generation capacity"
+        },
+        "fax_number": {
+            "country_code": 48,
+            "national_number": 572328688
+        },
+        "phone_number": {
+            "country_code": 1,
+            "national_number": 8562964823
+        }
+    },
+    "summary": {
+        "balance": 240.73
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_29.htm",
+        "logo": "logos/LLD-logo-files/kcnawatch.png",
+        "font": "fonts/Roboto_Slab/RobotoSlab-Black.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#595959": "#595959",
+            "#7F7F7F": "#7f7f7f"
+        },
+        "font_scale": 0.8950186306285813,
+        "margin": 20
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/AG8A3512-5875436210.exr",
+        "mesh": "meshes/objs/P/729_4.obj",
+        "resolution": 1600
+    }
+}

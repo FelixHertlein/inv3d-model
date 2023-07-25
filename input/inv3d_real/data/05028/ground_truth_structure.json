@@ -1,0 +1,126 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "New Mark",
+                    "postcode": "92356",
+                    "state_abbr": "CA"
+                },
+                "street": {
+                    "building_number": "126",
+                    "street_name": "Michael Causeway"
+                }
+            },
+            "contact": {
+                "first_name": "Kevin",
+                "last_name": "Bryant"
+            },
+            "customer_id": 7254210,
+            "email": "benjamin18@beasley-esparza.biz",
+            "phone_number": {
+                "country_code": 1,
+                "extension": 890,
+                "national_number": 4162747727
+            }
+        },
+        "company": {
+            "name": "Reyes PLC"
+        },
+        "shipment": {
+            "address": {
+                "city": {
+                    "city_name": "Reynoldstown",
+                    "postcode": "52260",
+                    "state_abbr": "CT"
+                },
+                "street": {
+                    "building_number": "979",
+                    "secondary_address": "Suite 654",
+                    "street_name": "Haas Glen"
+                }
+            },
+            "contact": {
+                "first_name": "Laura",
+                "last_name": "Wilcox"
+            },
+            "phone_number": {
+                "country_code": 1,
+                "national_number": 9804987591
+            }
+        }
+    },
+    "invoice_date": {
+        "day": 26,
+        "month": 2,
+        "year": 2011
+    },
+    "invoice_number": 853827,
+    "payment_terms": "EOM",
+    "products": {
+        "0": {
+            "description": "Ribbon Reel Hearts Design ",
+            "total": 16.5
+        },
+        "1": {
+            "description": "Party Bunting",
+            "total": 14.85
+        },
+        "2": {
+            "description": "Kitchen Metal Sign",
+            "total": 12.8
+        },
+        "3": {
+            "description": "Herb Marker Thyme",
+            "total": 4.55
+        },
+        "4": {
+            "description": "Record Frame 7\" Single Size ",
+            "total": 14.88
+        },
+        "5": {
+            "description": "Card Party Games ",
+            "total": 2.94
+        },
+        "6": {
+            "description": "Lunch Bag  Black Skull.",
+            "total": 11.55
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Burchmouth",
+                "postcode": "00785",
+                "state_abbr": "RI"
+            },
+            "street": {
+                "building_number": "9782",
+                "street_name": "Soto Key"
+            }
+        },
+        "company": {
+            "name": "Young, Hernandez and Garcia"
+        },
+        "contact": {
+            "first_name": "Nicholas",
+            "last_name": "Thompson"
+        },
+        "email": "hoodbrandy@stewart.com",
+        "phone_number": {
+            "country_code": 421,
+            "national_number": 910085705
+        }
+    },
+    "summary": {
+        "balance": 85.08,
+        "discount": 0,
+        "shipping": {
+            "price": 2.09
+        },
+        "subtotal": 78.07,
+        "subtotal_less_discount": 78.07,
+        "tax_rate": 0.063,
+        "tax_total": 4.92
+    }
+}

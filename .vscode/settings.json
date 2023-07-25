@@ -1,0 +1,29 @@
+{
+  "python.linting.mypyEnabled": true,
+  "python.linting.enabled": true,
+  "files.exclude": {
+    "**/__pycache__": true,
+    ".mypy_cache": true,
+  },
+  "python.autoComplete.extraPaths": [
+    "./src"
+  ],
+  "python.analysis.extraPaths": [
+    "./src"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+  },
+  "notebook.output.textLineLimit": 200,
+  "notebook.formatOnSave.enabled": true,
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "none",
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/__pycache__": true,
+    ".mypy_cache": true,
+  },
+  "vim.useSystemClipboard": true,
+}

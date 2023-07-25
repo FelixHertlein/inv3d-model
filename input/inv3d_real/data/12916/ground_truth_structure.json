@@ -1,0 +1,136 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Brookschester",
+                    "postcode": "77415",
+                    "state_abbr": "NM"
+                },
+                "street": {
+                    "building_number": "71362",
+                    "secondary_address": "Apt. 413",
+                    "street_name": "Cline Crossroad"
+                }
+            },
+            "contact": {
+                "first_name": "Jose",
+                "last_name": "Rice"
+            }
+        },
+        "shipment": {
+            "address": {
+                "city": {
+                    "city_name": "Smithport",
+                    "postcode": "29678",
+                    "state_abbr": "NJ"
+                },
+                "street": {
+                    "building_number": "46400",
+                    "street_name": "Kathryn Loop"
+                }
+            },
+            "contact": {
+                "first_name": "Ronald",
+                "last_name": "Parker"
+            }
+        }
+    },
+    "invoice_date": {
+        "day": 23,
+        "month": 1,
+        "year": 2020
+    },
+    "invoice_number": 447295,
+    "payment_terms": "Net 30",
+    "products": {
+        "0": {
+            "description": "Single antique rose hook ivory",
+            "quantity": 10,
+            "total": 32.9,
+            "unit_price": 3.29
+        },
+        "1": {
+            "description": "Antique glass pedestal bowl",
+            "quantity": 9,
+            "total": 33.75,
+            "unit_price": 3.75
+        },
+        "2": {
+            "description": "Doormat new england",
+            "quantity": 8,
+            "total": 63.6,
+            "unit_price": 7.95
+        },
+        "3": {
+            "description": "Doormat welcome to our home",
+            "quantity": 6,
+            "total": 42.48,
+            "unit_price": 7.08
+        },
+        "4": {
+            "description": "Heart shaped holly wreath",
+            "quantity": 8,
+            "total": 33.2,
+            "unit_price": 4.15
+        },
+        "5": {
+            "description": "Jam making set with jars",
+            "quantity": 10,
+            "total": 42.5,
+            "unit_price": 4.25
+        },
+        "6": {
+            "description": "Charlotte bag suki design",
+            "quantity": 8,
+            "total": 6.8,
+            "unit_price": 0.85
+        },
+        "7": {
+            "description": "Scotties childrens apron",
+            "quantity": 9,
+            "total": 14.67,
+            "unit_price": 1.63
+        },
+        "8": {
+            "description": "Wooden frame antique white ",
+            "quantity": 8,
+            "total": 23.6,
+            "unit_price": 2.95
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Michaelland",
+                "postcode": "92006",
+                "state_abbr": "OK"
+            },
+            "street": {
+                "building_number": "89628",
+                "secondary_address": "Suite 187",
+                "street_name": "Frazier Plaza"
+            }
+        },
+        "company": {
+            "name": "Harrington, Kline and Butler"
+        },
+        "fax_number": {
+            "country_code": 32,
+            "national_number": 496087705
+        },
+        "phone_number": {
+            "country_code": 1,
+            "extension": 75363,
+            "national_number": 6223048437
+        }
+    },
+    "summary": {
+        "balance": 332.8,
+        "shipping": {
+            "price": 3.49
+        },
+        "subtotal": 293.5,
+        "tax_total": 35.81
+    }
+}

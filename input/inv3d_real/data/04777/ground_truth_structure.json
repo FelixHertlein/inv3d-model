@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Brittanyton",
+                    "postcode": "18495",
+                    "state_abbr": "TX"
+                },
+                "street": {
+                    "building_number": "12658",
+                    "street_name": "Rodriguez Radial"
+                }
+            },
+            "contact": {
+                "first_name": "Kelly",
+                "last_name": "Richards"
+            },
+            "email": "stephaniesexton@martin.com",
+            "phone_number": {
+                "country_code": 358,
+                "national_number": 962523631
+            }
+        },
+        "company": {
+            "name": "Ruiz, Parker and Phillips"
+        }
+    },
+    "invoice_date": {
+        "day": 15,
+        "month": 7,
+        "year": 2007
+    },
+    "invoice_due_date": {
+        "day": 13,
+        "month": 10,
+        "year": 2007
+    },
+    "invoice_number": 473743,
+    "products": {
+        "0": {
+            "description": "Christmas hanging tree with bell",
+            "id": 7281,
+            "quantity": 5,
+            "total": 1.95,
+            "unit_price": 0.39
+        },
+        "1": {
+            "description": "Spaceboy childrens egg cup",
+            "id": 3861,
+            "quantity": 1,
+            "total": 2.51,
+            "unit_price": 2.51
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "South Robinhaven",
+                "postcode": "99446",
+                "state_abbr": "IA"
+            },
+            "street": {
+                "building_number": "3264",
+                "secondary_address": "Apt. 710",
+                "street_name": "Mcclure Mews"
+            }
+        },
+        "company": {
+            "name": "Davis-Johnson"
+        },
+        "email": "tjohnson@flores-taylor.com",
+        "phone_number": {
+            "country_code": 972,
+            "national_number": 82579678
+        },
+        "website": "price.com"
+    },
+    "summary": {
+        "balance": 4.67,
+        "subtotal": 4.46,
+        "tax_total": 0.21
+    }
+}

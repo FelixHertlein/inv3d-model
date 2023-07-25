@@ -1,0 +1,20 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_47.htm",
+        "logo": "logos/LLD-logo-files/hostsoch.png",
+        "font": "fonts/Noto_Serif/NotoSerif-Italic.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#3B3838": "#3b3a38",
+            "#C1C1C1": "#c1c1c1",
+            "#002060": "#600e00"
+        },
+        "font_scale": 0.9201426617487436,
+        "margin": 19
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/9C4A4836-f0c9bd7e8d.exr",
+        "mesh": "meshes/objs/P/472_7.obj",
+        "resolution": 1600
+    }
+}

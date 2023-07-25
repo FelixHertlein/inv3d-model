@@ -1,0 +1,24 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_38.htm",
+        "logo": "logos/LLD-logo-files/ecornell.png",
+        "font": "fonts/Raleway/Raleway-BoldItalic.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#595959": "#595959",
+            "#767171": "#717671",
+            "#666666": "#666666",
+            "#F7CAAC": "#c0acf7",
+            "#CCCCCC": "#cccccc",
+            "#A6A6A6": "#a6a6a6",
+            "#8EAADB": "#c78edb"
+        },
+        "font_scale": 1.0592795145760743,
+        "margin": 15
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/9C4A2152-ef4bcb5309.exr",
+        "mesh": "meshes/objs/C/1/1_427_2.obj",
+        "resolution": 1600
+    }
+}

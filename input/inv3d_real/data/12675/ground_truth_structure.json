@@ -1,0 +1,112 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Tamaraborough",
+                    "postcode": "93380",
+                    "state_abbr": "CT"
+                },
+                "street": {
+                    "building_number": "0061",
+                    "street_name": "Brandon Unions"
+                }
+            },
+            "contact": {
+                "first_name": "Margaret",
+                "last_name": "Stafford"
+            },
+            "email": "scott02@brown.com",
+            "phone_number": {
+                "country_code": 48,
+                "national_number": 224049851
+            }
+        },
+        "company": {
+            "name": "Hall, Stout and Wilson"
+        }
+    },
+    "invoice_date": {
+        "day": 19,
+        "month": 4,
+        "year": 2006
+    },
+    "invoice_due_date": {
+        "day": 29,
+        "month": 4,
+        "year": 2006
+    },
+    "invoice_number": 31514,
+    "products": {
+        "0": {
+            "description": "Wooden Happy Birthday Garland",
+            "id": 2457,
+            "quantity": 3,
+            "total": 8.85,
+            "unit_price": 2.95
+        },
+        "1": {
+            "description": "Pack Of 12 Traditional Crayons",
+            "id": 5040,
+            "quantity": 2,
+            "total": 0.84,
+            "unit_price": 0.42
+        },
+        "2": {
+            "description": "Red Retrospot Small Milk Jug",
+            "id": 6383,
+            "quantity": 5,
+            "total": 12.75,
+            "unit_price": 2.55
+        },
+        "3": {
+            "description": "Large Yellow Babushka Notebook ",
+            "id": 5761,
+            "quantity": 3,
+            "total": 3.75,
+            "unit_price": 1.25
+        },
+        "4": {
+            "description": "Wooden Picture Frame White Finish",
+            "id": 1345,
+            "quantity": 7,
+            "total": 34.72,
+            "unit_price": 4.96
+        },
+        "5": {
+            "description": "Recipe Box Blue Sketchbook Design",
+            "id": 3075,
+            "quantity": 2,
+            "total": 5.9,
+            "unit_price": 2.95
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "West Jeffreyberg",
+                "postcode": "84899",
+                "state_abbr": "KS"
+            },
+            "street": {
+                "building_number": "1795",
+                "street_name": "John Street"
+            }
+        },
+        "company": {
+            "name": "Mooney, Weber and Rogers"
+        },
+        "email": "christinecrawford@christensen.com",
+        "phone_number": {
+            "country_code": 1,
+            "extension": 9088,
+            "national_number": 2064655231
+        },
+        "website": "wilson.com"
+    },
+    "summary": {
+        "balance": 71.82,
+        "subtotal": 66.81,
+        "tax_total": 5.01
+    }
+}

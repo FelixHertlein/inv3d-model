@@ -1,0 +1,22 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_50.htm",
+        "logo": "logos/LLD-logo-files/stocktwits.png",
+        "font": "fonts/Noto_Serif/NotoSerif-Italic.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#797B7E": "#79797e",
+            "#007BD7": "#00d73d",
+            "#002060": "#006036",
+            "#212121": "#212121",
+            "#D1E7FF": "#ffe8d1"
+        },
+        "font_scale": 0.8320303914205622,
+        "margin": 11
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/AG8A1722-d03677dbbf.exr",
+        "mesh": "meshes/objs/C/2/2_433_1.obj",
+        "resolution": 1600
+    }
+}

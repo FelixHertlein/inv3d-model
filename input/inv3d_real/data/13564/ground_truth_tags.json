@@ -1,0 +1,482 @@
+[
+    {
+        "tag": "buyer.bill.address.city",
+        "value": "South Jennifer, NJ 18862",
+        "top": 475,
+        "left": 1147,
+        "height": 46,
+        "width": 435
+    },
+    {
+        "tag": "buyer.bill.address.street",
+        "value": "912 Allison Ranch Suite 633",
+        "top": 411,
+        "left": 964,
+        "height": 46,
+        "width": 618
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Taylor Rodriguez",
+        "top": 347,
+        "left": 964,
+        "height": 46,
+        "width": 618
+    },
+    {
+        "tag": "buyer.bill.phone_number",
+        "value": "+38 069 211 47 23",
+        "top": 475,
+        "left": 242,
+        "height": 46,
+        "width": 616
+    },
+    {
+        "tag": "invoice_date",
+        "value": "05 September, 2020",
+        "top": 394,
+        "left": 226,
+        "height": 63,
+        "width": 632
+    },
+    {
+        "tag": "invoice_due_date",
+        "value": "-",
+        "top": 1555,
+        "left": 135,
+        "height": 62,
+        "width": 1447
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#452575",
+        "top": 331,
+        "left": 370,
+        "height": 62,
+        "width": 488
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Cash on delivery",
+        "top": 1433,
+        "left": 135,
+        "height": 121,
+        "width": 1028
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Chilli Lights",
+        "top": 571,
+        "left": 545,
+        "height": 42,
+        "width": 618
+    },
+    {
+        "tag": "products.0.id",
+        "value": "9035",
+        "top": 571,
+        "left": 351,
+        "height": 42,
+        "width": 193
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "9",
+        "top": 571,
+        "left": 135,
+        "height": 42,
+        "width": 215
+    },
+    {
+        "tag": "products.0.total",
+        "value": "112.14",
+        "top": 571,
+        "left": 1378,
+        "height": 42,
+        "width": 204
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "12.46",
+        "top": 571,
+        "left": 1164,
+        "height": 42,
+        "width": 213
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Doughnut Lip Gloss ",
+        "top": 614,
+        "left": 545,
+        "height": 43,
+        "width": 618
+    },
+    {
+        "tag": "products.1.id",
+        "value": "6900",
+        "top": 614,
+        "left": 351,
+        "height": 43,
+        "width": 193
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "7",
+        "top": 614,
+        "left": 135,
+        "height": 43,
+        "width": 215
+    },
+    {
+        "tag": "products.1.total",
+        "value": "8.75",
+        "top": 614,
+        "left": 1378,
+        "height": 43,
+        "width": 204
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "1.25",
+        "top": 614,
+        "left": 1164,
+        "height": 43,
+        "width": 213
+    },
+    {
+        "tag": "products.2.description",
+        "value": "Silver Bells Table Decoration",
+        "top": 658,
+        "left": 545,
+        "height": 42,
+        "width": 618
+    },
+    {
+        "tag": "products.2.id",
+        "value": "5095",
+        "top": 658,
+        "left": 351,
+        "height": 42,
+        "width": 193
+    },
+    {
+        "tag": "products.2.quantity",
+        "value": "3",
+        "top": 658,
+        "left": 135,
+        "height": 42,
+        "width": 215
+    },
+    {
+        "tag": "products.2.total",
+        "value": "3.75",
+        "top": 658,
+        "left": 1378,
+        "height": 42,
+        "width": 204
+    },
+    {
+        "tag": "products.2.unit_price",
+        "value": "1.25",
+        "top": 658,
+        "left": 1164,
+        "height": 42,
+        "width": 213
+    },
+    {
+        "tag": "products.3.description",
+        "value": "Found",
+        "top": 701,
+        "left": 545,
+        "height": 42,
+        "width": 618
+    },
+    {
+        "tag": "products.3.id",
+        "value": "4029",
+        "top": 701,
+        "left": 351,
+        "height": 42,
+        "width": 193
+    },
+    {
+        "tag": "products.3.quantity",
+        "value": "5",
+        "top": 701,
+        "left": 135,
+        "height": 42,
+        "width": 215
+    },
+    {
+        "tag": "products.3.total",
+        "value": "0.00",
+        "top": 701,
+        "left": 1378,
+        "height": 42,
+        "width": 204
+    },
+    {
+        "tag": "products.3.unit_price",
+        "value": "0.00",
+        "top": 701,
+        "left": 1164,
+        "height": 42,
+        "width": 213
+    },
+    {
+        "tag": "products.4.description",
+        "value": "Pink Fly Swat",
+        "top": 744,
+        "left": 545,
+        "height": 42,
+        "width": 618
+    },
+    {
+        "tag": "products.4.id",
+        "value": "5614",
+        "top": 744,
+        "left": 351,
+        "height": 42,
+        "width": 193
+    },
+    {
+        "tag": "products.4.quantity",
+        "value": "5",
+        "top": 744,
+        "left": 135,
+        "height": 42,
+        "width": 215
+    },
+    {
+        "tag": "products.4.total",
+        "value": "3.25",
+        "top": 744,
+        "left": 1378,
+        "height": 42,
+        "width": 204
+    },
+    {
+        "tag": "products.4.unit_price",
+        "value": "0.65",
+        "top": 744,
+        "left": 1164,
+        "height": 42,
+        "width": 213
+    },
+    {
+        "tag": "products.5.description",
+        "value": "Set Of 10 Led Dolly Lights",
+        "top": 787,
+        "left": 545,
+        "height": 42,
+        "width": 618
+    },
+    {
+        "tag": "products.5.id",
+        "value": "2454",
+        "top": 787,
+        "left": 351,
+        "height": 42,
+        "width": 193
+    },
+    {
+        "tag": "products.5.quantity",
+        "value": "1",
+        "top": 787,
+        "left": 135,
+        "height": 42,
+        "width": 215
+    },
+    {
+        "tag": "products.5.total",
+        "value": "6.25",
+        "top": 787,
+        "left": 1378,
+        "height": 42,
+        "width": 204
+    },
+    {
+        "tag": "products.5.unit_price",
+        "value": "6.25",
+        "top": 787,
+        "left": 1164,
+        "height": 42,
+        "width": 213
+    },
+    {
+        "tag": "products.6.description",
+        "value": "Aged Glass Silver T-Light Holder",
+        "top": 830,
+        "left": 545,
+        "height": 43,
+        "width": 618
+    },
+    {
+        "tag": "products.6.id",
+        "value": "4569",
+        "top": 830,
+        "left": 351,
+        "height": 43,
+        "width": 193
+    },
+    {
+        "tag": "products.6.quantity",
+        "value": "9",
+        "top": 830,
+        "left": 135,
+        "height": 43,
+        "width": 215
+    },
+    {
+        "tag": "products.6.total",
+        "value": "4.95",
+        "top": 830,
+        "left": 1378,
+        "height": 43,
+        "width": 204
+    },
+    {
+        "tag": "products.6.unit_price",
+        "value": "0.55",
+        "top": 830,
+        "left": 1164,
+        "height": 43,
+        "width": 213
+    },
+    {
+        "tag": "products.7.description",
+        "value": "Wake Up Cockerel Tile Coaster",
+        "top": 874,
+        "left": 545,
+        "height": 42,
+        "width": 618
+    },
+    {
+        "tag": "products.7.id",
+        "value": "7742",
+        "top": 874,
+        "left": 351,
+        "height": 42,
+        "width": 193
+    },
+    {
+        "tag": "products.7.quantity",
+        "value": "9",
+        "top": 874,
+        "left": 135,
+        "height": 42,
+        "width": 215
+    },
+    {
+        "tag": "products.7.total",
+        "value": "11.25",
+        "top": 874,
+        "left": 1378,
+        "height": 42,
+        "width": 204
+    },
+    {
+        "tag": "products.7.unit_price",
+        "value": "1.25",
+        "top": 874,
+        "left": 1164,
+        "height": 42,
+        "width": 213
+    },
+    {
+        "tag": "products.8.description",
+        "value": "Wooden Skittles Garden Set",
+        "top": 917,
+        "left": 545,
+        "height": 42,
+        "width": 618
+    },
+    {
+        "tag": "products.8.id",
+        "value": "7705",
+        "top": 917,
+        "left": 351,
+        "height": 42,
+        "width": 193
+    },
+    {
+        "tag": "products.8.quantity",
+        "value": "6",
+        "top": 917,
+        "left": 135,
+        "height": 42,
+        "width": 215
+    },
+    {
+        "tag": "products.8.total",
+        "value": "76.50",
+        "top": 917,
+        "left": 1378,
+        "height": 42,
+        "width": 204
+    },
+    {
+        "tag": "products.8.unit_price",
+        "value": "12.75",
+        "top": 917,
+        "left": 1164,
+        "height": 42,
+        "width": 213
+    },
+    {
+        "tag": "seller.address",
+        "value": "6705 Katie Trail\nAnneburgh, KS 27272",
+        "top": 158,
+        "left": 117,
+        "height": 82,
+        "width": 560
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Crawford Inc",
+        "top": 117,
+        "left": 117,
+        "height": 41,
+        "width": 560
+    },
+    {
+        "tag": "seller.fax_number",
+        "value": "+62 (096) 756 2710",
+        "top": 240,
+        "left": 333,
+        "height": 90,
+        "width": 344
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "415.677.4171",
+        "top": 240,
+        "left": 117,
+        "height": 90,
+        "width": 216
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 265.18",
+        "top": 1495,
+        "left": 1378,
+        "height": 59,
+        "width": 204
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "226.84",
+        "top": 1349,
+        "left": 1378,
+        "height": 83,
+        "width": 204
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "38.34",
+        "top": 1433,
+        "left": 1378,
+        "height": 61,
+        "width": 204
+    }
+]

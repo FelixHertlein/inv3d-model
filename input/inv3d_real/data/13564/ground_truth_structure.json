@@ -1,0 +1,128 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "South Jennifer",
+                    "postcode": "18862",
+                    "state_abbr": "NJ"
+                },
+                "street": {
+                    "building_number": "912",
+                    "secondary_address": "Suite 633",
+                    "street_name": "Allison Ranch"
+                }
+            },
+            "contact": {
+                "first_name": "Taylor",
+                "last_name": "Rodriguez"
+            },
+            "phone_number": {
+                "country_code": 380,
+                "national_number": 692114723
+            }
+        }
+    },
+    "invoice_date": {
+        "day": 5,
+        "month": 9,
+        "year": 2020
+    },
+    "invoice_due_date": null,
+    "invoice_number": 452575,
+    "payment_terms": "COD",
+    "products": {
+        "0": {
+            "description": "Chilli Lights",
+            "id": 9035,
+            "quantity": 9,
+            "total": 112.14,
+            "unit_price": 12.46
+        },
+        "1": {
+            "description": "Doughnut Lip Gloss ",
+            "id": 6900,
+            "quantity": 7,
+            "total": 8.75,
+            "unit_price": 1.25
+        },
+        "2": {
+            "description": "Silver Bells Table Decoration",
+            "id": 5095,
+            "quantity": 3,
+            "total": 3.75,
+            "unit_price": 1.25
+        },
+        "3": {
+            "description": "Found",
+            "id": 4029,
+            "quantity": 5,
+            "total": 0.0,
+            "unit_price": 0.0
+        },
+        "4": {
+            "description": "Pink Fly Swat",
+            "id": 5614,
+            "quantity": 5,
+            "total": 3.25,
+            "unit_price": 0.65
+        },
+        "5": {
+            "description": "Set Of 10 Led Dolly Lights",
+            "id": 2454,
+            "quantity": 1,
+            "total": 6.25,
+            "unit_price": 6.25
+        },
+        "6": {
+            "description": "Aged Glass Silver T-Light Holder",
+            "id": 4569,
+            "quantity": 9,
+            "total": 4.95,
+            "unit_price": 0.55
+        },
+        "7": {
+            "description": "Wake Up Cockerel Tile Coaster",
+            "id": 7742,
+            "quantity": 9,
+            "total": 11.25,
+            "unit_price": 1.25
+        },
+        "8": {
+            "description": "Wooden Skittles Garden Set",
+            "id": 7705,
+            "quantity": 6,
+            "total": 76.5,
+            "unit_price": 12.75
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Anneburgh",
+                "postcode": "27272",
+                "state_abbr": "KS"
+            },
+            "street": {
+                "building_number": "6705",
+                "street_name": "Katie Trail"
+            }
+        },
+        "company": {
+            "name": "Crawford Inc"
+        },
+        "fax_number": {
+            "country_code": 62,
+            "national_number": 967562710
+        },
+        "phone_number": {
+            "country_code": 1,
+            "national_number": 4156774171
+        }
+    },
+    "summary": {
+        "balance": 265.18,
+        "subtotal": 226.84,
+        "tax_total": 38.34
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_29.htm",
+        "logo": "logos/LLD-logo-files/infyom.png",
+        "font": "fonts/Roboto_Slab/RobotoSlab-Medium.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#595959": "#595959",
+            "#7F7F7F": "#7f7f7f"
+        },
+        "font_scale": 1.014022611963651,
+        "margin": 17
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/9C4A7945-662330df4f.exr",
+        "mesh": "meshes/objs/P/58_8.obj",
+        "resolution": 1600
+    }
+}

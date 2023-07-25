@@ -1,0 +1,87 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Garciaton",
+                    "postcode": "53834",
+                    "state_abbr": "MO"
+                },
+                "street": {
+                    "building_number": "880",
+                    "secondary_address": "Apt. 095",
+                    "street_name": "Lopez Stream"
+                }
+            },
+            "contact": {
+                "first_name": "Alexander",
+                "last_name": "Aguilar"
+            }
+        },
+        "company": {
+            "name": "Brown-Glass"
+        }
+    },
+    "invoice_date": {
+        "day": 17,
+        "month": 2,
+        "year": 1995
+    },
+    "invoice_number": 851918,
+    "payment_terms": "Net 10",
+    "products": {
+        "0": {
+            "description": "Set 3 retrospot tea,coffee,sugar",
+            "quantity": 2,
+            "total": 9.9,
+            "unit_price": 4.95
+        },
+        "1": {
+            "description": "Strawberry lunch box with cutlery",
+            "quantity": 2,
+            "total": 5.1,
+            "unit_price": 2.55
+        },
+        "2": {
+            "description": "Victorian sewing box medium",
+            "quantity": 4,
+            "total": 31.8,
+            "unit_price": 7.95
+        },
+        "3": {
+            "description": "Folkart clip on stars",
+            "quantity": 5,
+            "total": 4.15,
+            "unit_price": 0.83
+        },
+        "4": {
+            "description": "Set of 3 cake tins sketchbook",
+            "quantity": 1,
+            "total": 10.79,
+            "unit_price": 10.79
+        }
+    },
+    "seller": {
+        "address": {
+            "street": {
+                "building_number": "0698",
+                "street_name": "Farmer Lodge"
+            }
+        },
+        "company": {
+            "name": "Oconnor, Fuller and Carter",
+            "slogan": "Business-focused fault-tolerant array"
+        },
+        "fax_number": {
+            "country_code": 1,
+            "national_number": 8765719850
+        },
+        "phone_number": {
+            "country_code": 380,
+            "national_number": 575471380
+        }
+    },
+    "summary": {
+        "balance": 68.53
+    }
+}

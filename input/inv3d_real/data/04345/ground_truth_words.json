@@ -1,0 +1,828 @@
+[
+    {
+        "text": "Clark",
+        "top": 107,
+        "left": 124,
+        "height": 33,
+        "width": 51
+    },
+    {
+        "text": "PLC",
+        "top": 107,
+        "left": 182,
+        "height": 33,
+        "width": 35
+    },
+    {
+        "text": "8236",
+        "top": 134,
+        "left": 124,
+        "height": 33,
+        "width": 47
+    },
+    {
+        "text": "Lucas",
+        "top": 134,
+        "left": 178,
+        "height": 33,
+        "width": 56
+    },
+    {
+        "text": "Prairie",
+        "top": 134,
+        "left": 240,
+        "height": 33,
+        "width": 66
+    },
+    {
+        "text": "Suite",
+        "top": 134,
+        "left": 313,
+        "height": 33,
+        "width": 51
+    },
+    {
+        "text": "967",
+        "top": 134,
+        "left": 372,
+        "height": 33,
+        "width": 35
+    },
+    {
+        "text": "Lake",
+        "top": 161,
+        "left": 124,
+        "height": 33,
+        "width": 47
+    },
+    {
+        "text": "Donna,",
+        "top": 161,
+        "left": 178,
+        "height": 33,
+        "width": 69
+    },
+    {
+        "text": "MO",
+        "top": 161,
+        "left": 255,
+        "height": 33,
+        "width": 32
+    },
+    {
+        "text": "14815",
+        "top": 161,
+        "left": 293,
+        "height": 33,
+        "width": 57
+    },
+    {
+        "text": "+66",
+        "top": 188,
+        "left": 124,
+        "height": 33,
+        "width": 37
+    },
+    {
+        "text": "956",
+        "top": 188,
+        "left": 168,
+        "height": 33,
+        "width": 37
+    },
+    {
+        "text": "305",
+        "top": 188,
+        "left": 211,
+        "height": 33,
+        "width": 36
+    },
+    {
+        "text": "313",
+        "top": 188,
+        "left": 255,
+        "height": 33,
+        "width": 34
+    },
+    {
+        "text": "+962779154769",
+        "top": 188,
+        "left": 297,
+        "height": 33,
+        "width": 151
+    },
+    {
+        "text": "#664905",
+        "top": 281,
+        "left": 123,
+        "height": 47,
+        "width": 118
+    },
+    {
+        "text": "16",
+        "top": 281,
+        "left": 1324,
+        "height": 47,
+        "width": 31
+    },
+    {
+        "text": "JANUARY,",
+        "top": 281,
+        "left": 1364,
+        "height": 47,
+        "width": 132
+    },
+    {
+        "text": "2002",
+        "top": 281,
+        "left": 1505,
+        "height": 47,
+        "width": 70
+    },
+    {
+        "text": "BILL",
+        "top": 387,
+        "left": 124,
+        "height": 47,
+        "width": 59
+    },
+    {
+        "text": "TO",
+        "top": 387,
+        "left": 193,
+        "height": 47,
+        "width": 36
+    },
+    {
+        "text": "Theodore",
+        "top": 437,
+        "left": 124,
+        "height": 47,
+        "width": 138
+    },
+    {
+        "text": "Wade",
+        "top": 437,
+        "left": 270,
+        "height": 47,
+        "width": 79
+    },
+    {
+        "text": "381",
+        "top": 475,
+        "left": 124,
+        "height": 47,
+        "width": 49
+    },
+    {
+        "text": "Allen",
+        "top": 475,
+        "left": 182,
+        "height": 47,
+        "width": 70
+    },
+    {
+        "text": "Hill",
+        "top": 475,
+        "left": 261,
+        "height": 47,
+        "width": 46
+    },
+    {
+        "text": "Apt.",
+        "top": 475,
+        "left": 315,
+        "height": 47,
+        "width": 57
+    },
+    {
+        "text": "974",
+        "top": 475,
+        "left": 382,
+        "height": 47,
+        "width": 46
+    },
+    {
+        "text": "South",
+        "top": 512,
+        "left": 124,
+        "height": 47,
+        "width": 84
+    },
+    {
+        "text": "Pamela,",
+        "top": 512,
+        "left": 218,
+        "height": 47,
+        "width": 109
+    },
+    {
+        "text": "SD",
+        "top": 512,
+        "left": 336,
+        "height": 47,
+        "width": 37
+    },
+    {
+        "text": "34674",
+        "top": 512,
+        "left": 382,
+        "height": 47,
+        "width": 79
+    },
+    {
+        "text": "SHIP",
+        "top": 387,
+        "left": 501,
+        "height": 47,
+        "width": 64
+    },
+    {
+        "text": "TO",
+        "top": 387,
+        "left": 574,
+        "height": 47,
+        "width": 36
+    },
+    {
+        "text": "Tyler",
+        "top": 437,
+        "left": 501,
+        "height": 47,
+        "width": 68
+    },
+    {
+        "text": "Perez",
+        "top": 437,
+        "left": 578,
+        "height": 47,
+        "width": 78
+    },
+    {
+        "text": "78356",
+        "top": 475,
+        "left": 501,
+        "height": 47,
+        "width": 84
+    },
+    {
+        "text": "William",
+        "top": 475,
+        "left": 593,
+        "height": 47,
+        "width": 103
+    },
+    {
+        "text": "Trail",
+        "top": 475,
+        "left": 705,
+        "height": 47,
+        "width": 61
+    },
+    {
+        "text": "Suite",
+        "top": 475,
+        "left": 774,
+        "height": 47,
+        "width": 73
+    },
+    {
+        "text": "944",
+        "top": 475,
+        "left": 855,
+        "height": 47,
+        "width": 50
+    },
+    {
+        "text": "Johnbury,",
+        "top": 512,
+        "left": 501,
+        "height": 47,
+        "width": 138
+    },
+    {
+        "text": "UT",
+        "top": 512,
+        "left": 649,
+        "height": 47,
+        "width": 37
+    },
+    {
+        "text": "64194",
+        "top": 512,
+        "left": 695,
+        "height": 47,
+        "width": 79
+    },
+    {
+        "text": "INSTRUCTIONS",
+        "top": 387,
+        "left": 947,
+        "height": 47,
+        "width": 205
+    },
+    {
+        "text": "Payment",
+        "top": 437,
+        "left": 947,
+        "height": 47,
+        "width": 124
+    },
+    {
+        "text": "ten",
+        "top": 437,
+        "left": 1080,
+        "height": 47,
+        "width": 47
+    },
+    {
+        "text": "days",
+        "top": 437,
+        "left": 1136,
+        "height": 47,
+        "width": 67
+    },
+    {
+        "text": "after",
+        "top": 437,
+        "left": 1211,
+        "height": 47,
+        "width": 68
+    },
+    {
+        "text": "invoice",
+        "top": 437,
+        "left": 1288,
+        "height": 47,
+        "width": 102
+    },
+    {
+        "text": "date",
+        "top": 437,
+        "left": 1399,
+        "height": 47,
+        "width": 65
+    },
+    {
+        "text": "DESCRIPTION",
+        "top": 608,
+        "left": 423,
+        "height": 47,
+        "width": 185
+    },
+    {
+        "text": "Scotties",
+        "top": 671,
+        "left": 423,
+        "height": 47,
+        "width": 115
+    },
+    {
+        "text": "design",
+        "top": 671,
+        "left": 546,
+        "height": 47,
+        "width": 93
+    },
+    {
+        "text": "washbag",
+        "top": 671,
+        "left": 648,
+        "height": 47,
+        "width": 125
+    },
+    {
+        "text": "Christmas",
+        "top": 733,
+        "left": 423,
+        "height": 47,
+        "width": 144
+    },
+    {
+        "text": "tree",
+        "top": 733,
+        "left": 575,
+        "height": 47,
+        "width": 58
+    },
+    {
+        "text": "decoration",
+        "top": 733,
+        "left": 642,
+        "height": 47,
+        "width": 153
+    },
+    {
+        "text": "with",
+        "top": 733,
+        "left": 804,
+        "height": 47,
+        "width": 62
+    },
+    {
+        "text": "bell",
+        "top": 733,
+        "left": 875,
+        "height": 47,
+        "width": 53
+    },
+    {
+        "text": "Swallows",
+        "top": 796,
+        "left": 423,
+        "height": 47,
+        "width": 129
+    },
+    {
+        "text": "greeting",
+        "top": 796,
+        "left": 560,
+        "height": 47,
+        "width": 119
+    },
+    {
+        "text": "card",
+        "top": 796,
+        "left": 687,
+        "height": 47,
+        "width": 62
+    },
+    {
+        "text": "Musical",
+        "top": 858,
+        "left": 423,
+        "height": 47,
+        "width": 107
+    },
+    {
+        "text": "zinc",
+        "top": 858,
+        "left": 537,
+        "height": 47,
+        "width": 56
+    },
+    {
+        "text": "heart",
+        "top": 858,
+        "left": 602,
+        "height": 47,
+        "width": 76
+    },
+    {
+        "text": "decoration",
+        "top": 858,
+        "left": 687,
+        "height": 47,
+        "width": 153
+    },
+    {
+        "text": "Ivory",
+        "top": 921,
+        "left": 423,
+        "height": 47,
+        "width": 72
+    },
+    {
+        "text": "kitchen",
+        "top": 921,
+        "left": 504,
+        "height": 47,
+        "width": 105
+    },
+    {
+        "text": "scales",
+        "top": 921,
+        "left": 619,
+        "height": 47,
+        "width": 85
+    },
+    {
+        "text": "Foot",
+        "top": 983,
+        "left": 423,
+        "height": 47,
+        "width": 61
+    },
+    {
+        "text": "stool",
+        "top": 983,
+        "left": 494,
+        "height": 47,
+        "width": 73
+    },
+    {
+        "text": "home",
+        "top": 983,
+        "left": 575,
+        "height": 47,
+        "width": 81
+    },
+    {
+        "text": "sweet",
+        "top": 983,
+        "left": 664,
+        "height": 47,
+        "width": 82
+    },
+    {
+        "text": "home",
+        "top": 983,
+        "left": 756,
+        "height": 47,
+        "width": 81
+    },
+    {
+        "text": "QUANTITY",
+        "top": 608,
+        "left": 123,
+        "height": 47,
+        "width": 141
+    },
+    {
+        "text": "7",
+        "top": 671,
+        "left": 123,
+        "height": 47,
+        "width": 14
+    },
+    {
+        "text": "3",
+        "top": 733,
+        "left": 123,
+        "height": 47,
+        "width": 16
+    },
+    {
+        "text": "9",
+        "top": 796,
+        "left": 123,
+        "height": 47,
+        "width": 17
+    },
+    {
+        "text": "4",
+        "top": 858,
+        "left": 123,
+        "height": 47,
+        "width": 17
+    },
+    {
+        "text": "4",
+        "top": 921,
+        "left": 123,
+        "height": 47,
+        "width": 17
+    },
+    {
+        "text": "10",
+        "top": 983,
+        "left": 123,
+        "height": 47,
+        "width": 32
+    },
+    {
+        "text": "SUBTOTAL",
+        "top": 1546,
+        "left": 123,
+        "height": 47,
+        "width": 138
+    },
+    {
+        "text": "SALES",
+        "top": 1608,
+        "left": 123,
+        "height": 47,
+        "width": 86
+    },
+    {
+        "text": "TAX",
+        "top": 1608,
+        "left": 217,
+        "height": 47,
+        "width": 51
+    },
+    {
+        "text": "SHIPPING",
+        "top": 1671,
+        "left": 123,
+        "height": 47,
+        "width": 132
+    },
+    {
+        "text": "&",
+        "top": 1671,
+        "left": 264,
+        "height": 47,
+        "width": 23
+    },
+    {
+        "text": "HANDLING",
+        "top": 1671,
+        "left": 296,
+        "height": 47,
+        "width": 147
+    },
+    {
+        "text": "TOTAL",
+        "top": 1733,
+        "left": 123,
+        "height": 47,
+        "width": 82
+    },
+    {
+        "text": "DUE",
+        "top": 1733,
+        "left": 214,
+        "height": 47,
+        "width": 58
+    },
+    {
+        "text": "BY",
+        "top": 1733,
+        "left": 281,
+        "height": 47,
+        "width": 36
+    },
+    {
+        "text": "DATE",
+        "top": 1733,
+        "left": 327,
+        "height": 47,
+        "width": 70
+    },
+    {
+        "text": "UNIT",
+        "top": 608,
+        "left": 1122,
+        "height": 47,
+        "width": 66
+    },
+    {
+        "text": "PRICE",
+        "top": 608,
+        "left": 1197,
+        "height": 47,
+        "width": 81
+    },
+    {
+        "text": "1.95",
+        "top": 671,
+        "left": 1222,
+        "height": 47,
+        "width": 55
+    },
+    {
+        "text": "0.42",
+        "top": 733,
+        "left": 1218,
+        "height": 47,
+        "width": 59
+    },
+    {
+        "text": "0.36",
+        "top": 796,
+        "left": 1218,
+        "height": 47,
+        "width": 61
+    },
+    {
+        "text": "0.29",
+        "top": 858,
+        "left": 1218,
+        "height": 47,
+        "width": 60
+    },
+    {
+        "text": "8.50",
+        "top": 921,
+        "left": 1216,
+        "height": 47,
+        "width": 61
+    },
+    {
+        "text": "9.95",
+        "top": 983,
+        "left": 1220,
+        "height": 47,
+        "width": 58
+    },
+    {
+        "text": "TOTAL",
+        "top": 608,
+        "left": 1493,
+        "height": 47,
+        "width": 82
+    },
+    {
+        "text": "13.65",
+        "top": 671,
+        "left": 1503,
+        "height": 47,
+        "width": 72
+    },
+    {
+        "text": "1.26",
+        "top": 733,
+        "left": 1520,
+        "height": 47,
+        "width": 56
+    },
+    {
+        "text": "3.24",
+        "top": 796,
+        "left": 1518,
+        "height": 47,
+        "width": 59
+    },
+    {
+        "text": "1.16",
+        "top": 858,
+        "left": 1526,
+        "height": 47,
+        "width": 50
+    },
+    {
+        "text": "34.00",
+        "top": 921,
+        "left": 1497,
+        "height": 47,
+        "width": 78
+    },
+    {
+        "text": "99.50",
+        "top": 983,
+        "left": 1499,
+        "height": 47,
+        "width": 76
+    },
+    {
+        "text": "152.81",
+        "top": 1546,
+        "left": 1487,
+        "height": 47,
+        "width": 89
+    },
+    {
+        "text": "17.42",
+        "top": 1608,
+        "left": 1505,
+        "height": 47,
+        "width": 70
+    },
+    {
+        "text": "6.30",
+        "top": 1671,
+        "left": 1516,
+        "height": 47,
+        "width": 59
+    },
+    {
+        "text": "$",
+        "top": 1733,
+        "left": 1464,
+        "height": 47,
+        "width": 17
+    },
+    {
+        "text": "176.53",
+        "top": 1733,
+        "left": 1489,
+        "height": 47,
+        "width": 86
+    },
+    {
+        "text": "Thank",
+        "top": 1869,
+        "left": 820,
+        "height": 47,
+        "width": 87
+    },
+    {
+        "text": "you",
+        "top": 1869,
+        "left": 916,
+        "height": 47,
+        "width": 53
+    },
+    {
+        "text": "for",
+        "top": 1869,
+        "left": 978,
+        "height": 47,
+        "width": 41
+    },
+    {
+        "text": "your",
+        "top": 1869,
+        "left": 1028,
+        "height": 47,
+        "width": 66
+    },
+    {
+        "text": "business!",
+        "top": 1869,
+        "left": 1103,
+        "height": 47,
+        "width": 132
+    }
+]

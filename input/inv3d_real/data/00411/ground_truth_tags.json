@@ -1,0 +1,202 @@
+[
+    {
+        "tag": "buyer.bill.address.city",
+        "value": "Andrewview, MT 59959",
+        "top": 585,
+        "left": 260,
+        "height": 34,
+        "width": 380
+    },
+    {
+        "tag": "buyer.bill.address.city.postcode",
+        "value": "59959",
+        "top": 619,
+        "left": 260,
+        "height": 73,
+        "width": 380
+    },
+    {
+        "tag": "buyer.bill.address.street",
+        "value": "6688 David Shores Suite 516",
+        "top": 551,
+        "left": 260,
+        "height": 34,
+        "width": 380
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Kimberly Gaines",
+        "top": 509,
+        "left": 260,
+        "height": 42,
+        "width": 380
+    },
+    {
+        "tag": "invoice_date",
+        "value": "24 October, 2007",
+        "top": 368,
+        "left": 641,
+        "height": 61,
+        "width": 250
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#415808",
+        "top": 375,
+        "left": 260,
+        "height": 54,
+        "width": 380
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Payment in advance",
+        "top": 1857,
+        "left": 260,
+        "height": 97,
+        "width": 667
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Charlie And Lola Figures Tins",
+        "top": 854,
+        "left": 260,
+        "height": 57,
+        "width": 667
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "4",
+        "top": 854,
+        "left": 1085,
+        "height": 57,
+        "width": 154
+    },
+    {
+        "tag": "products.0.total",
+        "value": "7.80",
+        "top": 854,
+        "left": 1240,
+        "height": 57,
+        "width": 183
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "1.95",
+        "top": 854,
+        "left": 928,
+        "height": 57,
+        "width": 114
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Jumbo Shopper Vintage Red Paisley",
+        "top": 912,
+        "left": 260,
+        "height": 57,
+        "width": 667
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "5",
+        "top": 912,
+        "left": 1085,
+        "height": 57,
+        "width": 154
+    },
+    {
+        "tag": "products.1.total",
+        "value": "10.40",
+        "top": 912,
+        "left": 1240,
+        "height": 57,
+        "width": 183
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "2.08",
+        "top": 912,
+        "left": 928,
+        "height": 57,
+        "width": 114
+    },
+    {
+        "tag": "seller.address",
+        "value": "4083 Jason Valleys Suite 237\nNorth Sheenabury, AK 83615",
+        "top": 505,
+        "left": 641,
+        "height": 68,
+        "width": 598
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Brown-Rivers",
+        "top": 470,
+        "left": 641,
+        "height": 35,
+        "width": 598
+    },
+    {
+        "tag": "seller.email",
+        "value": "jamessmith@smith-holmes.com",
+        "top": 606,
+        "left": 641,
+        "height": 34,
+        "width": 598
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+55 31 2543 8618",
+        "top": 573,
+        "left": 641,
+        "height": 33,
+        "width": 598
+    },
+    {
+        "tag": "seller.website",
+        "value": "fleming-bird.com",
+        "top": 639,
+        "left": 641,
+        "height": 35,
+        "width": 598
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 14.13",
+        "top": 1661,
+        "left": 1240,
+        "height": 98,
+        "width": 228
+    },
+    {
+        "tag": "summary.discount",
+        "value": "4.29",
+        "top": 1406,
+        "left": 1240,
+        "height": 58,
+        "width": 183
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "18.20",
+        "top": 1348,
+        "left": 1240,
+        "height": 57,
+        "width": 183
+    },
+    {
+        "tag": "summary.tax_rate",
+        "value": "1.6%",
+        "top": 1465,
+        "left": 1240,
+        "height": 57,
+        "width": 183
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "0.22",
+        "top": 1523,
+        "left": 1240,
+        "height": 57,
+        "width": 183
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "tag": "buyer.bill.address.city",
+        "value": "Garciaton, MO 53834",
+        "top": 507,
+        "left": 78,
+        "height": 131,
+        "width": 772
+    },
+    {
+        "tag": "buyer.bill.address.street",
+        "value": "880 Lopez Stream Apt. 095",
+        "top": 476,
+        "left": 78,
+        "height": 31,
+        "width": 772
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Alexander Aguilar",
+        "top": 401,
+        "left": 78,
+        "height": 44,
+        "width": 772
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Brown-Glass",
+        "top": 445,
+        "left": 78,
+        "height": 31,
+        "width": 772
+    },
+    {
+        "tag": "invoice_date",
+        "value": "02/17/1995",
+        "top": 258,
+        "left": 1449,
+        "height": 115,
+        "width": 175
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#851918",
+        "top": 230,
+        "left": 1481,
+        "height": 30,
+        "width": 143
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Payment ten days after invoice date",
+        "top": 1402,
+        "left": 78,
+        "height": 32,
+        "width": 1546
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Set 3 retrospot tea,coffee,sugar",
+        "top": 682,
+        "left": 78,
+        "height": 41,
+        "width": 829
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "2",
+        "top": 682,
+        "left": 908,
+        "height": 41,
+        "width": 236
+    },
+    {
+        "tag": "products.0.total",
+        "value": "9.90",
+        "top": 682,
+        "left": 1381,
+        "height": 41,
+        "width": 241
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "4.95",
+        "top": 682,
+        "left": 1145,
+        "height": 41,
+        "width": 235
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Strawberry lunch box with cutlery",
+        "top": 724,
+        "left": 78,
+        "height": 39,
+        "width": 829
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "2",
+        "top": 724,
+        "left": 908,
+        "height": 39,
+        "width": 236
+    },
+    {
+        "tag": "products.1.total",
+        "value": "5.10",
+        "top": 724,
+        "left": 1381,
+        "height": 39,
+        "width": 241
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "2.55",
+        "top": 724,
+        "left": 1145,
+        "height": 39,
+        "width": 235
+    },
+    {
+        "tag": "products.2.description",
+        "value": "Victorian sewing box medium",
+        "top": 764,
+        "left": 78,
+        "height": 38,
+        "width": 829
+    },
+    {
+        "tag": "products.2.quantity",
+        "value": "4",
+        "top": 764,
+        "left": 908,
+        "height": 38,
+        "width": 236
+    },
+    {
+        "tag": "products.2.total",
+        "value": "31.80",
+        "top": 764,
+        "left": 1381,
+        "height": 38,
+        "width": 241
+    },
+    {
+        "tag": "products.2.unit_price",
+        "value": "7.95",
+        "top": 764,
+        "left": 1145,
+        "height": 38,
+        "width": 235
+    },
+    {
+        "tag": "products.3.description",
+        "value": "Folkart clip on stars",
+        "top": 803,
+        "left": 78,
+        "height": 39,
+        "width": 829
+    },
+    {
+        "tag": "products.3.quantity",
+        "value": "5",
+        "top": 803,
+        "left": 908,
+        "height": 39,
+        "width": 236
+    },
+    {
+        "tag": "products.3.total",
+        "value": "4.15",
+        "top": 803,
+        "left": 1381,
+        "height": 39,
+        "width": 241
+    },
+    {
+        "tag": "products.3.unit_price",
+        "value": "0.83",
+        "top": 803,
+        "left": 1145,
+        "height": 39,
+        "width": 235
+    },
+    {
+        "tag": "products.4.description",
+        "value": "Set of 3 cake tins sketchbook",
+        "top": 843,
+        "left": 78,
+        "height": 39,
+        "width": 829
+    },
+    {
+        "tag": "products.4.quantity",
+        "value": "1",
+        "top": 843,
+        "left": 908,
+        "height": 39,
+        "width": 236
+    },
+    {
+        "tag": "products.4.total",
+        "value": "10.79",
+        "top": 843,
+        "left": 1381,
+        "height": 39,
+        "width": 241
+    },
+    {
+        "tag": "products.4.unit_price",
+        "value": "10.79",
+        "top": 843,
+        "left": 1145,
+        "height": 39,
+        "width": 235
+    },
+    {
+        "tag": "seller.address.street",
+        "value": "0698 Farmer Lodge",
+        "top": 157,
+        "left": 78,
+        "height": 44,
+        "width": 772
+    },
+    {
+        "tag": "seller.address.street",
+        "value": "0698 Farmer Lodge",
+        "top": 201,
+        "left": 78,
+        "height": 32,
+        "width": 772
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Oconnor, Fuller and Carter",
+        "top": 78,
+        "left": 78,
+        "height": 33,
+        "width": 772
+    },
+    {
+        "tag": "seller.company.slogan",
+        "value": "Business-focused fault-tolerant array",
+        "top": 111,
+        "left": 78,
+        "height": 46,
+        "width": 772
+    },
+    {
+        "tag": "seller.fax_number",
+        "value": "(876)571-9850",
+        "top": 263,
+        "left": 153,
+        "height": 110,
+        "width": 697
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+38 057 547-13-80",
+        "top": 232,
+        "left": 78,
+        "height": 31,
+        "width": 772
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 68.53",
+        "top": 1360,
+        "left": 1396,
+        "height": 39,
+        "width": 226
+    }
+]

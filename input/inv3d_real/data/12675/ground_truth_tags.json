@@ -1,0 +1,370 @@
+[
+    {
+        "tag": "buyer.bill.address",
+        "value": "0061 Brandon Unions\nTamaraborough, CT 93380",
+        "top": 360,
+        "left": 849,
+        "height": 74,
+        "width": 703
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Margaret Stafford",
+        "top": 285,
+        "left": 849,
+        "height": 74,
+        "width": 703
+    },
+    {
+        "tag": "buyer.bill.email",
+        "value": "scott02@brown.com",
+        "top": 485,
+        "left": 849,
+        "height": 49,
+        "width": 703
+    },
+    {
+        "tag": "buyer.bill.phone_number",
+        "value": "+48 22 404 98 51",
+        "top": 435,
+        "left": 849,
+        "height": 49,
+        "width": 703
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Hall, Stout and Wilson",
+        "top": 235,
+        "left": 849,
+        "height": 49,
+        "width": 703
+    },
+    {
+        "tag": "invoice_date",
+        "value": "19 Apr, 2006",
+        "top": 609,
+        "left": 839,
+        "height": 79,
+        "width": 238
+    },
+    {
+        "tag": "invoice_due_date",
+        "value": "29 Apr, 2006",
+        "top": 609,
+        "left": 1311,
+        "height": 79,
+        "width": 239
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#31514",
+        "top": 609,
+        "left": 430,
+        "height": 79,
+        "width": 178
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Wooden Happy Birthday Garland",
+        "top": 853,
+        "left": 366,
+        "height": 87,
+        "width": 486
+    },
+    {
+        "tag": "products.0.id",
+        "value": "2457",
+        "top": 853,
+        "left": 147,
+        "height": 87,
+        "width": 218
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "3",
+        "top": 853,
+        "left": 853,
+        "height": 87,
+        "width": 216
+    },
+    {
+        "tag": "products.0.total",
+        "value": "8.85",
+        "top": 853,
+        "left": 1299,
+        "height": 87,
+        "width": 253
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "2.95",
+        "top": 853,
+        "left": 1070,
+        "height": 87,
+        "width": 228
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Pack Of 12 Traditional Crayons",
+        "top": 941,
+        "left": 366,
+        "height": 86,
+        "width": 486
+    },
+    {
+        "tag": "products.1.id",
+        "value": "5040",
+        "top": 941,
+        "left": 147,
+        "height": 86,
+        "width": 218
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "2",
+        "top": 941,
+        "left": 853,
+        "height": 86,
+        "width": 216
+    },
+    {
+        "tag": "products.1.total",
+        "value": "0.84",
+        "top": 941,
+        "left": 1299,
+        "height": 86,
+        "width": 253
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "0.42",
+        "top": 941,
+        "left": 1070,
+        "height": 86,
+        "width": 228
+    },
+    {
+        "tag": "products.2.description",
+        "value": "Red Retrospot Small Milk Jug",
+        "top": 1028,
+        "left": 366,
+        "height": 86,
+        "width": 486
+    },
+    {
+        "tag": "products.2.id",
+        "value": "6383",
+        "top": 1028,
+        "left": 147,
+        "height": 86,
+        "width": 218
+    },
+    {
+        "tag": "products.2.quantity",
+        "value": "5",
+        "top": 1028,
+        "left": 853,
+        "height": 86,
+        "width": 216
+    },
+    {
+        "tag": "products.2.total",
+        "value": "12.75",
+        "top": 1028,
+        "left": 1299,
+        "height": 86,
+        "width": 253
+    },
+    {
+        "tag": "products.2.unit_price",
+        "value": "2.55",
+        "top": 1028,
+        "left": 1070,
+        "height": 86,
+        "width": 228
+    },
+    {
+        "tag": "products.3.description",
+        "value": "Large Yellow Babushka Notebook ",
+        "top": 1115,
+        "left": 366,
+        "height": 87,
+        "width": 486
+    },
+    {
+        "tag": "products.3.id",
+        "value": "5761",
+        "top": 1115,
+        "left": 147,
+        "height": 87,
+        "width": 218
+    },
+    {
+        "tag": "products.3.quantity",
+        "value": "3",
+        "top": 1115,
+        "left": 853,
+        "height": 87,
+        "width": 216
+    },
+    {
+        "tag": "products.3.total",
+        "value": "3.75",
+        "top": 1115,
+        "left": 1299,
+        "height": 87,
+        "width": 253
+    },
+    {
+        "tag": "products.3.unit_price",
+        "value": "1.25",
+        "top": 1115,
+        "left": 1070,
+        "height": 87,
+        "width": 228
+    },
+    {
+        "tag": "products.4.description",
+        "value": "Wooden Picture Frame White Finish",
+        "top": 1203,
+        "left": 366,
+        "height": 86,
+        "width": 486
+    },
+    {
+        "tag": "products.4.id",
+        "value": "1345",
+        "top": 1203,
+        "left": 147,
+        "height": 86,
+        "width": 218
+    },
+    {
+        "tag": "products.4.quantity",
+        "value": "7",
+        "top": 1203,
+        "left": 853,
+        "height": 86,
+        "width": 216
+    },
+    {
+        "tag": "products.4.total",
+        "value": "34.72",
+        "top": 1203,
+        "left": 1299,
+        "height": 86,
+        "width": 253
+    },
+    {
+        "tag": "products.4.unit_price",
+        "value": "4.96",
+        "top": 1203,
+        "left": 1070,
+        "height": 86,
+        "width": 228
+    },
+    {
+        "tag": "products.5.description",
+        "value": "Recipe Box Blue Sketchbook Design",
+        "top": 1290,
+        "left": 366,
+        "height": 87,
+        "width": 486
+    },
+    {
+        "tag": "products.5.id",
+        "value": "3075",
+        "top": 1290,
+        "left": 147,
+        "height": 87,
+        "width": 218
+    },
+    {
+        "tag": "products.5.quantity",
+        "value": "2",
+        "top": 1290,
+        "left": 853,
+        "height": 87,
+        "width": 216
+    },
+    {
+        "tag": "products.5.total",
+        "value": "5.90",
+        "top": 1290,
+        "left": 1299,
+        "height": 87,
+        "width": 253
+    },
+    {
+        "tag": "products.5.unit_price",
+        "value": "2.95",
+        "top": 1290,
+        "left": 1070,
+        "height": 87,
+        "width": 228
+    },
+    {
+        "tag": "seller.address",
+        "value": "1795 John Street\nWest Jeffreyberg, KS 84899",
+        "top": 285,
+        "left": 147,
+        "height": 74,
+        "width": 701
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Mooney, Weber and Rogers",
+        "top": 235,
+        "left": 147,
+        "height": 49,
+        "width": 701
+    },
+    {
+        "tag": "seller.email",
+        "value": "christinecrawford@christensen.com",
+        "top": 435,
+        "left": 147,
+        "height": 49,
+        "width": 701
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+1-206-465-5231x9088",
+        "top": 360,
+        "left": 147,
+        "height": 74,
+        "width": 701
+    },
+    {
+        "tag": "seller.website",
+        "value": "wilson.com",
+        "top": 485,
+        "left": 147,
+        "height": 49,
+        "width": 701
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 71.82",
+        "top": 1753,
+        "left": 1299,
+        "height": 76,
+        "width": 253
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "66.81",
+        "top": 1603,
+        "left": 1299,
+        "height": 49,
+        "width": 253
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "5.01",
+        "top": 1653,
+        "left": 1299,
+        "height": 49,
+        "width": 253
+    }
+]

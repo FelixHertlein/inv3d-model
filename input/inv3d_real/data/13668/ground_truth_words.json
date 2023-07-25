@@ -1,0 +1,408 @@
+[
+    {
+        "text": "Invoice",
+        "top": 89,
+        "left": 101,
+        "height": 33,
+        "width": 83
+    },
+    {
+        "text": "Number:",
+        "top": 89,
+        "left": 190,
+        "height": 33,
+        "width": 103
+    },
+    {
+        "text": "#189171",
+        "top": 89,
+        "left": 424,
+        "height": 33,
+        "width": 101
+    },
+    {
+        "text": "Johnson-Williams",
+        "top": 184,
+        "left": 101,
+        "height": 66,
+        "width": 411
+    },
+    {
+        "text": "8431",
+        "top": 308,
+        "left": 101,
+        "height": 33,
+        "width": 58
+    },
+    {
+        "text": "Scott",
+        "top": 308,
+        "left": 165,
+        "height": 33,
+        "width": 59
+    },
+    {
+        "text": "Village",
+        "top": 308,
+        "left": 230,
+        "height": 33,
+        "width": 83
+    },
+    {
+        "text": "Apt.",
+        "top": 308,
+        "left": 320,
+        "height": 33,
+        "width": 45
+    },
+    {
+        "text": "208",
+        "top": 308,
+        "left": 372,
+        "height": 33,
+        "width": 43
+    },
+    {
+        "text": "Brownfurt,",
+        "top": 343,
+        "left": 101,
+        "height": 33,
+        "width": 129
+    },
+    {
+        "text": "GA",
+        "top": 343,
+        "left": 236,
+        "height": 33,
+        "width": 36
+    },
+    {
+        "text": "92943",
+        "top": 343,
+        "left": 278,
+        "height": 33,
+        "width": 72
+    },
+    {
+        "text": "+41",
+        "top": 381,
+        "left": 101,
+        "height": 33,
+        "width": 43
+    },
+    {
+        "text": "(0)61",
+        "top": 381,
+        "left": 151,
+        "height": 33,
+        "width": 60
+    },
+    {
+        "text": "250",
+        "top": 381,
+        "left": 217,
+        "height": 33,
+        "width": 43
+    },
+    {
+        "text": "08",
+        "top": 381,
+        "left": 267,
+        "height": 33,
+        "width": 28
+    },
+    {
+        "text": "04",
+        "top": 381,
+        "left": 303,
+        "height": 33,
+        "width": 28
+    },
+    {
+        "text": "barbarabrown@holland-williams.com",
+        "top": 421,
+        "left": 101,
+        "height": 33,
+        "width": 456
+    },
+    {
+        "text": "hill.com",
+        "top": 460,
+        "left": 101,
+        "height": 33,
+        "width": 95
+    },
+    {
+        "text": "Wallace",
+        "top": 539,
+        "left": 101,
+        "height": 33,
+        "width": 95
+    },
+    {
+        "text": "PLC",
+        "top": 539,
+        "left": 203,
+        "height": 33,
+        "width": 45
+    },
+    {
+        "text": "Matthew",
+        "top": 579,
+        "left": 101,
+        "height": 33,
+        "width": 102
+    },
+    {
+        "text": "Holmes",
+        "top": 579,
+        "left": 209,
+        "height": 33,
+        "width": 91
+    },
+    {
+        "text": "8599",
+        "top": 617,
+        "left": 101,
+        "height": 33,
+        "width": 58
+    },
+    {
+        "text": "Charles",
+        "top": 617,
+        "left": 165,
+        "height": 33,
+        "width": 91
+    },
+    {
+        "text": "Lake",
+        "top": 617,
+        "left": 263,
+        "height": 33,
+        "width": 56
+    },
+    {
+        "text": "Apt.",
+        "top": 617,
+        "left": 326,
+        "height": 33,
+        "width": 45
+    },
+    {
+        "text": "312",
+        "top": 617,
+        "left": 378,
+        "height": 33,
+        "width": 43
+    },
+    {
+        "text": "Harrisonfort,",
+        "top": 652,
+        "left": 101,
+        "height": 33,
+        "width": 160
+    },
+    {
+        "text": "DE",
+        "top": 652,
+        "left": 267,
+        "height": 33,
+        "width": 34
+    },
+    {
+        "text": "58917",
+        "top": 652,
+        "left": 307,
+        "height": 33,
+        "width": 72
+    },
+    {
+        "text": "+62-82-403-9856",
+        "top": 690,
+        "left": 101,
+        "height": 33,
+        "width": 199
+    },
+    {
+        "text": "alexis58@smith.com",
+        "top": 729,
+        "left": 101,
+        "height": 33,
+        "width": 245
+    },
+    {
+        "text": "Issue",
+        "top": 579,
+        "left": 1072,
+        "height": 33,
+        "width": 60
+    },
+    {
+        "text": "Date:",
+        "top": 579,
+        "left": 1139,
+        "height": 33,
+        "width": 61
+    },
+    {
+        "text": "Expiry",
+        "top": 633,
+        "left": 1072,
+        "height": 33,
+        "width": 78
+    },
+    {
+        "text": "Date:",
+        "top": 633,
+        "left": 1156,
+        "height": 33,
+        "width": 61
+    },
+    {
+        "text": "2007-12-07",
+        "top": 579,
+        "left": 1329,
+        "height": 33,
+        "width": 133
+    },
+    {
+        "text": "-",
+        "top": 633,
+        "left": 1329,
+        "height": 33,
+        "width": 7
+    },
+    {
+        "text": "Description",
+        "top": 866,
+        "left": 343,
+        "height": 39,
+        "width": 157
+    },
+    {
+        "text": "Quantity",
+        "top": 866,
+        "left": 844,
+        "height": 39,
+        "width": 115
+    },
+    {
+        "text": "Unit",
+        "top": 866,
+        "left": 1120,
+        "height": 39,
+        "width": 56
+    },
+    {
+        "text": "Price",
+        "top": 866,
+        "left": 1185,
+        "height": 39,
+        "width": 71
+    },
+    {
+        "text": "Total",
+        "top": 866,
+        "left": 1438,
+        "height": 39,
+        "width": 71
+    },
+    {
+        "text": "Vintage",
+        "top": 969,
+        "left": 101,
+        "height": 33,
+        "width": 89
+    },
+    {
+        "text": "leaf",
+        "top": 969,
+        "left": 197,
+        "height": 33,
+        "width": 43
+    },
+    {
+        "text": "magnetic",
+        "top": 969,
+        "left": 247,
+        "height": 33,
+        "width": 108
+    },
+    {
+        "text": "notepad",
+        "top": 969,
+        "left": 361,
+        "height": 33,
+        "width": 93
+    },
+    {
+        "text": "8",
+        "top": 969,
+        "left": 772,
+        "height": 33,
+        "width": 14
+    },
+    {
+        "text": "1.45",
+        "top": 969,
+        "left": 1060,
+        "height": 33,
+        "width": 49
+    },
+    {
+        "text": "11.60",
+        "top": 969,
+        "left": 1345,
+        "height": 33,
+        "width": 64
+    },
+    {
+        "text": "Subtotal",
+        "top": 1672,
+        "left": 1137,
+        "height": 33,
+        "width": 97
+    },
+    {
+        "text": "Tax",
+        "top": 1772,
+        "left": 1164,
+        "height": 33,
+        "width": 43
+    },
+    {
+        "text": "Total",
+        "top": 1869,
+        "left": 1150,
+        "height": 39,
+        "width": 71
+    },
+    {
+        "text": "11.60",
+        "top": 1672,
+        "left": 1442,
+        "height": 33,
+        "width": 64
+    },
+    {
+        "text": "0.58",
+        "top": 1772,
+        "left": 1449,
+        "height": 33,
+        "width": 49
+    },
+    {
+        "text": "$",
+        "top": 1866,
+        "left": 1348,
+        "height": 43,
+        "width": 18
+    },
+    {
+        "text": "12.18",
+        "top": 1866,
+        "left": 1375,
+        "height": 43,
+        "width": 83
+    }
+]

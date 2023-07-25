@@ -1,0 +1,202 @@
+[
+    {
+        "tag": "buyer.bill.address.city",
+        "value": "Alexandermouth, FL 23323",
+        "top": 511,
+        "left": 233,
+        "height": 26,
+        "width": 360
+    },
+    {
+        "tag": "buyer.bill.address.city.postcode",
+        "value": "23323",
+        "top": 537,
+        "left": 233,
+        "height": 106,
+        "width": 360
+    },
+    {
+        "tag": "buyer.bill.address.street",
+        "value": "4326 Matthew Gardens Suite 390",
+        "top": 485,
+        "left": 233,
+        "height": 26,
+        "width": 360
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Vincent Davidson",
+        "top": 454,
+        "left": 233,
+        "height": 31,
+        "width": 360
+    },
+    {
+        "tag": "invoice_date",
+        "value": "14 Apr, 2007",
+        "top": 331,
+        "left": 594,
+        "height": 52,
+        "width": 206
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#867064",
+        "top": 339,
+        "left": 233,
+        "height": 44,
+        "width": 360
+    },
+    {
+        "tag": "payment_terms",
+        "value": "Cash with order",
+        "top": 1686,
+        "left": 233,
+        "height": 103,
+        "width": 609
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Starfish soap dish",
+        "top": 761,
+        "left": 233,
+        "height": 57,
+        "width": 609
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "1",
+        "top": 761,
+        "left": 1023,
+        "height": 57,
+        "width": 149
+    },
+    {
+        "tag": "products.0.total",
+        "value": "4.96",
+        "top": 761,
+        "left": 1173,
+        "height": 57,
+        "width": 191
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "4.96",
+        "top": 761,
+        "left": 843,
+        "height": 57,
+        "width": 134
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Pizza plate in box",
+        "top": 819,
+        "left": 233,
+        "height": 58,
+        "width": 609
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "3",
+        "top": 819,
+        "left": 1023,
+        "height": 58,
+        "width": 149
+    },
+    {
+        "tag": "products.1.total",
+        "value": "11.25",
+        "top": 819,
+        "left": 1173,
+        "height": 58,
+        "width": 191
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "3.75",
+        "top": 819,
+        "left": 843,
+        "height": 58,
+        "width": 134
+    },
+    {
+        "tag": "seller.address",
+        "value": "062 Blevins Passage Apt. 044\nPort Ashleymouth, TX 35391",
+        "top": 447,
+        "left": 594,
+        "height": 52,
+        "width": 578
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Morales-Harvey",
+        "top": 421,
+        "left": 594,
+        "height": 26,
+        "width": 578
+    },
+    {
+        "tag": "seller.email",
+        "value": "curtisswanson@robbins-allen.com",
+        "top": 524,
+        "left": 594,
+        "height": 26,
+        "width": 348
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+39 3229 33866417",
+        "top": 499,
+        "left": 594,
+        "height": 25,
+        "width": 578
+    },
+    {
+        "tag": "seller.website",
+        "value": "bridges-williams.com",
+        "top": 550,
+        "left": 594,
+        "height": 93,
+        "width": 219
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 12.59",
+        "top": 1520,
+        "left": 1173,
+        "height": 81,
+        "width": 235
+    },
+    {
+        "tag": "summary.discount",
+        "value": "4.23",
+        "top": 1294,
+        "left": 1173,
+        "height": 50,
+        "width": 191
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "16.21",
+        "top": 1244,
+        "left": 1173,
+        "height": 49,
+        "width": 191
+    },
+    {
+        "tag": "summary.tax_rate",
+        "value": "5.1%",
+        "top": 1345,
+        "left": 1173,
+        "height": 49,
+        "width": 191
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "0.61",
+        "top": 1395,
+        "left": 1173,
+        "height": 49,
+        "width": 191
+    }
+]

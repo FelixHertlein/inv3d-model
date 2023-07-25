@@ -1,0 +1,520 @@
+[
+    {
+        "text": "INVOICE",
+        "top": 84,
+        "left": 246,
+        "height": 181,
+        "width": 429
+    },
+    {
+        "text": "Invoice",
+        "top": 310,
+        "left": 246,
+        "height": 33,
+        "width": 70
+    },
+    {
+        "text": "number",
+        "top": 310,
+        "left": 322,
+        "height": 33,
+        "width": 75
+    },
+    {
+        "text": "#867064",
+        "top": 338,
+        "left": 246,
+        "height": 33,
+        "width": 82
+    },
+    {
+        "text": "Date",
+        "top": 298,
+        "left": 606,
+        "height": 33,
+        "width": 45
+    },
+    {
+        "text": "of",
+        "top": 298,
+        "left": 659,
+        "height": 33,
+        "width": 19
+    },
+    {
+        "text": "issue",
+        "top": 298,
+        "left": 685,
+        "height": 33,
+        "width": 49
+    },
+    {
+        "text": "14",
+        "top": 326,
+        "left": 606,
+        "height": 33,
+        "width": 22
+    },
+    {
+        "text": "Apr,",
+        "top": 326,
+        "left": 634,
+        "height": 33,
+        "width": 35
+    },
+    {
+        "text": "2007",
+        "top": 326,
+        "left": 677,
+        "height": 33,
+        "width": 46
+    },
+    {
+        "text": "Billed",
+        "top": 425,
+        "left": 246,
+        "height": 33,
+        "width": 57
+    },
+    {
+        "text": "to",
+        "top": 425,
+        "left": 308,
+        "height": 33,
+        "width": 20
+    },
+    {
+        "text": "Vincent",
+        "top": 451,
+        "left": 246,
+        "height": 33,
+        "width": 72
+    },
+    {
+        "text": "Davidson",
+        "top": 451,
+        "left": 324,
+        "height": 33,
+        "width": 91
+    },
+    {
+        "text": "4326",
+        "top": 477,
+        "left": 246,
+        "height": 33,
+        "width": 48
+    },
+    {
+        "text": "Matthew",
+        "top": 477,
+        "left": 300,
+        "height": 33,
+        "width": 86
+    },
+    {
+        "text": "Gardens",
+        "top": 477,
+        "left": 393,
+        "height": 33,
+        "width": 80
+    },
+    {
+        "text": "Suite",
+        "top": 477,
+        "left": 479,
+        "height": 33,
+        "width": 49
+    },
+    {
+        "text": "390",
+        "top": 477,
+        "left": 536,
+        "height": 33,
+        "width": 36
+    },
+    {
+        "text": "Alexandermouth,",
+        "top": 503,
+        "left": 246,
+        "height": 33,
+        "width": 164
+    },
+    {
+        "text": "FL",
+        "top": 503,
+        "left": 417,
+        "height": 33,
+        "width": 21
+    },
+    {
+        "text": "23323",
+        "top": 503,
+        "left": 445,
+        "height": 33,
+        "width": 59
+    },
+    {
+        "text": "23323",
+        "top": 529,
+        "left": 246,
+        "height": 33,
+        "width": 59
+    },
+    {
+        "text": "Morales-Harvey",
+        "top": 413,
+        "left": 606,
+        "height": 33,
+        "width": 156
+    },
+    {
+        "text": "062",
+        "top": 439,
+        "left": 606,
+        "height": 33,
+        "width": 35
+    },
+    {
+        "text": "Blevins",
+        "top": 439,
+        "left": 648,
+        "height": 33,
+        "width": 72
+    },
+    {
+        "text": "Passage",
+        "top": 439,
+        "left": 727,
+        "height": 33,
+        "width": 80
+    },
+    {
+        "text": "Apt.",
+        "top": 439,
+        "left": 814,
+        "height": 33,
+        "width": 37
+    },
+    {
+        "text": "044",
+        "top": 439,
+        "left": 858,
+        "height": 33,
+        "width": 36
+    },
+    {
+        "text": "Port",
+        "top": 465,
+        "left": 606,
+        "height": 33,
+        "width": 40
+    },
+    {
+        "text": "Ashleymouth,",
+        "top": 465,
+        "left": 652,
+        "height": 33,
+        "width": 132
+    },
+    {
+        "text": "TX",
+        "top": 465,
+        "left": 791,
+        "height": 33,
+        "width": 24
+    },
+    {
+        "text": "35391",
+        "top": 465,
+        "left": 822,
+        "height": 33,
+        "width": 58
+    },
+    {
+        "text": "+39",
+        "top": 491,
+        "left": 606,
+        "height": 33,
+        "width": 34
+    },
+    {
+        "text": "3229",
+        "top": 491,
+        "left": 646,
+        "height": 33,
+        "width": 48
+    },
+    {
+        "text": "33866417",
+        "top": 491,
+        "left": 701,
+        "height": 33,
+        "width": 90
+    },
+    {
+        "text": "curtisswanson@robbins-allen.com",
+        "top": 517,
+        "left": 606,
+        "height": 33,
+        "width": 336
+    },
+    {
+        "text": "bridges-williams.com",
+        "top": 543,
+        "left": 606,
+        "height": 33,
+        "width": 207
+    },
+    {
+        "text": "Amount",
+        "top": 672,
+        "left": 1276,
+        "height": 33,
+        "width": 74
+    },
+    {
+        "text": "4.96",
+        "top": 765,
+        "left": 1308,
+        "height": 33,
+        "width": 42
+    },
+    {
+        "text": "11.25",
+        "top": 823,
+        "left": 1300,
+        "height": 33,
+        "width": 49
+    },
+    {
+        "text": "16.21",
+        "top": 1248,
+        "left": 1300,
+        "height": 33,
+        "width": 50
+    },
+    {
+        "text": "4.23",
+        "top": 1298,
+        "left": 1308,
+        "height": 33,
+        "width": 41
+    },
+    {
+        "text": "5.1%",
+        "top": 1349,
+        "left": 1306,
+        "height": 33,
+        "width": 44
+    },
+    {
+        "text": "0.61",
+        "top": 1399,
+        "left": 1312,
+        "height": 33,
+        "width": 38
+    },
+    {
+        "text": "$",
+        "top": 1517,
+        "left": 1217,
+        "height": 73,
+        "width": 26
+    },
+    {
+        "text": "12.59",
+        "top": 1517,
+        "left": 1255,
+        "height": 73,
+        "width": 108
+    },
+    {
+        "text": "Description",
+        "top": 672,
+        "left": 246,
+        "height": 33,
+        "width": 111
+    },
+    {
+        "text": "Star\ufb01sh",
+        "top": 769,
+        "left": 246,
+        "height": 33,
+        "width": 75
+    },
+    {
+        "text": "soap",
+        "top": 769,
+        "left": 326,
+        "height": 33,
+        "width": 47
+    },
+    {
+        "text": "dish",
+        "top": 769,
+        "left": 379,
+        "height": 33,
+        "width": 40
+    },
+    {
+        "text": "Pizza",
+        "top": 827,
+        "left": 246,
+        "height": 33,
+        "width": 50
+    },
+    {
+        "text": "plate",
+        "top": 827,
+        "left": 302,
+        "height": 33,
+        "width": 49
+    },
+    {
+        "text": "in",
+        "top": 827,
+        "left": 358,
+        "height": 33,
+        "width": 18
+    },
+    {
+        "text": "box",
+        "top": 827,
+        "left": 383,
+        "height": 33,
+        "width": 35
+    },
+    {
+        "text": "Terms",
+        "top": 1657,
+        "left": 246,
+        "height": 33,
+        "width": 58
+    },
+    {
+        "text": "Cash",
+        "top": 1683,
+        "left": 246,
+        "height": 33,
+        "width": 47
+    },
+    {
+        "text": "with",
+        "top": 1683,
+        "left": 298,
+        "height": 33,
+        "width": 43
+    },
+    {
+        "text": "order",
+        "top": 1683,
+        "left": 346,
+        "height": 33,
+        "width": 52
+    },
+    {
+        "text": "Unit",
+        "top": 672,
+        "left": 877,
+        "height": 33,
+        "width": 40
+    },
+    {
+        "text": "cost",
+        "top": 672,
+        "left": 924,
+        "height": 33,
+        "width": 40
+    },
+    {
+        "text": "Qty/HR",
+        "top": 672,
+        "left": 1037,
+        "height": 33,
+        "width": 75
+    },
+    {
+        "text": "rate",
+        "top": 672,
+        "left": 1119,
+        "height": 33,
+        "width": 39
+    },
+    {
+        "text": "4.96",
+        "top": 769,
+        "left": 922,
+        "height": 33,
+        "width": 42
+    },
+    {
+        "text": "3.75",
+        "top": 827,
+        "left": 924,
+        "height": 33,
+        "width": 39
+    },
+    {
+        "text": "1",
+        "top": 769,
+        "left": 1149,
+        "height": 33,
+        "width": 9
+    },
+    {
+        "text": "3",
+        "top": 827,
+        "left": 1147,
+        "height": 33,
+        "width": 11
+    },
+    {
+        "text": "Subtotal",
+        "top": 1248,
+        "left": 1077,
+        "height": 33,
+        "width": 82
+    },
+    {
+        "text": "Discount",
+        "top": 1298,
+        "left": 1075,
+        "height": 33,
+        "width": 84
+    },
+    {
+        "text": "(Tax",
+        "top": 1349,
+        "left": 1065,
+        "height": 33,
+        "width": 41
+    },
+    {
+        "text": "rate)",
+        "top": 1349,
+        "left": 1111,
+        "height": 33,
+        "width": 47
+    },
+    {
+        "text": "Tax",
+        "top": 1399,
+        "left": 1127,
+        "height": 33,
+        "width": 33
+    },
+    {
+        "text": "Invoice",
+        "top": 1540,
+        "left": 1037,
+        "height": 33,
+        "width": 70
+    },
+    {
+        "text": "total",
+        "top": 1540,
+        "left": 1113,
+        "height": 33,
+        "width": 46
+    }
+]

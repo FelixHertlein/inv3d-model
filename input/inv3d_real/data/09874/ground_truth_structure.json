@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Hoganmouth",
+                    "postcode": "54696",
+                    "state_abbr": "MN"
+                },
+                "street": {
+                    "building_number": "8121",
+                    "secondary_address": "Apt. 366",
+                    "street_name": "Dustin Ports"
+                }
+            },
+            "contact": {
+                "first_name": "Angela",
+                "last_name": "Davis"
+            },
+            "customer_id": 5502274,
+            "phone_number": {
+                "country_code": 30,
+                "national_number": 6937010622
+            }
+        },
+        "company": {
+            "name": "Williams, Allison and Wilcox"
+        },
+        "shipment": {
+            "address": {
+                "city": {
+                    "city_name": "North Nathaniel",
+                    "postcode": "19312",
+                    "state_abbr": "IL"
+                },
+                "street": {
+                    "building_number": "915",
+                    "street_name": "Moore Parkways"
+                }
+            },
+            "contact": {
+                "first_name": "Melissa",
+                "last_name": "Spears"
+            },
+            "phone_number": {
+                "country_code": 1,
+                "extension": 62441,
+                "national_number": 4384073207
+            }
+        }
+    },
+    "invoice_date": {
+        "day": 6,
+        "month": 12,
+        "year": 2006
+    },
+    "invoice_due_date": null,
+    "invoice_number": 524880,
+    "payment_terms": "CND",
+    "products": {
+        "0": {
+            "description": "Jumbo bag red retrospot",
+            "id": 2990,
+            "quantity": 1,
+            "total": 1.79,
+            "unit_price": 1.79
+        },
+        "1": {
+            "description": "Cook with wine metal sign ",
+            "id": 7203,
+            "quantity": 2,
+            "total": 3.9,
+            "unit_price": 1.95
+        }
+    },
+    "seller": {
+        "company": {
+            "name": "Marshall, Evans and Williams"
+        },
+        "salesperson": {
+            "first_name": "Stuart",
+            "last_name": "Gonzalez"
+        }
+    },
+    "summary": {
+        "balance": 5.24,
+        "discount": 0.72,
+        "shipping": {
+            "method": "FedEx"
+        },
+        "subtotal": 5.69,
+        "tax_total": 0.27
+    }
+}

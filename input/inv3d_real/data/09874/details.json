@@ -1,0 +1,22 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_17.htm",
+        "logo": "logos/LLD-logo-files/stalbertgazette.png",
+        "font": "fonts/Montserrat/Montserrat-Regular.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#404040": "#404040",
+            "#1F4E79": "#451f79",
+            "#5B9BD5": "#5a95d5",
+            "#2E74B5": "#2eb559",
+            "#DEEAF6": "#deeff6"
+        },
+        "font_scale": 1.1911630189308644,
+        "margin": 10
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/AG8A0489-b02f817def.exr",
+        "mesh": "meshes/objs/C/1/1_581_7.obj",
+        "resolution": 1600
+    }
+}

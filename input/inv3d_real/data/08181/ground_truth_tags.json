@@ -1,0 +1,330 @@
+[
+    {
+        "tag": "buyer.bill.address",
+        "value": "8601 Gibbs Fields\nJohnsonstad, AK 78644",
+        "top": 296,
+        "left": 850,
+        "height": 79,
+        "width": 774
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Daniel Thompson",
+        "top": 217,
+        "left": 850,
+        "height": 78,
+        "width": 774
+    },
+    {
+        "tag": "buyer.bill.email",
+        "value": "kimthomas@foster-edwards.com",
+        "top": 426,
+        "left": 850,
+        "height": 49,
+        "width": 774
+    },
+    {
+        "tag": "buyer.bill.phone_number",
+        "value": "+972 4 241 3359",
+        "top": 376,
+        "left": 850,
+        "height": 49,
+        "width": 774
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Clark-Williams",
+        "top": 167,
+        "left": 850,
+        "height": 49,
+        "width": 774
+    },
+    {
+        "tag": "invoice_date",
+        "value": "2002-06-28",
+        "top": 555,
+        "left": 848,
+        "height": 78,
+        "width": 255
+    },
+    {
+        "tag": "invoice_due_date",
+        "value": "-",
+        "top": 555,
+        "left": 1365,
+        "height": 78,
+        "width": 257
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#308044",
+        "top": 555,
+        "left": 396,
+        "height": 78,
+        "width": 193
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Set 12 Colour Pencils Spaceboy ",
+        "top": 802,
+        "left": 321,
+        "height": 87,
+        "width": 533
+    },
+    {
+        "tag": "products.0.id",
+        "value": "1866",
+        "top": 802,
+        "left": 78,
+        "height": 87,
+        "width": 242
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "10",
+        "top": 802,
+        "left": 855,
+        "height": 87,
+        "width": 236
+    },
+    {
+        "tag": "products.0.total",
+        "value": "6.50",
+        "top": 802,
+        "left": 1344,
+        "height": 87,
+        "width": 280
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "0.65",
+        "top": 802,
+        "left": 1092,
+        "height": 87,
+        "width": 251
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Red Retrospot Charlotte Bag",
+        "top": 890,
+        "left": 321,
+        "height": 86,
+        "width": 533
+    },
+    {
+        "tag": "products.1.id",
+        "value": "5239",
+        "top": 890,
+        "left": 78,
+        "height": 86,
+        "width": 242
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "4",
+        "top": 890,
+        "left": 855,
+        "height": 86,
+        "width": 236
+    },
+    {
+        "tag": "products.1.total",
+        "value": "3.40",
+        "top": 890,
+        "left": 1344,
+        "height": 86,
+        "width": 280
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "0.85",
+        "top": 890,
+        "left": 1092,
+        "height": 86,
+        "width": 251
+    },
+    {
+        "tag": "products.2.description",
+        "value": "Spaceboy Mini Backpack",
+        "top": 977,
+        "left": 321,
+        "height": 87,
+        "width": 533
+    },
+    {
+        "tag": "products.2.id",
+        "value": "7172",
+        "top": 977,
+        "left": 78,
+        "height": 87,
+        "width": 242
+    },
+    {
+        "tag": "products.2.quantity",
+        "value": "2",
+        "top": 977,
+        "left": 855,
+        "height": 87,
+        "width": 236
+    },
+    {
+        "tag": "products.2.total",
+        "value": "8.30",
+        "top": 977,
+        "left": 1344,
+        "height": 87,
+        "width": 280
+    },
+    {
+        "tag": "products.2.unit_price",
+        "value": "4.15",
+        "top": 977,
+        "left": 1092,
+        "height": 87,
+        "width": 251
+    },
+    {
+        "tag": "products.3.description",
+        "value": "Set Of 4 Pantry Jelly Moulds",
+        "top": 1065,
+        "left": 321,
+        "height": 86,
+        "width": 533
+    },
+    {
+        "tag": "products.3.id",
+        "value": "4955",
+        "top": 1065,
+        "left": 78,
+        "height": 86,
+        "width": 242
+    },
+    {
+        "tag": "products.3.quantity",
+        "value": "10",
+        "top": 1065,
+        "left": 855,
+        "height": 86,
+        "width": 236
+    },
+    {
+        "tag": "products.3.total",
+        "value": "24.60",
+        "top": 1065,
+        "left": 1344,
+        "height": 86,
+        "width": 280
+    },
+    {
+        "tag": "products.3.unit_price",
+        "value": "2.46",
+        "top": 1065,
+        "left": 1092,
+        "height": 86,
+        "width": 251
+    },
+    {
+        "tag": "products.4.description",
+        "value": "Heart Of Wicker Large",
+        "top": 1152,
+        "left": 321,
+        "height": 87,
+        "width": 533
+    },
+    {
+        "tag": "products.4.id",
+        "value": "8313",
+        "top": 1152,
+        "left": 78,
+        "height": 87,
+        "width": 242
+    },
+    {
+        "tag": "products.4.quantity",
+        "value": "7",
+        "top": 1152,
+        "left": 855,
+        "height": 87,
+        "width": 236
+    },
+    {
+        "tag": "products.4.total",
+        "value": "20.65",
+        "top": 1152,
+        "left": 1344,
+        "height": 87,
+        "width": 280
+    },
+    {
+        "tag": "products.4.unit_price",
+        "value": "2.95",
+        "top": 1152,
+        "left": 1092,
+        "height": 87,
+        "width": 251
+    },
+    {
+        "tag": "seller.address",
+        "value": "765 Ruth Harbors\nLynnmouth, NM 46135",
+        "top": 217,
+        "left": 78,
+        "height": 78,
+        "width": 771
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Snyder, Hammond and Anderson",
+        "top": 167,
+        "left": 78,
+        "height": 49,
+        "width": 771
+    },
+    {
+        "tag": "seller.email",
+        "value": "katherineterrell@lynch-hutchinson.org",
+        "top": 376,
+        "left": 78,
+        "height": 49,
+        "width": 771
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+48 880 467 751",
+        "top": 296,
+        "left": 78,
+        "height": 79,
+        "width": 771
+    },
+    {
+        "tag": "seller.website",
+        "value": "barnett.com",
+        "top": 426,
+        "left": 78,
+        "height": 49,
+        "width": 771
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 69.22",
+        "top": 1702,
+        "left": 1344,
+        "height": 76,
+        "width": 280
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "63.45",
+        "top": 1552,
+        "left": 1344,
+        "height": 49,
+        "width": 280
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "5.77",
+        "top": 1602,
+        "left": 1344,
+        "height": 49,
+        "width": 280
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_16.htm",
+        "logo": "logos/LLD-logo-files/alhurra.png",
+        "font": "fonts/Noto_Serif/NotoSerif-Bold.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#595959": "#595959"
+        },
+        "font_scale": 0.9614369707670023,
+        "margin": 10
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/AG8A8220-bac7e723d3.exr",
+        "mesh": "meshes/objs/C/2/2_465_2.obj",
+        "resolution": 1600
+    }
+}

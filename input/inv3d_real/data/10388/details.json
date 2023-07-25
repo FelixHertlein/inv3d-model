@@ -1,0 +1,23 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_44.htm",
+        "logo": "logos/LLD-logo-files/irishtimes.png",
+        "font": "fonts/Noto_Serif/NotoSerif-Italic.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#595959": "#595959",
+            "#577188": "#567e88",
+            "#DC9E1F": "#dc1ecf",
+            "#7E97AD": "#7ead93",
+            "#D9D9D9": "#d9d9d9",
+            "#A6A6A6": "#a6a6a6"
+        },
+        "font_scale": 1.1646457985261387,
+        "margin": 11
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/AG8A4173-e513ec63c1.exr",
+        "mesh": "meshes/objs/C/2/2_548_8.obj",
+        "resolution": 1600
+    }
+}

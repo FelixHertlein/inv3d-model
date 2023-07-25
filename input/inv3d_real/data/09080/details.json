@@ -1,0 +1,20 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_47.htm",
+        "logo": "logos/LLD-logo-files/opencollar.png",
+        "font": "fonts/Noto_Serif/NotoSerif-Bold.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#3B3838": "#393b38",
+            "#C1C1C1": "#c1c1c1",
+            "#002060": "#5a0060"
+        },
+        "font_scale": 1.175669230983691,
+        "margin": 18
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/9C4A2683-c4919d7178.exr",
+        "mesh": "meshes/objs/P/16_1.obj",
+        "resolution": 1600
+    }
+}

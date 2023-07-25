@@ -1,0 +1,113 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "West Mariofort",
+                    "postcode": "86062",
+                    "state_abbr": "UT"
+                },
+                "street": {
+                    "building_number": "367",
+                    "secondary_address": "Apt. 145",
+                    "street_name": "Nguyen Crescent"
+                }
+            },
+            "contact": {
+                "first_name": "Lisa",
+                "last_name": "Hall"
+            },
+            "email": "matthew58@wright-diaz.com",
+            "phone_number": {
+                "country_code": 1,
+                "national_number": 8202185048
+            }
+        },
+        "company": {
+            "name": "Sullivan-Alexander"
+        }
+    },
+    "invoice_date": {
+        "day": 15,
+        "month": 8,
+        "year": 1992
+    },
+    "invoice_due_date": {
+        "day": 14,
+        "month": 9,
+        "year": 1992
+    },
+    "invoice_number": 271281,
+    "products": {
+        "0": {
+            "description": "Zinc folkart sleigh bells",
+            "id": 1160,
+            "quantity": 3,
+            "total": 12.39,
+            "unit_price": 4.13
+        },
+        "1": {
+            "description": "Heart filigree dove large",
+            "id": 8184,
+            "quantity": 9,
+            "total": 14.85,
+            "unit_price": 1.65
+        },
+        "2": {
+            "description": "Set/20 red retrospot paper napkins ",
+            "id": 6311,
+            "quantity": 6,
+            "total": 5.1,
+            "unit_price": 0.85
+        },
+        "3": {
+            "description": "Scottie dogs baby bib",
+            "id": 2291,
+            "quantity": 5,
+            "total": 4.15,
+            "unit_price": 0.83
+        },
+        "4": {
+            "description": "Pack of 60 spaceboy cake cases",
+            "id": 8138,
+            "quantity": 2,
+            "total": 1.1,
+            "unit_price": 0.55
+        },
+        "5": {
+            "description": "Regency tea strainer",
+            "id": 1409,
+            "quantity": 2,
+            "total": 6.58,
+            "unit_price": 3.29
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "West Joshuamouth",
+                "postcode": "08801",
+                "state_abbr": "SC"
+            },
+            "street": {
+                "building_number": "71121",
+                "secondary_address": "Suite 191",
+                "street_name": "John Highway"
+            }
+        },
+        "company": {
+            "name": "Mcdaniel, Perez and King"
+        },
+        "email": "chadwang@perkins.org",
+        "phone_number": {
+            "country_code": 962,
+            "national_number": 798364163
+        },
+        "website": "schroeder-fischer.biz"
+    },
+    "summary": {
+        "balance": 46.47,
+        "subtotal": 44.17,
+        "tax_total": 2.3
+    }
+}

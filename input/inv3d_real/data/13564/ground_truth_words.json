@@ -1,0 +1,954 @@
+[
+    {
+        "text": "Crawford",
+        "top": 109,
+        "left": 132,
+        "height": 47,
+        "width": 151
+    },
+    {
+        "text": "Inc",
+        "top": 109,
+        "left": 292,
+        "height": 47,
+        "width": 49
+    },
+    {
+        "text": "6705",
+        "top": 150,
+        "left": 132,
+        "height": 47,
+        "width": 78
+    },
+    {
+        "text": "Katie",
+        "top": 150,
+        "left": 218,
+        "height": 47,
+        "width": 82
+    },
+    {
+        "text": "Trail",
+        "top": 150,
+        "left": 309,
+        "height": 47,
+        "width": 72
+    },
+    {
+        "text": "Anneburgh,",
+        "top": 192,
+        "left": 132,
+        "height": 47,
+        "width": 184
+    },
+    {
+        "text": "KS",
+        "top": 192,
+        "left": 325,
+        "height": 47,
+        "width": 43
+    },
+    {
+        "text": "27272",
+        "top": 192,
+        "left": 377,
+        "height": 47,
+        "width": 93
+    },
+    {
+        "text": "415.677.4171",
+        "top": 233,
+        "left": 132,
+        "height": 47,
+        "width": 195
+    },
+    {
+        "text": "+62",
+        "top": 233,
+        "left": 336,
+        "height": 47,
+        "width": 53
+    },
+    {
+        "text": "(096)",
+        "top": 233,
+        "left": 397,
+        "height": 47,
+        "width": 82
+    },
+    {
+        "text": "756",
+        "top": 233,
+        "left": 488,
+        "height": 47,
+        "width": 57
+    },
+    {
+        "text": "2710",
+        "top": 233,
+        "left": 554,
+        "height": 47,
+        "width": 74
+    },
+    {
+        "text": "Invoice",
+        "top": 340,
+        "left": 153,
+        "height": 39,
+        "width": 96
+    },
+    {
+        "text": "Number:",
+        "top": 340,
+        "left": 256,
+        "height": 39,
+        "width": 114
+    },
+    {
+        "text": "#452575",
+        "top": 340,
+        "left": 376,
+        "height": 39,
+        "width": 114
+    },
+    {
+        "text": "Date:",
+        "top": 404,
+        "left": 153,
+        "height": 39,
+        "width": 72
+    },
+    {
+        "text": "05",
+        "top": 404,
+        "left": 232,
+        "height": 39,
+        "width": 31
+    },
+    {
+        "text": "September,",
+        "top": 404,
+        "left": 269,
+        "height": 39,
+        "width": 152
+    },
+    {
+        "text": "2020",
+        "top": 404,
+        "left": 427,
+        "height": 39,
+        "width": 66
+    },
+    {
+        "text": "Name:",
+        "top": 340,
+        "left": 877,
+        "height": 39,
+        "width": 87
+    },
+    {
+        "text": "Taylor",
+        "top": 340,
+        "left": 970,
+        "height": 39,
+        "width": 82
+    },
+    {
+        "text": "Rodriguez",
+        "top": 340,
+        "left": 1059,
+        "height": 39,
+        "width": 137
+    },
+    {
+        "text": "Street:",
+        "top": 404,
+        "left": 877,
+        "height": 39,
+        "width": 87
+    },
+    {
+        "text": "912",
+        "top": 404,
+        "left": 970,
+        "height": 39,
+        "width": 46
+    },
+    {
+        "text": "Allison",
+        "top": 404,
+        "left": 1024,
+        "height": 39,
+        "width": 90
+    },
+    {
+        "text": "Ranch",
+        "top": 404,
+        "left": 1120,
+        "height": 39,
+        "width": 86
+    },
+    {
+        "text": "Suite",
+        "top": 404,
+        "left": 1213,
+        "height": 39,
+        "width": 67
+    },
+    {
+        "text": "633",
+        "top": 404,
+        "left": 1287,
+        "height": 39,
+        "width": 48
+    },
+    {
+        "text": "City,",
+        "top": 468,
+        "left": 877,
+        "height": 39,
+        "width": 56
+    },
+    {
+        "text": "State,",
+        "top": 468,
+        "left": 939,
+        "height": 39,
+        "width": 78
+    },
+    {
+        "text": "ZIP",
+        "top": 468,
+        "left": 1024,
+        "height": 39,
+        "width": 42
+    },
+    {
+        "text": "Code:",
+        "top": 468,
+        "left": 1071,
+        "height": 39,
+        "width": 77
+    },
+    {
+        "text": "South",
+        "top": 468,
+        "left": 1153,
+        "height": 39,
+        "width": 76
+    },
+    {
+        "text": "Jennifer,",
+        "top": 468,
+        "left": 1235,
+        "height": 39,
+        "width": 113
+    },
+    {
+        "text": "NJ",
+        "top": 468,
+        "left": 1355,
+        "height": 39,
+        "width": 34
+    },
+    {
+        "text": "18862",
+        "top": 468,
+        "left": 1396,
+        "height": 39,
+        "width": 79
+    },
+    {
+        "text": "Description",
+        "top": 521,
+        "left": 765,
+        "height": 47,
+        "width": 180
+    },
+    {
+        "text": "Phone:",
+        "top": 468,
+        "left": 153,
+        "height": 39,
+        "width": 89
+    },
+    {
+        "text": "+38",
+        "top": 468,
+        "left": 248,
+        "height": 39,
+        "width": 45
+    },
+    {
+        "text": "069",
+        "top": 468,
+        "left": 299,
+        "height": 39,
+        "width": 49
+    },
+    {
+        "text": "211",
+        "top": 468,
+        "left": 355,
+        "height": 39,
+        "width": 44
+    },
+    {
+        "text": "47",
+        "top": 468,
+        "left": 406,
+        "height": 39,
+        "width": 32
+    },
+    {
+        "text": "23",
+        "top": 468,
+        "left": 446,
+        "height": 39,
+        "width": 32
+    },
+    {
+        "text": "Item",
+        "top": 521,
+        "left": 397,
+        "height": 47,
+        "width": 72
+    },
+    {
+        "text": "#",
+        "top": 521,
+        "left": 477,
+        "height": 47,
+        "width": 24
+    },
+    {
+        "text": "Quantity",
+        "top": 521,
+        "left": 175,
+        "height": 47,
+        "width": 139
+    },
+    {
+        "text": "9035",
+        "top": 566,
+        "left": 410,
+        "height": 47,
+        "width": 78
+    },
+    {
+        "text": "6900",
+        "top": 609,
+        "left": 408,
+        "height": 47,
+        "width": 82
+    },
+    {
+        "text": "5095",
+        "top": 652,
+        "left": 410,
+        "height": 47,
+        "width": 78
+    },
+    {
+        "text": "4029",
+        "top": 696,
+        "left": 410,
+        "height": 47,
+        "width": 77
+    },
+    {
+        "text": "5614",
+        "top": 739,
+        "left": 412,
+        "height": 47,
+        "width": 74
+    },
+    {
+        "text": "2454",
+        "top": 782,
+        "left": 412,
+        "height": 47,
+        "width": 74
+    },
+    {
+        "text": "4569",
+        "top": 825,
+        "left": 410,
+        "height": 47,
+        "width": 77
+    },
+    {
+        "text": "7742",
+        "top": 868,
+        "left": 413,
+        "height": 47,
+        "width": 72
+    },
+    {
+        "text": "7705",
+        "top": 912,
+        "left": 411,
+        "height": 47,
+        "width": 76
+    },
+    {
+        "text": "9",
+        "top": 566,
+        "left": 234,
+        "height": 47,
+        "width": 20
+    },
+    {
+        "text": "Chilli",
+        "top": 566,
+        "left": 562,
+        "height": 47,
+        "width": 80
+    },
+    {
+        "text": "Lights",
+        "top": 566,
+        "left": 650,
+        "height": 47,
+        "width": 99
+    },
+    {
+        "text": "7",
+        "top": 609,
+        "left": 235,
+        "height": 47,
+        "width": 19
+    },
+    {
+        "text": "Doughnut",
+        "top": 609,
+        "left": 562,
+        "height": 47,
+        "width": 161
+    },
+    {
+        "text": "Lip",
+        "top": 609,
+        "left": 730,
+        "height": 47,
+        "width": 50
+    },
+    {
+        "text": "Gloss",
+        "top": 609,
+        "left": 788,
+        "height": 47,
+        "width": 88
+    },
+    {
+        "text": "3",
+        "top": 652,
+        "left": 235,
+        "height": 47,
+        "width": 18
+    },
+    {
+        "text": "Silver",
+        "top": 652,
+        "left": 562,
+        "height": 47,
+        "width": 89
+    },
+    {
+        "text": "Bells",
+        "top": 652,
+        "left": 658,
+        "height": 47,
+        "width": 78
+    },
+    {
+        "text": "Table",
+        "top": 652,
+        "left": 745,
+        "height": 47,
+        "width": 91
+    },
+    {
+        "text": "Decoration",
+        "top": 652,
+        "left": 844,
+        "height": 47,
+        "width": 178
+    },
+    {
+        "text": "5",
+        "top": 696,
+        "left": 235,
+        "height": 47,
+        "width": 18
+    },
+    {
+        "text": "Found",
+        "top": 696,
+        "left": 562,
+        "height": 47,
+        "width": 101
+    },
+    {
+        "text": "5",
+        "top": 739,
+        "left": 235,
+        "height": 47,
+        "width": 18
+    },
+    {
+        "text": "Pink",
+        "top": 739,
+        "left": 562,
+        "height": 47,
+        "width": 68
+    },
+    {
+        "text": "Fly",
+        "top": 739,
+        "left": 640,
+        "height": 47,
+        "width": 46
+    },
+    {
+        "text": "Swat",
+        "top": 739,
+        "left": 696,
+        "height": 47,
+        "width": 82
+    },
+    {
+        "text": "1",
+        "top": 782,
+        "left": 236,
+        "height": 47,
+        "width": 16
+    },
+    {
+        "text": "Set",
+        "top": 782,
+        "left": 562,
+        "height": 47,
+        "width": 52
+    },
+    {
+        "text": "Of",
+        "top": 782,
+        "left": 621,
+        "height": 47,
+        "width": 37
+    },
+    {
+        "text": "10",
+        "top": 782,
+        "left": 667,
+        "height": 47,
+        "width": 37
+    },
+    {
+        "text": "Led",
+        "top": 782,
+        "left": 712,
+        "height": 47,
+        "width": 60
+    },
+    {
+        "text": "Dolly",
+        "top": 782,
+        "left": 782,
+        "height": 47,
+        "width": 83
+    },
+    {
+        "text": "Lights",
+        "top": 782,
+        "left": 874,
+        "height": 47,
+        "width": 99
+    },
+    {
+        "text": "9",
+        "top": 825,
+        "left": 234,
+        "height": 47,
+        "width": 20
+    },
+    {
+        "text": "Aged",
+        "top": 825,
+        "left": 562,
+        "height": 47,
+        "width": 83
+    },
+    {
+        "text": "Glass",
+        "top": 825,
+        "left": 654,
+        "height": 47,
+        "width": 90
+    },
+    {
+        "text": "Silver",
+        "top": 825,
+        "left": 753,
+        "height": 47,
+        "width": 89
+    },
+    {
+        "text": "T-Light",
+        "top": 825,
+        "left": 850,
+        "height": 47,
+        "width": 115
+    },
+    {
+        "text": "Holder",
+        "top": 825,
+        "left": 973,
+        "height": 47,
+        "width": 109
+    },
+    {
+        "text": "9",
+        "top": 868,
+        "left": 234,
+        "height": 47,
+        "width": 20
+    },
+    {
+        "text": "Wake",
+        "top": 868,
+        "left": 562,
+        "height": 47,
+        "width": 95
+    },
+    {
+        "text": "Up",
+        "top": 868,
+        "left": 665,
+        "height": 47,
+        "width": 46
+    },
+    {
+        "text": "Cockerel",
+        "top": 868,
+        "left": 718,
+        "height": 47,
+        "width": 142
+    },
+    {
+        "text": "Tile",
+        "top": 868,
+        "left": 868,
+        "height": 47,
+        "width": 58
+    },
+    {
+        "text": "Coaster",
+        "top": 868,
+        "left": 934,
+        "height": 47,
+        "width": 126
+    },
+    {
+        "text": "6",
+        "top": 912,
+        "left": 234,
+        "height": 47,
+        "width": 20
+    },
+    {
+        "text": "Wooden",
+        "top": 912,
+        "left": 562,
+        "height": 47,
+        "width": 135
+    },
+    {
+        "text": "Skittles",
+        "top": 912,
+        "left": 706,
+        "height": 47,
+        "width": 119
+    },
+    {
+        "text": "Garden",
+        "top": 912,
+        "left": 833,
+        "height": 47,
+        "width": 121
+    },
+    {
+        "text": "Set",
+        "top": 912,
+        "left": 963,
+        "height": 47,
+        "width": 52
+    },
+    {
+        "text": "Comments",
+        "top": 1344,
+        "left": 228,
+        "height": 47,
+        "width": 173
+    },
+    {
+        "text": "or",
+        "top": 1344,
+        "left": 409,
+        "height": 47,
+        "width": 33
+    },
+    {
+        "text": "Special",
+        "top": 1344,
+        "left": 450,
+        "height": 47,
+        "width": 119
+    },
+    {
+        "text": "Instructions:",
+        "top": 1385,
+        "left": 300,
+        "height": 47,
+        "width": 197
+    },
+    {
+        "text": "Cash",
+        "top": 1428,
+        "left": 152,
+        "height": 47,
+        "width": 81
+    },
+    {
+        "text": "on",
+        "top": 1428,
+        "left": 243,
+        "height": 47,
+        "width": 40
+    },
+    {
+        "text": "delivery",
+        "top": 1428,
+        "left": 292,
+        "height": 47,
+        "width": 127
+    },
+    {
+        "text": "Unit",
+        "top": 521,
+        "left": 1196,
+        "height": 47,
+        "width": 66
+    },
+    {
+        "text": "Price",
+        "top": 521,
+        "left": 1270,
+        "height": 47,
+        "width": 78
+    },
+    {
+        "text": "12.46",
+        "top": 566,
+        "left": 1231,
+        "height": 47,
+        "width": 82
+    },
+    {
+        "text": "1.25",
+        "top": 609,
+        "left": 1241,
+        "height": 47,
+        "width": 61
+    },
+    {
+        "text": "1.25",
+        "top": 652,
+        "left": 1241,
+        "height": 47,
+        "width": 61
+    },
+    {
+        "text": "0.00",
+        "top": 696,
+        "left": 1237,
+        "height": 47,
+        "width": 70
+    },
+    {
+        "text": "0.65",
+        "top": 739,
+        "left": 1238,
+        "height": 47,
+        "width": 67
+    },
+    {
+        "text": "6.25",
+        "top": 782,
+        "left": 1239,
+        "height": 47,
+        "width": 65
+    },
+    {
+        "text": "0.55",
+        "top": 825,
+        "left": 1239,
+        "height": 47,
+        "width": 65
+    },
+    {
+        "text": "1.25",
+        "top": 868,
+        "left": 1241,
+        "height": 47,
+        "width": 61
+    },
+    {
+        "text": "12.75",
+        "top": 912,
+        "left": 1232,
+        "height": 47,
+        "width": 80
+    },
+    {
+        "text": "Total",
+        "top": 1344,
+        "left": 1231,
+        "height": 47,
+        "width": 82
+    },
+    {
+        "text": "Labor",
+        "top": 1385,
+        "left": 1224,
+        "height": 47,
+        "width": 97
+    },
+    {
+        "text": "Sales",
+        "top": 1436,
+        "left": 1194,
+        "height": 47,
+        "width": 88
+    },
+    {
+        "text": "Tax",
+        "top": 1436,
+        "left": 1291,
+        "height": 47,
+        "width": 58
+    },
+    {
+        "text": "TOTAL",
+        "top": 1498,
+        "left": 1219,
+        "height": 47,
+        "width": 105
+    },
+    {
+        "text": "Amount",
+        "top": 521,
+        "left": 1426,
+        "height": 47,
+        "width": 128
+    },
+    {
+        "text": "112.14",
+        "top": 566,
+        "left": 1443,
+        "height": 47,
+        "width": 95
+    },
+    {
+        "text": "8.75",
+        "top": 609,
+        "left": 1457,
+        "height": 47,
+        "width": 65
+    },
+    {
+        "text": "3.75",
+        "top": 652,
+        "left": 1458,
+        "height": 47,
+        "width": 63
+    },
+    {
+        "text": "0.00",
+        "top": 696,
+        "left": 1455,
+        "height": 47,
+        "width": 70
+    },
+    {
+        "text": "3.25",
+        "top": 739,
+        "left": 1458,
+        "height": 47,
+        "width": 63
+    },
+    {
+        "text": "6.25",
+        "top": 782,
+        "left": 1457,
+        "height": 47,
+        "width": 65
+    },
+    {
+        "text": "4.95",
+        "top": 825,
+        "left": 1457,
+        "height": 47,
+        "width": 65
+    },
+    {
+        "text": "11.25",
+        "top": 868,
+        "left": 1451,
+        "height": 47,
+        "width": 78
+    },
+    {
+        "text": "76.50",
+        "top": 912,
+        "left": 1447,
+        "height": 47,
+        "width": 86
+    },
+    {
+        "text": "226.84",
+        "top": 1364,
+        "left": 1438,
+        "height": 47,
+        "width": 105
+    },
+    {
+        "text": "38.34",
+        "top": 1436,
+        "left": 1448,
+        "height": 47,
+        "width": 85
+    },
+    {
+        "text": "$",
+        "top": 1498,
+        "left": 1424,
+        "height": 47,
+        "width": 21
+    },
+    {
+        "text": "265.18",
+        "top": 1498,
+        "left": 1453,
+        "height": 47,
+        "width": 102
+    },
+    {
+        "text": "-",
+        "top": 1560,
+        "left": 152,
+        "height": 47,
+        "width": 14
+    }
+]

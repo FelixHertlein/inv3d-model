@@ -1,0 +1,114 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Port Michaelfort",
+                    "postcode": "64380",
+                    "state_abbr": "VT"
+                },
+                "street": {
+                    "building_number": "2759",
+                    "street_name": "Jimmy Skyway"
+                }
+            },
+            "contact": {
+                "first_name": "Jacqueline",
+                "last_name": "Miller"
+            },
+            "email": "heather81@bush-bates.com",
+            "phone_number": {
+                "country_code": 1,
+                "extension": 57713,
+                "national_number": 9513094099
+            }
+        },
+        "company": {
+            "name": "James, Maxwell and Graves"
+        }
+    },
+    "invoice_date": {
+        "day": 18,
+        "month": 12,
+        "year": 2020
+    },
+    "invoice_due_date": {
+        "day": 17,
+        "month": 1,
+        "year": 2021
+    },
+    "invoice_number": 156226,
+    "products": {
+        "0": {
+            "description": "Classic Glass Cookie Jar",
+            "id": 122,
+            "quantity": 9,
+            "total": 74.61,
+            "unit_price": 8.29
+        },
+        "1": {
+            "description": "Lunch Bag  Black Skull.",
+            "id": 7985,
+            "quantity": 9,
+            "total": 14.85,
+            "unit_price": 1.65
+        },
+        "2": {
+            "description": "Red Polkadot Beaker ",
+            "id": 4038,
+            "quantity": 10,
+            "total": 3.9,
+            "unit_price": 0.39
+        },
+        "3": {
+            "description": "Hanging Photo Clip Rope Ladder",
+            "id": 6176,
+            "quantity": 8,
+            "total": 26.32,
+            "unit_price": 3.29
+        },
+        "4": {
+            "description": "Lunch Bag Red Retrospot",
+            "id": 4016,
+            "quantity": 9,
+            "total": 44.64,
+            "unit_price": 4.96
+        },
+        "5": {
+            "description": "Heart Garland Rustic Padded",
+            "id": 5013,
+            "quantity": 10,
+            "total": 32.9,
+            "unit_price": 3.29
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Anthonytown",
+                "postcode": "32287",
+                "state_abbr": "VA"
+            },
+            "street": {
+                "building_number": "3747",
+                "secondary_address": "Suite 967",
+                "street_name": "Jonathan Wall"
+            }
+        },
+        "company": {
+            "name": "Bates, Ross and Rivas"
+        },
+        "email": "jacobcastillo@mason.com",
+        "phone_number": {
+            "country_code": 1,
+            "extension": 183,
+            "national_number": 5644075152
+        },
+        "website": "allen-padilla.com"
+    },
+    "summary": {
+        "balance": 200.77,
+        "subtotal": 197.22,
+        "tax_total": 3.55
+    }
+}

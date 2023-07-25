@@ -1,0 +1,20 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_47.htm",
+        "logo": "logos/LLD-logo-files/easyfundraising.png",
+        "font": "fonts/Fira_Sans/FiraSans-ExtraLightItalic.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#3B3838": "#3b383a",
+            "#C1C1C1": "#c1c1c1",
+            "#002060": "#605000"
+        },
+        "font_scale": 0.8477353818222427,
+        "margin": 16
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/AG8A3833-e5433748b7.exr",
+        "mesh": "meshes/objs/C/1/1_415_1.obj",
+        "resolution": 1600
+    }
+}

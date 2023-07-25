@@ -1,0 +1,20 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_47.htm",
+        "logo": "logos/LLD-logo-files/boxinginsider.png",
+        "font": "fonts/Noto_Sans/NotoSans-BoldItalic.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#3B3838": "#383b38",
+            "#C1C1C1": "#c1c1c1",
+            "#002060": "#601400"
+        },
+        "font_scale": 0.8449929242359402,
+        "margin": 13
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/AG8A4925-4b646ff7a4.exr",
+        "mesh": "meshes/objs/C/1/1_918_6.obj",
+        "resolution": 1600
+    }
+}

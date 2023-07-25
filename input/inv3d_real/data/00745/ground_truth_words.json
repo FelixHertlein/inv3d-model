@@ -1,0 +1,793 @@
+[
+    {
+        "text": "Leach",
+        "top": 151,
+        "left": 170,
+        "height": 39,
+        "width": 83
+    },
+    {
+        "text": "Inc",
+        "top": 151,
+        "left": 261,
+        "height": 39,
+        "width": 46
+    },
+    {
+        "text": "Face-to-face",
+        "top": 183,
+        "left": 169,
+        "height": 27,
+        "width": 139
+    },
+    {
+        "text": "next",
+        "top": 183,
+        "left": 305,
+        "height": 27,
+        "width": 53
+    },
+    {
+        "text": "generation",
+        "top": 183,
+        "left": 358,
+        "height": 27,
+        "width": 119
+    },
+    {
+        "text": "capacity",
+        "top": 183,
+        "left": 475,
+        "height": 27,
+        "width": 97
+    },
+    {
+        "text": "747",
+        "top": 233,
+        "left": 170,
+        "height": 27,
+        "width": 35
+    },
+    {
+        "text": "Hendricks",
+        "top": 233,
+        "left": 210,
+        "height": 27,
+        "width": 106
+    },
+    {
+        "text": "Junctions",
+        "top": 233,
+        "left": 322,
+        "height": 27,
+        "width": 102
+    },
+    {
+        "text": "South",
+        "top": 256,
+        "left": 170,
+        "height": 27,
+        "width": 61
+    },
+    {
+        "text": "Jacquelinebury,",
+        "top": 256,
+        "left": 236,
+        "height": 27,
+        "width": 165
+    },
+    {
+        "text": "MS",
+        "top": 256,
+        "left": 408,
+        "height": 27,
+        "width": 34
+    },
+    {
+        "text": "95850",
+        "top": 256,
+        "left": 447,
+        "height": 27,
+        "width": 58
+    },
+    {
+        "text": "Phone",
+        "top": 279,
+        "left": 170,
+        "height": 27,
+        "width": 65
+    },
+    {
+        "text": "(856)296-4823",
+        "top": 279,
+        "left": 240,
+        "height": 27,
+        "width": 147
+    },
+    {
+        "text": "Fax",
+        "top": 279,
+        "left": 401,
+        "height": 27,
+        "width": 40
+    },
+    {
+        "text": "+48",
+        "top": 279,
+        "left": 447,
+        "height": 27,
+        "width": 35
+    },
+    {
+        "text": "572",
+        "top": 279,
+        "left": 487,
+        "height": 27,
+        "width": 33
+    },
+    {
+        "text": "328",
+        "top": 279,
+        "left": 527,
+        "height": 27,
+        "width": 35
+    },
+    {
+        "text": "688",
+        "top": 279,
+        "left": 566,
+        "height": 27,
+        "width": 35
+    },
+    {
+        "text": "TO:",
+        "top": 395,
+        "left": 170,
+        "height": 26,
+        "width": 34
+    },
+    {
+        "text": "Jonathan",
+        "top": 425,
+        "left": 170,
+        "height": 27,
+        "width": 100
+    },
+    {
+        "text": "Hurst",
+        "top": 425,
+        "left": 275,
+        "height": 27,
+        "width": 57
+    },
+    {
+        "text": "Arnold-Garcia",
+        "top": 448,
+        "left": 170,
+        "height": 27,
+        "width": 145
+    },
+    {
+        "text": "02447",
+        "top": 471,
+        "left": 170,
+        "height": 27,
+        "width": 63
+    },
+    {
+        "text": "Dave",
+        "top": 471,
+        "left": 238,
+        "height": 27,
+        "width": 52
+    },
+    {
+        "text": "Place",
+        "top": 471,
+        "left": 295,
+        "height": 27,
+        "width": 57
+    },
+    {
+        "text": "South",
+        "top": 494,
+        "left": 170,
+        "height": 27,
+        "width": 61
+    },
+    {
+        "text": "Haleybury,",
+        "top": 494,
+        "left": 236,
+        "height": 27,
+        "width": 117
+    },
+    {
+        "text": "CA",
+        "top": 494,
+        "left": 359,
+        "height": 27,
+        "width": 30
+    },
+    {
+        "text": "54170",
+        "top": 494,
+        "left": 394,
+        "height": 27,
+        "width": 58
+    },
+    {
+        "text": "INVOICE",
+        "top": 149,
+        "left": 1308,
+        "height": 65,
+        "width": 220
+    },
+    {
+        "text": "INVOICE",
+        "top": 330,
+        "left": 1328,
+        "height": 26,
+        "width": 95
+    },
+    {
+        "text": "#",
+        "top": 330,
+        "left": 1428,
+        "height": 26,
+        "width": 11
+    },
+    {
+        "text": "#738410",
+        "top": 330,
+        "left": 1446,
+        "height": 26,
+        "width": 81
+    },
+    {
+        "text": "DATE:",
+        "top": 351,
+        "left": 1325,
+        "height": 26,
+        "width": 63
+    },
+    {
+        "text": "06",
+        "top": 351,
+        "left": 1393,
+        "height": 26,
+        "width": 24
+    },
+    {
+        "text": "OCT,",
+        "top": 351,
+        "left": 1424,
+        "height": 26,
+        "width": 48
+    },
+    {
+        "text": "1999",
+        "top": 351,
+        "left": 1479,
+        "height": 26,
+        "width": 48
+    },
+    {
+        "text": "FOR:",
+        "top": 395,
+        "left": 881,
+        "height": 26,
+        "width": 48
+    },
+    {
+        "text": "DESCRIPTION",
+        "top": 631,
+        "left": 435,
+        "height": 26,
+        "width": 150
+    },
+    {
+        "text": "HOURS",
+        "top": 631,
+        "left": 937,
+        "height": 26,
+        "width": 77
+    },
+    {
+        "text": "RATE",
+        "top": 631,
+        "left": 1169,
+        "height": 26,
+        "width": 58
+    },
+    {
+        "text": "AMOUNT",
+        "top": 631,
+        "left": 1375,
+        "height": 26,
+        "width": 99
+    },
+    {
+        "text": "Pink",
+        "top": 669,
+        "left": 173,
+        "height": 27,
+        "width": 48
+    },
+    {
+        "text": "fairy",
+        "top": 669,
+        "left": 228,
+        "height": 27,
+        "width": 51
+    },
+    {
+        "text": "cake",
+        "top": 669,
+        "left": 286,
+        "height": 27,
+        "width": 50
+    },
+    {
+        "text": "childrens",
+        "top": 669,
+        "left": 340,
+        "height": 27,
+        "width": 94
+    },
+    {
+        "text": "apron",
+        "top": 669,
+        "left": 440,
+        "height": 27,
+        "width": 61
+    },
+    {
+        "text": "Felt",
+        "top": 708,
+        "left": 173,
+        "height": 27,
+        "width": 38
+    },
+    {
+        "text": "egg",
+        "top": 708,
+        "left": 218,
+        "height": 27,
+        "width": 36
+    },
+    {
+        "text": "cosy",
+        "top": 708,
+        "left": 259,
+        "height": 27,
+        "width": 48
+    },
+    {
+        "text": "white",
+        "top": 708,
+        "left": 314,
+        "height": 27,
+        "width": 59
+    },
+    {
+        "text": "rabbit",
+        "top": 708,
+        "left": 378,
+        "height": 27,
+        "width": 62
+    },
+    {
+        "text": "Hanging",
+        "top": 748,
+        "left": 173,
+        "height": 27,
+        "width": 88
+    },
+    {
+        "text": "heart",
+        "top": 748,
+        "left": 267,
+        "height": 27,
+        "width": 53
+    },
+    {
+        "text": "zinc",
+        "top": 748,
+        "left": 327,
+        "height": 27,
+        "width": 44
+    },
+    {
+        "text": "t-light",
+        "top": 748,
+        "left": 376,
+        "height": 27,
+        "width": 65
+    },
+    {
+        "text": "holder",
+        "top": 748,
+        "left": 447,
+        "height": 27,
+        "width": 66
+    },
+    {
+        "text": "Easter",
+        "top": 788,
+        "left": 173,
+        "height": 27,
+        "width": 66
+    },
+    {
+        "text": "tin",
+        "top": 788,
+        "left": 244,
+        "height": 27,
+        "width": 28
+    },
+    {
+        "text": "bunny",
+        "top": 788,
+        "left": 277,
+        "height": 27,
+        "width": 66
+    },
+    {
+        "text": "bouquet",
+        "top": 788,
+        "left": 349,
+        "height": 27,
+        "width": 83
+    },
+    {
+        "text": "Strawberry",
+        "top": 827,
+        "left": 173,
+        "height": 27,
+        "width": 118
+    },
+    {
+        "text": "lunch",
+        "top": 827,
+        "left": 298,
+        "height": 27,
+        "width": 57
+    },
+    {
+        "text": "box",
+        "top": 827,
+        "left": 360,
+        "height": 27,
+        "width": 40
+    },
+    {
+        "text": "with",
+        "top": 827,
+        "left": 406,
+        "height": 27,
+        "width": 48
+    },
+    {
+        "text": "cutlery",
+        "top": 827,
+        "left": 459,
+        "height": 27,
+        "width": 73
+    },
+    {
+        "text": "Milk",
+        "top": 867,
+        "left": 173,
+        "height": 27,
+        "width": 48
+    },
+    {
+        "text": "bottle",
+        "top": 867,
+        "left": 228,
+        "height": 27,
+        "width": 61
+    },
+    {
+        "text": "with",
+        "top": 867,
+        "left": 294,
+        "height": 27,
+        "width": 48
+    },
+    {
+        "text": "glass",
+        "top": 867,
+        "left": 347,
+        "height": 27,
+        "width": 54
+    },
+    {
+        "text": "stopper",
+        "top": 867,
+        "left": 407,
+        "height": 27,
+        "width": 79
+    },
+    {
+        "text": "Regency",
+        "top": 907,
+        "left": 173,
+        "height": 27,
+        "width": 88
+    },
+    {
+        "text": "cakestand",
+        "top": 907,
+        "left": 267,
+        "height": 27,
+        "width": 108
+    },
+    {
+        "text": "3",
+        "top": 907,
+        "left": 381,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "tier",
+        "top": 907,
+        "left": 397,
+        "height": 27,
+        "width": 36
+    },
+    {
+        "text": "Set",
+        "top": 946,
+        "left": 173,
+        "height": 27,
+        "width": 31
+    },
+    {
+        "text": "of",
+        "top": 946,
+        "left": 211,
+        "height": 27,
+        "width": 21
+    },
+    {
+        "text": "6",
+        "top": 946,
+        "left": 237,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "kashmir",
+        "top": 946,
+        "left": 255,
+        "height": 27,
+        "width": 87
+    },
+    {
+        "text": "folkart",
+        "top": 946,
+        "left": 347,
+        "height": 27,
+        "width": 73
+    },
+    {
+        "text": "baubles",
+        "top": 946,
+        "left": 427,
+        "height": 27,
+        "width": 80
+    },
+    {
+        "text": "Payment",
+        "top": 1376,
+        "left": 155,
+        "height": 27,
+        "width": 94
+    },
+    {
+        "text": "terms:",
+        "top": 1376,
+        "left": 255,
+        "height": 27,
+        "width": 64
+    },
+    {
+        "text": "21MFI",
+        "top": 1376,
+        "left": 324,
+        "height": 27,
+        "width": 66
+    },
+    {
+        "text": "9",
+        "top": 669,
+        "left": 896,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "9",
+        "top": 708,
+        "left": 896,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "3",
+        "top": 748,
+        "left": 896,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "9",
+        "top": 788,
+        "left": 896,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "9",
+        "top": 827,
+        "left": 896,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "3",
+        "top": 867,
+        "left": 896,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "8",
+        "top": 907,
+        "left": 896,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "4",
+        "top": 946,
+        "left": 896,
+        "height": 27,
+        "width": 11
+    },
+    {
+        "text": "1.95",
+        "top": 669,
+        "left": 1236,
+        "height": 27,
+        "width": 42
+    },
+    {
+        "text": "0.85",
+        "top": 708,
+        "left": 1236,
+        "height": 27,
+        "width": 42
+    },
+    {
+        "text": "0.85",
+        "top": 748,
+        "left": 1236,
+        "height": 27,
+        "width": 42
+    },
+    {
+        "text": "1.65",
+        "top": 788,
+        "left": 1236,
+        "height": 27,
+        "width": 42
+    },
+    {
+        "text": "2.55",
+        "top": 827,
+        "left": 1236,
+        "height": 27,
+        "width": 42
+    },
+    {
+        "text": "6.95",
+        "top": 867,
+        "left": 1234,
+        "height": 27,
+        "width": 44
+    },
+    {
+        "text": "12.75",
+        "top": 907,
+        "left": 1225,
+        "height": 27,
+        "width": 53
+    },
+    {
+        "text": "4.25",
+        "top": 946,
+        "left": 1234,
+        "height": 27,
+        "width": 44
+    },
+    {
+        "text": "TOTAL",
+        "top": 1344,
+        "left": 1221,
+        "height": 26,
+        "width": 70
+    },
+    {
+        "text": "17.55",
+        "top": 669,
+        "left": 1461,
+        "height": 27,
+        "width": 51
+    },
+    {
+        "text": "7.65",
+        "top": 708,
+        "left": 1470,
+        "height": 27,
+        "width": 42
+    },
+    {
+        "text": "2.55",
+        "top": 748,
+        "left": 1470,
+        "height": 27,
+        "width": 42
+    },
+    {
+        "text": "14.85",
+        "top": 788,
+        "left": 1459,
+        "height": 27,
+        "width": 53
+    },
+    {
+        "text": "22.95",
+        "top": 827,
+        "left": 1455,
+        "height": 27,
+        "width": 57
+    },
+    {
+        "text": "20.85",
+        "top": 867,
+        "left": 1457,
+        "height": 27,
+        "width": 55
+    },
+    {
+        "text": "102.00",
+        "top": 907,
+        "left": 1442,
+        "height": 27,
+        "width": 69
+    },
+    {
+        "text": "17.00",
+        "top": 946,
+        "left": 1457,
+        "height": 27,
+        "width": 53
+    },
+    {
+        "text": "$",
+        "top": 1344,
+        "left": 1428,
+        "height": 26,
+        "width": 10
+    },
+    {
+        "text": "240.73",
+        "top": 1344,
+        "left": 1444,
+        "height": 26,
+        "width": 67
+    }
+]

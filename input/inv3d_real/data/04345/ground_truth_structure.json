@@ -1,0 +1,118 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "South Pamela",
+                    "postcode": "34674",
+                    "state_abbr": "SD"
+                },
+                "street": {
+                    "building_number": "381",
+                    "secondary_address": "Apt. 974",
+                    "street_name": "Allen Hill"
+                }
+            },
+            "contact": {
+                "first_name": "Theodore",
+                "last_name": "Wade"
+            }
+        },
+        "shipment": {
+            "address": {
+                "city": {
+                    "city_name": "Johnbury",
+                    "postcode": "64194",
+                    "state_abbr": "UT"
+                },
+                "street": {
+                    "building_number": "78356",
+                    "secondary_address": "Suite 944",
+                    "street_name": "William Trail"
+                }
+            },
+            "contact": {
+                "first_name": "Tyler",
+                "last_name": "Perez"
+            }
+        }
+    },
+    "invoice_date": {
+        "day": 16,
+        "month": 1,
+        "year": 2002
+    },
+    "invoice_number": 664905,
+    "payment_terms": "Net 10",
+    "products": {
+        "0": {
+            "description": "Scotties design washbag",
+            "quantity": 7,
+            "total": 13.65,
+            "unit_price": 1.95
+        },
+        "1": {
+            "description": "Christmas tree decoration with bell",
+            "quantity": 3,
+            "total": 1.26,
+            "unit_price": 0.42
+        },
+        "2": {
+            "description": "Swallows greeting card",
+            "quantity": 9,
+            "total": 3.24,
+            "unit_price": 0.36
+        },
+        "3": {
+            "description": "Musical zinc heart decoration ",
+            "quantity": 4,
+            "total": 1.16,
+            "unit_price": 0.29
+        },
+        "4": {
+            "description": "Ivory kitchen scales",
+            "quantity": 4,
+            "total": 34.0,
+            "unit_price": 8.5
+        },
+        "5": {
+            "description": "Foot stool home sweet home ",
+            "quantity": 10,
+            "total": 99.5,
+            "unit_price": 9.95
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Lake Donna",
+                "postcode": "14815",
+                "state_abbr": "MO"
+            },
+            "street": {
+                "building_number": "8236",
+                "secondary_address": "Suite 967",
+                "street_name": "Lucas Prairie"
+            }
+        },
+        "company": {
+            "name": "Clark PLC"
+        },
+        "fax_number": {
+            "country_code": 962,
+            "national_number": 779154769
+        },
+        "phone_number": {
+            "country_code": 66,
+            "national_number": 956305313
+        }
+    },
+    "summary": {
+        "balance": 176.53,
+        "shipping": {
+            "price": 6.3
+        },
+        "subtotal": 152.81,
+        "tax_total": 17.42
+    }
+}

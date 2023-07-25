@@ -1,0 +1,23 @@
+{
+	"build": {
+		"dockerfile": "../Dockerfile"
+	},
+	"runArgs": [
+		"--gpus=all",
+		"--ipc=host"
+	],
+	"forwardPorts": [],
+	"mounts": [],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter",
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"ms-python.black-formatter",
+				"ms-python.isort",
+				"ms-azuretools.vscode-docker"
+			]
+		}
+	}
+}

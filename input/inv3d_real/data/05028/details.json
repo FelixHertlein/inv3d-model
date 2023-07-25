@@ -1,0 +1,24 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_32.htm",
+        "logo": "logos/LLD-logo-files/madgetech.png",
+        "font": "fonts/Roboto_Slab/RobotoSlab-Black.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#954F72": "#4f8495",
+            "#D9D9D9": "#d9d9d9",
+            "#A6A6A6": "#a6a6a6",
+            "#BFBFBF": "#bfbfbf",
+            "#333F4F": "#42334f",
+            "#EAEEF3": "#eaf3ea",
+            "#EDEDED": "#ededed"
+        },
+        "font_scale": 0.995891003233452,
+        "margin": 18
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/9C4A0716-fd4bf7c7b9.exr",
+        "mesh": "meshes/objs/C/2/2_493_6.obj",
+        "resolution": 1600
+    }
+}

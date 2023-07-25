@@ -1,0 +1,162 @@
+[
+    {
+        "tag": "buyer.bill.address",
+        "value": "8599 Charles Lake Apt. 312\nHarrisonfort, DE 58917",
+        "top": 616,
+        "left": 86,
+        "height": 70,
+        "width": 971
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Matthew Holmes",
+        "top": 576,
+        "left": 86,
+        "height": 39,
+        "width": 971
+    },
+    {
+        "tag": "buyer.bill.email",
+        "value": "alexis58@smith.com",
+        "top": 726,
+        "left": 86,
+        "height": 39,
+        "width": 971
+    },
+    {
+        "tag": "buyer.bill.phone_number",
+        "value": "+62-82-403-9856",
+        "top": 687,
+        "left": 86,
+        "height": 38,
+        "width": 971
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Wallace PLC",
+        "top": 539,
+        "left": 86,
+        "height": 36,
+        "width": 971
+    },
+    {
+        "tag": "invoice_date",
+        "value": "2007-12-07",
+        "top": 576,
+        "left": 1314,
+        "height": 39,
+        "width": 301
+    },
+    {
+        "tag": "invoice_due_date",
+        "value": "-",
+        "top": 616,
+        "left": 1314,
+        "height": 70,
+        "width": 301
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#189171",
+        "top": 86,
+        "left": 409,
+        "height": 39,
+        "width": 1206
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Vintage leaf magnetic notepad",
+        "top": 937,
+        "left": 86,
+        "height": 99,
+        "width": 671
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "8",
+        "top": 937,
+        "left": 758,
+        "height": 99,
+        "width": 286
+    },
+    {
+        "tag": "products.0.total",
+        "value": "11.60",
+        "top": 937,
+        "left": 1331,
+        "height": 99,
+        "width": 284
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "1.45",
+        "top": 937,
+        "left": 1045,
+        "height": 99,
+        "width": 285
+    },
+    {
+        "tag": "seller.address",
+        "value": "8431 Scott Village Apt. 208\nBrownfurt, GA 92943",
+        "top": 307,
+        "left": 86,
+        "height": 70,
+        "width": 971
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Johnson-Williams",
+        "top": 165,
+        "left": 86,
+        "height": 102,
+        "width": 1529
+    },
+    {
+        "tag": "seller.email",
+        "value": "barbarabrown@holland-williams.com",
+        "top": 418,
+        "left": 86,
+        "height": 38,
+        "width": 971
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+41 (0)61 250 08 04",
+        "top": 378,
+        "left": 86,
+        "height": 39,
+        "width": 971
+    },
+    {
+        "tag": "seller.website",
+        "value": "hill.com",
+        "top": 457,
+        "left": 86,
+        "height": 39,
+        "width": 971
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 12.18",
+        "top": 1838,
+        "left": 1333,
+        "height": 99,
+        "width": 282
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "11.60",
+        "top": 1638,
+        "left": 1333,
+        "height": 99,
+        "width": 282
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "0.58",
+        "top": 1738,
+        "left": 1333,
+        "height": 99,
+        "width": 282
+    }
+]

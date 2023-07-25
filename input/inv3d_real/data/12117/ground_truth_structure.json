@@ -1,0 +1,106 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "New Katie",
+                    "postcode": "58714",
+                    "state_abbr": "VT"
+                },
+                "street": {
+                    "building_number": "04688",
+                    "secondary_address": "Apt. 634",
+                    "street_name": "Kevin Ford"
+                }
+            },
+            "contact": {
+                "first_name": "Alex",
+                "last_name": "Fleming"
+            },
+            "email": "brookeanderson@peterson-powers.biz",
+            "phone_number": {
+                "country_code": 91,
+                "national_number": 8452663186
+            }
+        },
+        "company": {
+            "name": "Olson-Sandoval"
+        }
+    },
+    "invoice_date": {
+        "day": 16,
+        "month": 11,
+        "year": 1999
+    },
+    "invoice_due_date": {
+        "day": 16,
+        "month": 12,
+        "year": 1999
+    },
+    "invoice_number": 69072,
+    "products": {
+        "0": {
+            "description": "Ivory kitchen scales",
+            "id": 8004,
+            "quantity": 1,
+            "total": 8.5,
+            "unit_price": 8.5
+        },
+        "1": {
+            "description": "French paisley cushion cover ",
+            "id": 1033,
+            "quantity": 5,
+            "total": 16.45,
+            "unit_price": 3.29
+        },
+        "2": {
+            "description": "Sweet heart cake carrier",
+            "id": 3992,
+            "quantity": 9,
+            "total": 89.55,
+            "unit_price": 9.95
+        },
+        "3": {
+            "description": "Watering can blue elephant",
+            "id": 6429,
+            "quantity": 9,
+            "total": 17.55,
+            "unit_price": 1.95
+        },
+        "4": {
+            "description": "Doormat multicolour stripe",
+            "id": 8023,
+            "quantity": 4,
+            "total": 57.72,
+            "unit_price": 14.43
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Hendricksburgh",
+                "postcode": "62202",
+                "state_abbr": "CT"
+            },
+            "street": {
+                "building_number": "16482",
+                "secondary_address": "Suite 005",
+                "street_name": "James Ports"
+            }
+        },
+        "company": {
+            "name": "Smith Ltd"
+        },
+        "email": "mmitchell@moore.org",
+        "phone_number": {
+            "country_code": 34,
+            "national_number": 705358093
+        },
+        "website": "carter.biz"
+    },
+    "summary": {
+        "balance": 225.07,
+        "subtotal": 189.77,
+        "tax_total": 35.3
+    }
+}

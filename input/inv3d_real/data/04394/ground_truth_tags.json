@@ -1,0 +1,250 @@
+[
+    {
+        "tag": "buyer.bill.address",
+        "value": "9993 Garcia Extension Suite 788\nNorth Joel, IL 37518",
+        "top": 335,
+        "left": 849,
+        "height": 81,
+        "width": 733
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Jonathan Riley",
+        "top": 252,
+        "left": 849,
+        "height": 82,
+        "width": 733
+    },
+    {
+        "tag": "buyer.bill.email",
+        "value": "roberta79@hunter.com",
+        "top": 464,
+        "left": 849,
+        "height": 46,
+        "width": 733
+    },
+    {
+        "tag": "buyer.bill.phone_number",
+        "value": "(424)388-4334",
+        "top": 417,
+        "left": 849,
+        "height": 46,
+        "width": 733
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Garcia-Nelson",
+        "top": 205,
+        "left": 849,
+        "height": 46,
+        "width": 733
+    },
+    {
+        "tag": "invoice_date",
+        "value": "2017-02-09",
+        "top": 594,
+        "left": 849,
+        "height": 83,
+        "width": 241
+    },
+    {
+        "tag": "invoice_due_date",
+        "value": "-",
+        "top": 594,
+        "left": 1336,
+        "height": 83,
+        "width": 244
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#955133",
+        "top": 594,
+        "left": 419,
+        "height": 83,
+        "width": 184
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Recipe Box Pantry Yellow Design",
+        "top": 845,
+        "left": 309,
+        "height": 82,
+        "width": 631
+    },
+    {
+        "tag": "products.0.id",
+        "value": "1626",
+        "top": 845,
+        "left": 117,
+        "height": 82,
+        "width": 191
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "7",
+        "top": 845,
+        "left": 941,
+        "height": 82,
+        "width": 192
+    },
+    {
+        "tag": "products.0.total",
+        "value": "20.65",
+        "top": 845,
+        "left": 1356,
+        "height": 82,
+        "width": 226
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "2.95",
+        "top": 845,
+        "left": 1134,
+        "height": 82,
+        "width": 221
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Set Of 12 Mini Loaf Baking Cases",
+        "top": 928,
+        "left": 309,
+        "height": 81,
+        "width": 631
+    },
+    {
+        "tag": "products.1.id",
+        "value": "4406",
+        "top": 928,
+        "left": 117,
+        "height": 81,
+        "width": 191
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "6",
+        "top": 928,
+        "left": 941,
+        "height": 81,
+        "width": 192
+    },
+    {
+        "tag": "products.1.total",
+        "value": "4.98",
+        "top": 928,
+        "left": 1356,
+        "height": 81,
+        "width": 226
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "0.83",
+        "top": 928,
+        "left": 1134,
+        "height": 81,
+        "width": 221
+    },
+    {
+        "tag": "products.2.description",
+        "value": "Lunch Bag Dolly Girl Design",
+        "top": 1010,
+        "left": 309,
+        "height": 81,
+        "width": 631
+    },
+    {
+        "tag": "products.2.id",
+        "value": "8221",
+        "top": 1010,
+        "left": 117,
+        "height": 81,
+        "width": 191
+    },
+    {
+        "tag": "products.2.quantity",
+        "value": "6",
+        "top": 1010,
+        "left": 941,
+        "height": 81,
+        "width": 192
+    },
+    {
+        "tag": "products.2.total",
+        "value": "9.90",
+        "top": 1010,
+        "left": 1356,
+        "height": 81,
+        "width": 226
+    },
+    {
+        "tag": "products.2.unit_price",
+        "value": "1.65",
+        "top": 1010,
+        "left": 1134,
+        "height": 81,
+        "width": 221
+    },
+    {
+        "tag": "seller.address",
+        "value": "61656 Haley Turnpike Apt. 446\nWest Michaelfort, UT 92194",
+        "top": 252,
+        "left": 117,
+        "height": 82,
+        "width": 731
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Berger, Reed and Gutierrez",
+        "top": 205,
+        "left": 117,
+        "height": 46,
+        "width": 731
+    },
+    {
+        "tag": "seller.email",
+        "value": "rebeccawhite@martinez.com",
+        "top": 417,
+        "left": 117,
+        "height": 46,
+        "width": 731
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "848-701-9443",
+        "top": 335,
+        "left": 117,
+        "height": 81,
+        "width": 731
+    },
+    {
+        "tag": "seller.website",
+        "value": "woodward-warner.com",
+        "top": 464,
+        "left": 117,
+        "height": 46,
+        "width": 731
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 41.18",
+        "top": 1693,
+        "left": 1356,
+        "height": 72,
+        "width": 226
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "35.53",
+        "top": 1552,
+        "left": 1356,
+        "height": 46,
+        "width": 226
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "5.65",
+        "top": 1599,
+        "left": 1356,
+        "height": 46,
+        "width": 226
+    }
+]

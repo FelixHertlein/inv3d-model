@@ -1,0 +1,124 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Port Cynthiaberg",
+                    "postcode": "93318",
+                    "state_abbr": "CT"
+                },
+                "street": {
+                    "building_number": "80435",
+                    "secondary_address": "Apt. 573",
+                    "street_name": "Mary Passage"
+                }
+            },
+            "contact": {
+                "first_name": "Daniel",
+                "last_name": "Oliver"
+            }
+        },
+        "shipment": {
+            "address": {
+                "city": {
+                    "city_name": "Jonesfurt",
+                    "postcode": "75588",
+                    "state_abbr": "VT"
+                },
+                "street": {
+                    "building_number": "6103",
+                    "secondary_address": "Suite 230",
+                    "street_name": "Wilson Pass"
+                }
+            },
+            "contact": {
+                "first_name": "Justin",
+                "last_name": "Moore"
+            }
+        }
+    },
+    "invoice_date": {
+        "day": 16,
+        "month": 5,
+        "year": 1997
+    },
+    "invoice_number": 229435,
+    "payment_terms": "Net 60",
+    "products": {
+        "0": {
+            "description": "Giant 50'S Christmas Cracker",
+            "quantity": 1,
+            "total": 2.89,
+            "unit_price": 2.89
+        },
+        "1": {
+            "description": "Set 12 Colour Pencils Spaceboy ",
+            "quantity": 7,
+            "total": 4.55,
+            "unit_price": 0.65
+        },
+        "2": {
+            "description": "Heart Ivory Trellis Large",
+            "quantity": 4,
+            "total": 6.6,
+            "unit_price": 1.65
+        },
+        "3": {
+            "description": "Baking Mould Heart White Chocolate",
+            "quantity": 10,
+            "total": 25.5,
+            "unit_price": 2.55
+        },
+        "4": {
+            "description": "Grow Your Own Flowers Set Of 3",
+            "quantity": 9,
+            "total": 71.55,
+            "unit_price": 7.95
+        },
+        "5": {
+            "description": "Edwardian Parasol Black",
+            "quantity": 10,
+            "total": 124.6,
+            "unit_price": 12.46
+        },
+        "6": {
+            "description": "Plasters In Tin Vintage Paisley ",
+            "quantity": 8,
+            "total": 13.2,
+            "unit_price": 1.65
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Brianview",
+                "postcode": "45785",
+                "state_abbr": "TN"
+            },
+            "street": {
+                "building_number": "35555",
+                "secondary_address": "Apt. 685",
+                "street_name": "Derek Track"
+            }
+        },
+        "company": {
+            "name": "Rogers, Smith and Hobbs"
+        },
+        "fax_number": {
+            "country_code": 962,
+            "national_number": 779537213
+        },
+        "phone_number": {
+            "country_code": 1,
+            "national_number": 6808544197
+        }
+    },
+    "summary": {
+        "balance": 300.46,
+        "shipping": {
+            "price": 3.53
+        },
+        "subtotal": 248.89,
+        "tax_total": 48.04
+    }
+}

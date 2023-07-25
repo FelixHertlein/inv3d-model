@@ -1,0 +1,73 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Alexandermouth",
+                    "postcode": "23323",
+                    "state_abbr": "FL"
+                },
+                "street": {
+                    "building_number": "4326",
+                    "secondary_address": "Suite 390",
+                    "street_name": "Matthew Gardens"
+                }
+            },
+            "contact": {
+                "first_name": "Vincent",
+                "last_name": "Davidson"
+            }
+        }
+    },
+    "invoice_date": {
+        "day": 14,
+        "month": 4,
+        "year": 2007
+    },
+    "invoice_number": 867064,
+    "payment_terms": "CWO",
+    "products": {
+        "0": {
+            "description": "Starfish soap dish",
+            "quantity": 1,
+            "total": 4.96,
+            "unit_price": 4.96
+        },
+        "1": {
+            "description": "Pizza plate in box",
+            "quantity": 3,
+            "total": 11.25,
+            "unit_price": 3.75
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Port Ashleymouth",
+                "postcode": "35391",
+                "state_abbr": "TX"
+            },
+            "street": {
+                "building_number": "062",
+                "secondary_address": "Apt. 044",
+                "street_name": "Blevins Passage"
+            }
+        },
+        "company": {
+            "name": "Morales-Harvey"
+        },
+        "email": "curtisswanson@robbins-allen.com",
+        "phone_number": {
+            "country_code": 39,
+            "national_number": 322933866417
+        },
+        "website": "bridges-williams.com"
+    },
+    "summary": {
+        "balance": 12.59,
+        "discount": 4.23,
+        "subtotal": 16.21,
+        "tax_rate": 0.051,
+        "tax_total": 0.61
+    }
+}

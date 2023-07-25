@@ -1,0 +1,20 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_47.htm",
+        "logo": "logos/LLD-logo-files/ecolog-international.png",
+        "font": "fonts/Raleway/Raleway-Regular.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#3B3838": "#3b3938",
+            "#C1C1C1": "#c1c1c1",
+            "#002060": "#602d00"
+        },
+        "font_scale": 1.0807574628183474,
+        "margin": 10
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/9C4A5043-20ef941fc2.exr",
+        "mesh": "meshes/objs/C/2/2_41_2.obj",
+        "resolution": 1600
+    }
+}

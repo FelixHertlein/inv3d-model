@@ -1,0 +1,210 @@
+[
+    {
+        "tag": "buyer.bill.address",
+        "value": "12658 Rodriguez Radial\nBrittanyton, TX 18495",
+        "top": 306,
+        "left": 849,
+        "height": 70,
+        "width": 750
+    },
+    {
+        "tag": "buyer.bill.contact",
+        "value": "Kelly Richards",
+        "top": 235,
+        "left": 849,
+        "height": 70,
+        "width": 750
+    },
+    {
+        "tag": "buyer.bill.email",
+        "value": "stephaniesexton@martin.com",
+        "top": 427,
+        "left": 849,
+        "height": 49,
+        "width": 750
+    },
+    {
+        "tag": "buyer.bill.phone_number",
+        "value": "+358 962523631",
+        "top": 377,
+        "left": 849,
+        "height": 49,
+        "width": 750
+    },
+    {
+        "tag": "buyer.company.name",
+        "value": "Ruiz, Parker and Phillips",
+        "top": 185,
+        "left": 849,
+        "height": 49,
+        "width": 750
+    },
+    {
+        "tag": "invoice_date",
+        "value": "15 Jul, 2007",
+        "top": 547,
+        "left": 847,
+        "height": 78,
+        "width": 246
+    },
+    {
+        "tag": "invoice_due_date",
+        "value": "13 Oct, 2007",
+        "top": 547,
+        "left": 1346,
+        "height": 78,
+        "width": 251
+    },
+    {
+        "tag": "invoice_number",
+        "value": "#473743",
+        "top": 547,
+        "left": 408,
+        "height": 78,
+        "width": 188
+    },
+    {
+        "tag": "products.0.description",
+        "value": "Christmas hanging tree with bell",
+        "top": 787,
+        "left": 345,
+        "height": 86,
+        "width": 480
+    },
+    {
+        "tag": "products.0.id",
+        "value": "7281",
+        "top": 787,
+        "left": 100,
+        "height": 86,
+        "width": 244
+    },
+    {
+        "tag": "products.0.quantity",
+        "value": "5",
+        "top": 787,
+        "left": 826,
+        "height": 86,
+        "width": 238
+    },
+    {
+        "tag": "products.0.total",
+        "value": "1.95",
+        "top": 787,
+        "left": 1319,
+        "height": 86,
+        "width": 280
+    },
+    {
+        "tag": "products.0.unit_price",
+        "value": "0.39",
+        "top": 787,
+        "left": 1065,
+        "height": 86,
+        "width": 253
+    },
+    {
+        "tag": "products.1.description",
+        "value": "Spaceboy childrens egg cup",
+        "top": 874,
+        "left": 345,
+        "height": 86,
+        "width": 480
+    },
+    {
+        "tag": "products.1.id",
+        "value": "3861",
+        "top": 874,
+        "left": 100,
+        "height": 86,
+        "width": 244
+    },
+    {
+        "tag": "products.1.quantity",
+        "value": "1",
+        "top": 874,
+        "left": 826,
+        "height": 86,
+        "width": 238
+    },
+    {
+        "tag": "products.1.total",
+        "value": "2.51",
+        "top": 874,
+        "left": 1319,
+        "height": 86,
+        "width": 280
+    },
+    {
+        "tag": "products.1.unit_price",
+        "value": "2.51",
+        "top": 874,
+        "left": 1065,
+        "height": 86,
+        "width": 253
+    },
+    {
+        "tag": "seller.address",
+        "value": "3264 Mcclure Mews Apt. 710\nSouth Robinhaven, IA 99446",
+        "top": 235,
+        "left": 100,
+        "height": 70,
+        "width": 748
+    },
+    {
+        "tag": "seller.company.name",
+        "value": "Davis-Johnson",
+        "top": 185,
+        "left": 100,
+        "height": 49,
+        "width": 748
+    },
+    {
+        "tag": "seller.email",
+        "value": "tjohnson@flores-taylor.com",
+        "top": 377,
+        "left": 100,
+        "height": 49,
+        "width": 748
+    },
+    {
+        "tag": "seller.phone_number",
+        "value": "+972 8 257 9678",
+        "top": 306,
+        "left": 100,
+        "height": 70,
+        "width": 748
+    },
+    {
+        "tag": "seller.website",
+        "value": "price.com",
+        "top": 427,
+        "left": 100,
+        "height": 49,
+        "width": 748
+    },
+    {
+        "tag": "summary.balance",
+        "value": "$ 4.67",
+        "top": 1685,
+        "left": 1319,
+        "height": 76,
+        "width": 280
+    },
+    {
+        "tag": "summary.subtotal",
+        "value": "4.46",
+        "top": 1536,
+        "left": 1319,
+        "height": 48,
+        "width": 280
+    },
+    {
+        "tag": "summary.tax_total",
+        "value": "0.21",
+        "top": 1585,
+        "left": 1319,
+        "height": 49,
+        "width": 280
+    }
+]

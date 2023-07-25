@@ -1,0 +1,24 @@
+{
+    "invoice": {
+        "template": "templates/Invoice_24.htm",
+        "logo": "logos/LLD-logo-files/grandcentrix.png",
+        "font": "fonts/Fira_Sans/FiraSans-MediumItalic.ttf",
+        "dpi": 200,
+        "color_map": {
+            "#414042": "#404240",
+            "#999999": "#999999",
+            "#404040": "#404040",
+            "#F1FCF1": "#f1f8fc",
+            "#0D83DD": "#0da3dd",
+            "#595959": "#595959",
+            "#D9D9D9": "#d9d9d9"
+        },
+        "font_scale": 0.8319859847740659,
+        "margin": 12
+    },
+    "warping": {
+        "environment": "environments/IndoorHDRDataset2018/AG8A7195-8ad3096336.exr",
+        "mesh": "meshes/objs/C/2/2_221_3.obj",
+        "resolution": 1600
+    }
+}

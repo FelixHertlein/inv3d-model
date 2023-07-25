@@ -1,0 +1,100 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Johnsonstad",
+                    "postcode": "78644",
+                    "state_abbr": "AK"
+                },
+                "street": {
+                    "building_number": "8601",
+                    "street_name": "Gibbs Fields"
+                }
+            },
+            "contact": {
+                "first_name": "Daniel",
+                "last_name": "Thompson"
+            },
+            "email": "kimthomas@foster-edwards.com",
+            "phone_number": {
+                "country_code": 972,
+                "national_number": 42413359
+            }
+        },
+        "company": {
+            "name": "Clark-Williams"
+        }
+    },
+    "invoice_date": {
+        "day": 28,
+        "month": 6,
+        "year": 2002
+    },
+    "invoice_due_date": null,
+    "invoice_number": 308044,
+    "products": {
+        "0": {
+            "description": "Set 12 Colour Pencils Spaceboy ",
+            "id": 1866,
+            "quantity": 10,
+            "total": 6.5,
+            "unit_price": 0.65
+        },
+        "1": {
+            "description": "Red Retrospot Charlotte Bag",
+            "id": 5239,
+            "quantity": 4,
+            "total": 3.4,
+            "unit_price": 0.85
+        },
+        "2": {
+            "description": "Spaceboy Mini Backpack",
+            "id": 7172,
+            "quantity": 2,
+            "total": 8.3,
+            "unit_price": 4.15
+        },
+        "3": {
+            "description": "Set Of 4 Pantry Jelly Moulds",
+            "id": 4955,
+            "quantity": 10,
+            "total": 24.6,
+            "unit_price": 2.46
+        },
+        "4": {
+            "description": "Heart Of Wicker Large",
+            "id": 8313,
+            "quantity": 7,
+            "total": 20.65,
+            "unit_price": 2.95
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Lynnmouth",
+                "postcode": "46135",
+                "state_abbr": "NM"
+            },
+            "street": {
+                "building_number": "765",
+                "street_name": "Ruth Harbors"
+            }
+        },
+        "company": {
+            "name": "Snyder, Hammond and Anderson"
+        },
+        "email": "katherineterrell@lynch-hutchinson.org",
+        "phone_number": {
+            "country_code": 48,
+            "national_number": 880467751
+        },
+        "website": "barnett.com"
+    },
+    "summary": {
+        "balance": 69.22,
+        "subtotal": 63.45,
+        "tax_total": 5.77
+    }
+}

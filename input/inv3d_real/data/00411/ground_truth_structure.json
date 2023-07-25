@@ -1,0 +1,73 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Andrewview",
+                    "postcode": "59959",
+                    "state_abbr": "MT"
+                },
+                "street": {
+                    "building_number": "6688",
+                    "secondary_address": "Suite 516",
+                    "street_name": "David Shores"
+                }
+            },
+            "contact": {
+                "first_name": "Kimberly",
+                "last_name": "Gaines"
+            }
+        }
+    },
+    "invoice_date": {
+        "day": 24,
+        "month": 10,
+        "year": 2007
+    },
+    "invoice_number": 415808,
+    "payment_terms": "PIA",
+    "products": {
+        "0": {
+            "description": "Charlie And Lola Figures Tins",
+            "quantity": 4,
+            "total": 7.8,
+            "unit_price": 1.95
+        },
+        "1": {
+            "description": "Jumbo Shopper Vintage Red Paisley",
+            "quantity": 5,
+            "total": 10.4,
+            "unit_price": 2.08
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "North Sheenabury",
+                "postcode": "83615",
+                "state_abbr": "AK"
+            },
+            "street": {
+                "building_number": "4083",
+                "secondary_address": "Suite 237",
+                "street_name": "Jason Valleys"
+            }
+        },
+        "company": {
+            "name": "Brown-Rivers"
+        },
+        "email": "jamessmith@smith-holmes.com",
+        "phone_number": {
+            "country_code": 55,
+            "national_number": 3125438618
+        },
+        "website": "fleming-bird.com"
+    },
+    "summary": {
+        "balance": 14.13,
+        "discount": 4.29,
+        "subtotal": 18.2,
+        "tax_rate": 0.016,
+        "tax_total": 0.22
+    }
+}

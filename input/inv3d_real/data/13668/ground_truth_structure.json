@@ -1,0 +1,73 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Harrisonfort",
+                    "postcode": "58917",
+                    "state_abbr": "DE"
+                },
+                "street": {
+                    "building_number": "8599",
+                    "secondary_address": "Apt. 312",
+                    "street_name": "Charles Lake"
+                }
+            },
+            "contact": {
+                "first_name": "Matthew",
+                "last_name": "Holmes"
+            },
+            "email": "alexis58@smith.com",
+            "phone_number": {
+                "country_code": 62,
+                "national_number": 824039856
+            }
+        },
+        "company": {
+            "name": "Wallace PLC"
+        }
+    },
+    "invoice_date": {
+        "day": 7,
+        "month": 12,
+        "year": 2007
+    },
+    "invoice_due_date": null,
+    "invoice_number": 189171,
+    "products": {
+        "0": {
+            "description": "Vintage leaf magnetic notepad",
+            "quantity": 8,
+            "total": 11.6,
+            "unit_price": 1.45
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "Brownfurt",
+                "postcode": "92943",
+                "state_abbr": "GA"
+            },
+            "street": {
+                "building_number": "8431",
+                "secondary_address": "Apt. 208",
+                "street_name": "Scott Village"
+            }
+        },
+        "company": {
+            "name": "Johnson-Williams"
+        },
+        "email": "barbarabrown@holland-williams.com",
+        "phone_number": {
+            "country_code": 41,
+            "national_number": 612500804
+        },
+        "website": "hill.com"
+    },
+    "summary": {
+        "balance": 12.18,
+        "subtotal": 11.6,
+        "tax_total": 0.58
+    }
+}

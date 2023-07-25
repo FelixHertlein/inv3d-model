@@ -1,0 +1,70 @@
+{
+    "buyer": {
+        "bill": {
+            "address": {
+                "city": {
+                    "city_name": "Port Michaelside",
+                    "postcode": "50543",
+                    "state_abbr": "HI"
+                },
+                "street": {
+                    "building_number": "3292",
+                    "secondary_address": "Suite 853",
+                    "street_name": "Conner Way"
+                }
+            },
+            "contact": {
+                "first_name": "Kelly",
+                "last_name": "Smith"
+            }
+        },
+        "company": {
+            "name": "Sanford-Smith"
+        }
+    },
+    "invoice_date": {
+        "day": 3,
+        "month": 6,
+        "year": 1994
+    },
+    "invoice_number": 873375,
+    "payment_terms": "Bill of exchange",
+    "products": {
+        "0": {
+            "description": "Woodland Charlotte Bag",
+            "quantity": 10,
+            "total": 7.2,
+            "unit_price": 0.72
+        }
+    },
+    "seller": {
+        "address": {
+            "city": {
+                "city_name": "West Ryan",
+                "postcode": "39483",
+                "state_abbr": "IL"
+            },
+            "street": {
+                "building_number": "89311",
+                "secondary_address": "Suite 959",
+                "street_name": "Alexander Village"
+            }
+        },
+        "company": {
+            "name": "Thompson Ltd",
+            "slogan": "Operative non-volatile concept"
+        },
+        "fax_number": {
+            "country_code": 1,
+            "extension": 48,
+            "national_number": 4024486325
+        },
+        "phone_number": {
+            "country_code": 91,
+            "national_number": 2528276816
+        }
+    },
+    "summary": {
+        "balance": 8.09
+    }
+}
