@@ -9,13 +9,19 @@ def check_dir(directory: Union[str, Path], exist: bool = True):
     if exist:
         assert directory.is_dir(), f"Directory {directory.resolve()} does not exist!"
     else:
-        assert directory.parent.is_dir(), f"Parent directory {directory.parent.resolve()} does not exist!"
+        assert (
+            directory.parent.is_dir()
+        ), f"Parent directory {directory.parent.resolve()} does not exist!"
         assert not directory.is_dir(), f"Directory {directory.resolve()} does exist!"
 
     return directory
 
 
-def check_file(file: Union[str, Path], suffix: Union[None, str, List[str]] = None, exist: Optional[bool] = True):
+def check_file(
+    file: Union[str, Path],
+    suffix: Union[None, str, List[str]] = None,
+    exist: Optional[bool] = True,
+):
     file = Path(file)
 
     if exist is None:
@@ -23,42 +29,61 @@ def check_file(file: Union[str, Path], suffix: Union[None, str, List[str]] = Non
     elif exist:
         assert file.is_file(), f"File {file.resolve()} does not exist!"
     else:
-        assert file.parent.is_dir(), f"Parent directory {file.parent.resolve()} does not exist!"
+        assert (
+            file.parent.is_dir()
+        ), f"Parent directory {file.parent.resolve()} does not exist!"
         assert not file.is_file(), f"File {file.resolve()} does exist!"
 
     if suffix is None:
         pass
     elif isinstance(suffix, str):
-        assert file.suffix == suffix, f"File {file.resolve()} has an invalid suffix! Allowed is '{suffix}'"
+        assert (
+            file.suffix == suffix
+        ), f"File {file.resolve()} has an invalid suffix! Allowed is '{suffix}'"
     else:
-        assert file.suffix in suffix, f"File {file.resolve()} has an invalid suffix! Allowed is any of '{suffix}'"
+        assert (
+            file.suffix in suffix
+        ), f"File {file.resolve()} has an invalid suffix! Allowed is any of '{suffix}'"
 
     return file
 
 
-def list_dirs(search_dir: Union[str, Path], recursive: bool = False, as_string: bool = False, glob_string="*"):
+def list_dirs(
+    search_dir: Union[str, Path],
+    recursive: bool = False,
+    as_string: bool = False,
+    glob_string="*",
+):
     search_dir = Path(search_dir)
     glob_function = search_dir.rglob if recursive else search_dir.glob
 
-    dirs = [str(file) if as_string else file
-            for file in glob_function(glob_string)
-            if file.is_dir()]
+    dirs = [
+        str(file) if as_string else file
+        for file in glob_function(glob_string)
+        if file.is_dir()
+    ]
     return list(sorted(dirs))
 
 
-def list_files(search_dir: Union[str, Path], suffixes: List[str] = None, recursive: bool = False,
-               as_string: bool = False):
+def list_files(
+    search_dir: Union[str, Path],
+    suffixes: List[str] = None,
+    recursive: bool = False,
+    as_string: bool = False,
+):
     search_dir = check_dir(search_dir)
 
     if suffixes is None:
-        suffixes = ['']
+        suffixes = [""]
 
     glob_function = search_dir.rglob if recursive else search_dir.glob
 
-    files = [str(file) if as_string else file
-             for suffix in suffixes
-             for file in glob_function("*" + suffix)
-             if file.is_file()]
+    files = [
+        str(file) if as_string else file
+        for suffix in suffixes
+        for file in glob_function("*" + suffix)
+        if file.is_file()
+    ]
 
     return list(sorted(files))
 

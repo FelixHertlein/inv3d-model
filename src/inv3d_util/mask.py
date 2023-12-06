@@ -2,13 +2,15 @@ import math
 from typing import *
 
 import numpy as np
-
 from skimage import img_as_bool
 from skimage.transform import resize
 
 from .misc import check_tensor
 
-def scale_mask(mask: np.ndarray, resolution: Union[int, Tuple[int, int]] = None, area: int = None) -> np.ndarray:
+
+def scale_mask(
+    mask: np.ndarray, resolution: Union[int, Tuple[int, int]] = None, area: int = None
+) -> np.ndarray:
     check_tensor(mask, "h w")
 
     assert not (bool(resolution) and bool(area)), "Both scaling values cannot be set!"
@@ -17,7 +19,11 @@ def scale_mask(mask: np.ndarray, resolution: Union[int, Tuple[int, int]] = None,
         return mask
 
     if resolution:
-        new_shape = resolution[::-1] if isinstance(resolution, Tuple) else (resolution, resolution)
+        new_shape = (
+            resolution[::-1]
+            if isinstance(resolution, Tuple)
+            else (resolution, resolution)
+        )
     else:
         H, W = mask.shape
         new_W = int(math.sqrt(area / (H / W)))
@@ -27,7 +33,7 @@ def scale_mask(mask: np.ndarray, resolution: Union[int, Tuple[int, int]] = None,
     output_mask = img_as_bool(resize(mask, new_shape))
 
     return output_mask
-    
+
 
 def tight_crop_mask(mask: np.ndarray, return_mask: bool = False):
     check_tensor(mask, "h w")

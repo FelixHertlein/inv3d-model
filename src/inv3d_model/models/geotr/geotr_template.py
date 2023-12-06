@@ -1,12 +1,14 @@
-from .geotr_core import *
 import warnings
 
 import pytorch_lightning as pl
-from inv3d_util.misc import median_blur
-from torch.optim.lr_scheduler import OneCycleLR
 from einops import rearrange
+from torch.optim.lr_scheduler import OneCycleLR
 
-warnings.filterwarnings('ignore')
+from inv3d_util.misc import median_blur
+
+from .geotr_core import *
+
+warnings.filterwarnings("ignore")
 
 
 class LitGeoTrTemplate(pl.LightningModule):
@@ -61,11 +63,16 @@ class LitGeoTrTemplate(pl.LightningModule):
         assert self.steps_per_epoch is not None
 
         optimizer = torch.optim.AdamW(self.parameters())
-        scheduler = OneCycleLR(optimizer, max_lr=10e-4, epochs=self.epochs, steps_per_epoch=self.steps_per_epoch)
+        scheduler = OneCycleLR(
+            optimizer,
+            max_lr=10e-4,
+            epochs=self.epochs,
+            steps_per_epoch=self.steps_per_epoch,
+        )
         return {
             "optimizer": optimizer,
             "lr_scheduler": scheduler,
-            "monitor": "val/mse_loss"
+            "monitor": "val/mse_loss",
         }
 
 
@@ -76,8 +83,8 @@ class GeoTrTemplate(nn.Module):
 
         self.hidden_dim = hdim = 256
 
-        self.fnet1 = BasicEncoder(output_dim=128, norm_fn='instance')
-        self.fnet2 = BasicEncoder(output_dim=128, norm_fn='instance')
+        self.fnet1 = BasicEncoder(output_dim=128, norm_fn="instance")
+        self.fnet2 = BasicEncoder(output_dim=128, norm_fn="instance")
 
         self.TransEncoder = TransEncoder(self.num_attn_layers, hidden_dim=hdim)
         self.TransDecoder = TransDecoder(self.num_attn_layers, hidden_dim=hdim)
@@ -107,7 +114,9 @@ class GeoTrTemplate(nn.Module):
         return up_flow.reshape(N, 2, 8 * H, 8 * W)
 
     def forward(self, image1, template):
-        fmap1 = self.fnet1(image1)  # torch.Size([N, 3, 288, 288]) -> torch.Size([4, 128, 36, 36])
+        fmap1 = self.fnet1(
+            image1
+        )  # torch.Size([N, 3, 288, 288]) -> torch.Size([4, 128, 36, 36])
         fmap1 = torch.relu(fmap1)
 
         fmap2 = self.fnet2(template)

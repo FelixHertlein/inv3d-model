@@ -1,15 +1,16 @@
-from .geotr_core import *
 import warnings
-import timm
 
 import pytorch_lightning as pl
-from inv3d_util.misc import median_blur
-from inv3d_util.misc import check_tensor
-from inv3d_util.mapping import scale_map_torch
-from torch.optim.lr_scheduler import OneCycleLR
+import timm
 from einops import rearrange
+from torch.optim.lr_scheduler import OneCycleLR
 
-warnings.filterwarnings('ignore')
+from inv3d_util.mapping import scale_map_torch
+from inv3d_util.misc import check_tensor, median_blur
+
+from .geotr_core import *
+
+warnings.filterwarnings("ignore")
 
 
 class LitGeoTrTemplateLarge(pl.LightningModule):
@@ -66,25 +67,39 @@ class LitGeoTrTemplateLarge(pl.LightningModule):
         assert self.steps_per_epoch is not None
 
         optimizer = torch.optim.AdamW(self.parameters())
-        scheduler = OneCycleLR(optimizer, max_lr=10e-4, epochs=self.epochs, steps_per_epoch=self.steps_per_epoch)
+        scheduler = OneCycleLR(
+            optimizer,
+            max_lr=10e-4,
+            epochs=self.epochs,
+            steps_per_epoch=self.steps_per_epoch,
+        )
         return {
             "optimizer": optimizer,
             "lr_scheduler": scheduler,
-            "monitor": "val/mse_loss"
+            "monitor": "val/mse_loss",
         }
 
 
 class EfficientNetEncoder(nn.Module):
-
     def __init__(self, output_dim: int) -> None:
         super().__init__()
 
         m = timm.create_model("tf_efficientnet_b7_ns", pretrained=True)
         # model layout: conv_stem, bn1, act1, blocks (7), conv_head, bn2, act2, global_pool, classifier
 
-        self.backbone = nn.Sequential(m.conv_stem, m.bn1, m.act1, m.blocks[0], m.blocks[1], m.blocks[2], m.blocks[3])
+        self.backbone = nn.Sequential(
+            m.conv_stem,
+            m.bn1,
+            m.act1,
+            m.blocks[0],
+            m.blocks[1],
+            m.blocks[2],
+            m.blocks[3],
+        )
         self.relu = nn.ReLU()
-        self.reduce_conv = nn.Conv2d(in_channels=160, out_channels=output_dim, kernel_size=3)
+        self.reduce_conv = nn.Conv2d(
+            in_channels=160, out_channels=output_dim, kernel_size=3
+        )
 
     def forward(self, image):
         check_tensor(image, "n 3 600 600")
@@ -145,7 +160,9 @@ class GeoTrTemplateLarge(nn.Module):
         fmap = self.TransDecoder(fmap, self.query_embed.weight)
 
         # convex upsample baesd on fmap
-        image1_mock = torch.zeros((image1.shape[0], image1.shape[1], 288, 288)).to(image1.device)
+        image1_mock = torch.zeros((image1.shape[0], image1.shape[1], 288, 288)).to(
+            image1.device
+        )
         coodslar, coords0, coords1 = self.initialize_flow(image1_mock)
         coords1 = coords1.detach()
         mask, coords1 = self.update_block(fmap, coords1)

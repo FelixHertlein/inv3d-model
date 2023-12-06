@@ -7,7 +7,10 @@
 		"--ipc=host"
 	],
 	"forwardPorts": [],
-	"mounts": [],
+	"mounts": [
+		//"source=YOUR_DOC3D_DIRECTORY,target=/workspaces/inv3d-model/input/doc3d,type=bind,consistency=cached,readOnly=true", 
+		//"source=YOUR_INV3D_DIRECTORY,target=/workspaces/inv3d-model/input/inv3d,type=bind,consistency=cached,readOnly=true"
+	],
 	"customizations": {
 		"vscode": {
 			"extensions": [

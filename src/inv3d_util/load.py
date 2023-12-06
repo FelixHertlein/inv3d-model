@@ -7,9 +7,9 @@ from pathlib import Path
 from typing import *
 
 import cv2
+import h5py
 import numpy as np
 import yaml
-import h5py
 
 from .path import check_file
 
@@ -46,7 +46,7 @@ def load_exr(file: Path):
 def load_mat(file: Path, key: str = None):
     file = check_file(file, suffix=".mat")
 
-    with h5py.File(str(file.resolve()), 'r') as f:
+    with h5py.File(str(file.resolve()), "r") as f:
         if key is None:
             key = list(f.keys())[0]
         return np.array(f[key])
@@ -56,9 +56,7 @@ def save_npz(file: Path, data: np.ndarray, override: bool = False):
     exist = None if override else False
     file = check_file(file, suffix=".npz", exist=exist)
 
-    params = {
-        file.stem: data
-    }
+    params = {file.stem: data}
     np.savez_compressed(str(file), **params)
 
 

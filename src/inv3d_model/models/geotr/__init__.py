@@ -1,6 +1,4 @@
-
 from .. import model_factory
-
 from .geotr import LitGeoTr
 from .geotr_template import LitGeoTrTemplate
 from .geotr_template_large import LitGeoTrTemplateLarge

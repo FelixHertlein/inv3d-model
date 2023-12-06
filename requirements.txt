@@ -27,3 +27,9 @@ tqdm==4.62.3
 unflatten==0.1.1
 vit_pytorch==0.38.1
 gdown==4.7.1
+types-PyYAML==6.0.12.12
+ipykernel==6.26.0
+kaleido==0.2.1
+mypy==1.7.1
+pre-commit==3.5.0
+ipywidgets==8.1.1

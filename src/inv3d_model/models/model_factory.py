@@ -1,5 +1,6 @@
 from pathlib import Path
-from typing import Type, List
+from typing import List, Type
+
 from pytorch_lightning import LightningModule
 
 _all_models: dict[str, type[LightningModule]] = {}

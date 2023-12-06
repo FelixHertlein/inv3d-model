@@ -1,0 +1,19 @@
+doc3d:
+  train_dir: /workspaces/inv3d-model/input/doc3d/train.txt
+  val_dir: /workspaces/inv3d-model/input/doc3d/val.txt
+
+doc3d_test:
+  test_dir: /workspaces/inv3d-model/input/doc3d/test.txt
+
+doc3d_real:
+  test_dir: /workspaces/inv3d-model/input/doc3d/real/
+
+inv3d:
+  train_dir: /workspaces/inv3d-model/input/inv3d/data/train/
+  val_dir: /workspaces/inv3d-model/input/inv3d/data/val/
+
+inv3d_test:
+  test_dir: /workspaces/inv3d-model/input/inv3d/data/test/
+
+inv3d_real:
+  test_dir: /workspaces/inv3d-model/input/inv3d_real

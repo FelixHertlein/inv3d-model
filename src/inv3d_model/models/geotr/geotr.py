@@ -1,14 +1,16 @@
-from .geotr_core import *
 import warnings
 
 import pytorch_lightning as pl
 import torch
 import torch.nn.functional as F
-from inv3d_util.misc import median_blur
-from torch.optim.lr_scheduler import OneCycleLR
 from einops import rearrange
+from torch.optim.lr_scheduler import OneCycleLR
 
-warnings.filterwarnings('ignore')
+from inv3d_util.misc import median_blur
+
+from .geotr_core import *
+
+warnings.filterwarnings("ignore")
 
 
 class LitGeoTr(pl.LightningModule):
@@ -62,10 +64,14 @@ class LitGeoTr(pl.LightningModule):
         assert self.steps_per_epoch is not None
 
         optimizer = torch.optim.AdamW(self.parameters())
-        scheduler = OneCycleLR(optimizer, max_lr=10e-4, epochs=self.epochs,
-                               steps_per_epoch=self.steps_per_epoch)
+        scheduler = OneCycleLR(
+            optimizer,
+            max_lr=10e-4,
+            epochs=self.epochs,
+            steps_per_epoch=self.steps_per_epoch,
+        )
         return {
             "optimizer": optimizer,
             "lr_scheduler": scheduler,
-            "monitor": "val/mse_loss"
+            "monitor": "val/mse_loss",
         }

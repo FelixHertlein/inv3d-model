@@ -8,17 +8,28 @@ from typing import *
 from tqdm import tqdm
 
 
-def process_tasks(task_fn: Callable, tasks: List[Any], num_workers: int, use_indexes: bool = False, **kwargs) -> Dict:
+def process_tasks(
+    task_fn: Callable,
+    tasks: List[Any],
+    num_workers: int,
+    use_indexes: bool = False,
+    **kwargs,
+) -> Dict:
     print("Starting parallel execution with {} workers!".format(num_workers))
 
     with concurrent.futures.ProcessPoolExecutor(max_workers=num_workers) as executor:
-        futures = {executor.submit(task_fn, task, **kwargs): idx if use_indexes else task for idx, task in enumerate(tasks)}
+        futures = {
+            executor.submit(task_fn, task, **kwargs): idx if use_indexes else task
+            for idx, task in enumerate(tasks)
+        }
         results = {}
 
         print("Awaiting completion!".format(num_workers))
 
         try:
-            with tqdm(desc="Processing ...", total=len(futures), smoothing=0) as progress_bar:
+            with tqdm(
+                desc="Processing ...", total=len(futures), smoothing=0
+            ) as progress_bar:
                 for f in concurrent.futures.as_completed(futures.keys()):
                     try:
                         results[futures[f]] = f.result()
@@ -31,6 +42,7 @@ def process_tasks(task_fn: Callable, tasks: List[Any], num_workers: int, use_ind
             exit(-1)
 
     return results
+
 
 def get_cpus():
     try:

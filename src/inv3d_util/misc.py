@@ -1,4 +1,3 @@
-from .load import load_image, load_npz
 import re
 from pathlib import Path
 from typing import *
@@ -9,33 +8,43 @@ import torch
 import torch.nn.functional as F
 from einops import rearrange
 
-plt.rcParams['figure.figsize'] = [10, 10]
+from .load import load_image, load_npz
+
+plt.rcParams["figure.figsize"] = [10, 10]
 
 
 def check_tensor(data, pattern: str, allow_none: bool = False, **kwargs):
     if allow_none and data is None:
         return {}
 
-    assert bool(re.match('^[a-zA-Z0-9 ]+$', pattern)), "Invalid characters in pattern found! Only use [a-zA-Z0-9 ]."
+    assert bool(
+        re.match("^[a-zA-Z0-9 ]+$", pattern)
+    ), "Invalid characters in pattern found! Only use [a-zA-Z0-9 ]."
 
-    tokens = [t for t in pattern.split(" ") if t != '']
+    tokens = [t for t in pattern.split(" ") if t != ""]
 
-    assert len(data.shape) == len(tokens), "Input tensor has an invalid number of dimensions!"
+    assert len(data.shape) == len(
+        tokens
+    ), "Input tensor has an invalid number of dimensions!"
 
     assignment = {}
     for dim, (token, size) in enumerate(zip(tokens, data.shape)):
         if token[0].isdigit():
-            assert int(token) == size, f"Tensor mismatch in dimension {dim}: expected {size}, found {int(token)}!"
+            assert (
+                int(token) == size
+            ), f"Tensor mismatch in dimension {dim}: expected {size}, found {int(token)}!"
         else:
             if token in assignment:
-                assert assignment[
-                    token] == size, f"Tensor mismatch in dimension {dim}: expected {size}, found {assignment[token]}!"
+                assert (
+                    assignment[token] == size
+                ), f"Tensor mismatch in dimension {dim}: expected {size}, found {assignment[token]}!"
             else:
                 assignment[token] = size
 
                 if token in kwargs:
-                    assert kwargs[
-                        token] == size, f"Tensor mismatch in dimension {dim}: expected {kwargs[token]}, found {size}!"
+                    assert (
+                        kwargs[token] == size
+                    ), f"Tensor mismatch in dimension {dim}: expected {kwargs[token]}, found {size}!"
 
     return assignment
 

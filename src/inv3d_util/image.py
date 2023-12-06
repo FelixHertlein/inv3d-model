@@ -3,7 +3,6 @@ from typing import *
 
 import cv2
 import numpy as np
-
 from scipy import ndimage as nd
 from skimage import img_as_bool
 from skimage.transform import resize
@@ -11,9 +10,13 @@ from skimage.transform import resize
 from .misc import check_tensor
 
 
-def scale_image(image: np.ndarray, mask: Optional[np.ndarray] = None,
-                resolution: Union[int, Tuple[int, int]] = None, area: int = None, return_mask: bool = False) -> np.ndarray:
-
+def scale_image(
+    image: np.ndarray,
+    mask: Optional[np.ndarray] = None,
+    resolution: Union[int, Tuple[int, int]] = None,
+    area: int = None,
+    return_mask: bool = False,
+) -> np.ndarray:
     dims = check_tensor(image, "h w c")
     check_tensor(mask, "h w", allow_none=True)
 
@@ -22,10 +25,14 @@ def scale_image(image: np.ndarray, mask: Optional[np.ndarray] = None,
 
     if not resolution and not area:  # no scaling parameter set: do nothing
         mask = np.ones_like(image[..., 0]).astype("bool") if mask is None else mask
-        return (image, mask) if return_mask else image 
+        return (image, mask) if return_mask else image
 
     if resolution:
-        new_shape = resolution[::-1] if isinstance(resolution, Tuple) else (resolution, resolution)
+        new_shape = (
+            resolution[::-1]
+            if isinstance(resolution, Tuple)
+            else (resolution, resolution)
+        )
     else:
         H, W, C = image.shape
         new_W = int(math.sqrt(area / (H / W)))
@@ -39,7 +46,9 @@ def scale_image(image: np.ndarray, mask: Optional[np.ndarray] = None,
 
     output_mask = img_as_bool(resize(mask, new_shape, preserve_range=True))
 
-    indices = nd.distance_transform_edt(~mask.astype('bool'), return_distances=False, return_indices=True)
+    indices = nd.distance_transform_edt(
+        ~mask.astype("bool"), return_distances=False, return_indices=True
+    )
     filled_image = image[tuple(indices)]
     scaled_image = cv2.resize(filled_image, new_shape, interpolation=cv2.INTER_AREA)
     scaled_image[~output_mask] = 0

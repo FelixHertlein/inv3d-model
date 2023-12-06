@@ -1,18 +1,19 @@
+import warnings
 from pathlib import Path
 from typing import *
 
-import scipy
-import warnings
 import numpy as np
+import scipy
 import torch
 import torch.nn.functional as F
 from einops import rearrange
-from scipy.interpolate import RegularGridInterpolator
-from scipy.interpolate import griddata
+from scipy.interpolate import (
+    InterpolatedUnivariateSpline,
+    RegularGridInterpolator,
+    griddata,
+)
 from torch import Tensor
 from torchvision.transforms.functional import rotate
-from scipy.interpolate import InterpolatedUnivariateSpline
-
 
 from .load import load_npz
 from .misc import check_tensor
@@ -24,10 +25,17 @@ def create_identity_map(resolution: Union[int, Tuple], with_margin: bool = False
 
     margin_0 = 0.5 / resolution[0] if with_margin else 0
     margin_1 = 0.5 / resolution[1] if with_margin else 0
-    return np.mgrid[margin_0:1-margin_0:complex(0, resolution[0]), margin_1:1-margin_1:complex(0, resolution[1])].transpose(1, 2, 0)
+    return np.mgrid[
+        margin_0 : 1 - margin_0 : complex(0, resolution[0]),
+        margin_1 : 1 - margin_1 : complex(0, resolution[1]),
+    ].transpose(1, 2, 0)
 
 
-def apply_map(image: np.ndarray, bm: np.ndarray, resolution: Union[None, int, Tuple[int, int]] = None):
+def apply_map(
+    image: np.ndarray,
+    bm: np.ndarray,
+    resolution: Union[None, int, Tuple[int, int]] = None,
+):
     check_tensor(image, "h w c")
     check_tensor(bm, "h w c", c=2)
 
@@ -35,7 +43,7 @@ def apply_map(image: np.ndarray, bm: np.ndarray, resolution: Union[None, int, Tu
         bm = scale_map(bm, resolution)
 
     input_dtype = image.dtype
-    img = rearrange(image, 'h w c -> 1 c h w')
+    img = rearrange(image, "h w c -> 1 c h w")
     img = torch.from_numpy(img).double()
 
     bm = torch.from_numpy(bm).unsqueeze(0).double()
@@ -43,12 +51,14 @@ def apply_map(image: np.ndarray, bm: np.ndarray, resolution: Union[None, int, Tu
     bm = torch.roll(bm, shifts=1, dims=-1)
 
     res = F.grid_sample(input=img, grid=bm, align_corners=True)
-    res = rearrange(res[0], 'c h w -> h w c')
+    res = rearrange(res[0], "c h w -> h w c")
     res = res.numpy().astype(input_dtype)
     return res
 
 
-def apply_map_torch(image: Tensor, bm: Tensor, resolution: Union[None, int, Tuple[int, int]] = None):
+def apply_map_torch(
+    image: Tensor, bm: Tensor, resolution: Union[None, int, Tuple[int, int]] = None
+):
     check_tensor(image, "n c h w")
     check_tensor(bm, "n 2 h w")
 
@@ -78,13 +88,24 @@ def invert_map(input_map: np.ndarray, extrapolate: bool = True):
     values = np.array(np.nonzero(mask)).transpose((1, 0)).astype(float) / resolution
     id_map = create_identity_map(resolution, with_margin=True)
 
-    flow_grid = griddata(points=points, values=values, xi=(id_map[..., 0], id_map[..., 1]), method='linear')
+    flow_grid = griddata(
+        points=points,
+        values=values,
+        xi=(id_map[..., 0], id_map[..., 1]),
+        method="linear",
+    )
 
     if extrapolate and np.isnan(flow_grid).any():
-        extrapolation = griddata(points=points, values=values, xi=(id_map[..., 0], id_map[..., 1]), method='nearest')
+        extrapolation = griddata(
+            points=points,
+            values=values,
+            xi=(id_map[..., 0], id_map[..., 1]),
+            method="nearest",
+        )
         flow_grid = np.where(np.isnan(flow_grid), extrapolation, flow_grid)
 
     return flow_grid
+
 
 def invert_map_torchlike(input_map: Tensor, extrapolate: bool = True) -> Tensor:
     check_tensor(input_map, "n c h h", c=2)
@@ -92,13 +113,12 @@ def invert_map_torchlike(input_map: Tensor, extrapolate: bool = True) -> Tensor:
     device = input_map.device
     result = []
 
-    # TODO parallelize!
     for forward_map in input_map:
-        forward_map = rearrange(forward_map, 'c h w -> h w c').detach().cpu().numpy()
+        forward_map = rearrange(forward_map, "c h w -> h w c").detach().cpu().numpy()
         backward_map = invert_map(forward_map, extrapolate=extrapolate)
-        backward_map = rearrange(backward_map, 'h w c -> c h w') 
+        backward_map = rearrange(backward_map, "h w c -> c h w")
         backward_map = torch.from_numpy(backward_map).to(device)
-        
+
         result.append(backward_map)
 
     return torch.stack(result)
@@ -115,13 +135,15 @@ def scale_map(input_map: np.ndarray, resolution: Union[int, Tuple[int, int]]):
         return input_map.copy()
 
     if np.any(np.isnan(input_map)):
-        print("WARNING: scaling maps containing nan values will result in unsteady borders!")
-    
+        print(
+            "WARNING: scaling maps containing nan values will result in unsteady borders!"
+        )
+
     x = np.linspace(0, 1, W)
     y = np.linspace(0, 1, H)
-    xi = create_identity_map(resolution, with_margin=False).reshape(-1, 2) # TODO might be important, or not?
+    xi = create_identity_map(resolution, with_margin=False).reshape(-1, 2)
 
-    interp = RegularGridInterpolator((y, x), input_map, method="linear") # TODO keep
+    interp = RegularGridInterpolator((y, x), input_map, method="linear")
     return interp(xi).reshape(*resolution, C)
 
 
@@ -138,9 +160,13 @@ def scale_map_torch(input_map: Tensor, resolution: Union[int, Tuple[int, int]]):
         return input_map
 
     if torch.any(torch.isnan(input_map)):
-        print("WARNING: scaling maps containing nan values will result in unsteady borders!")
+        print(
+            "WARNING: scaling maps containing nan values will result in unsteady borders!"
+        )
 
-    return F.interpolate(input_map, size=resolution, mode='bilinear', align_corners=True)
+    return F.interpolate(
+        input_map, size=resolution, mode="bilinear", align_corners=True
+    )
 
 
 def tight_crop_map(input_map: np.ndarray):
@@ -149,6 +175,7 @@ def tight_crop_map(input_map: np.ndarray):
     input_map -= np.nanmin(input_map, axis=(0, 1), keepdims=True)
     input_map /= np.nanmax(input_map, axis=(0, 1), keepdims=True)
     return input_map
+
 
 def tight_crop_map_torch(input_map: Tensor) -> Tensor:
     check_tensor(input_map, "n 2 h w")
@@ -167,13 +194,19 @@ def tight_crop_map_torch(input_map: Tensor) -> Tensor:
 
 
 def rotate_map_torch(input_map: Tensor, angles: Tensor) -> Tensor:
-    dims = check_tensor(input_map, 'n 2 h h')
-    check_tensor(angles, 'n', n=dims['n'])
+    dims = check_tensor(input_map, "n 2 h h")
+    check_tensor(angles, "n", n=dims["n"])
 
-    input_map = scale_map_torch(input_map, dims['h']*10)  # upsample map to avoid rotation artefacts
+    input_map = scale_map_torch(
+        input_map, dims["h"] * 10
+    )  # upsample map to avoid rotation artefacts
 
-    rot_map = torch.stack([rotate(data, float(angle), expand=True, fill=float("nan")) 
-                           for data, angle in zip(input_map, angles)])
+    rot_map = torch.stack(
+        [
+            rotate(data, float(angle), expand=True, fill=float("nan"))
+            for data, angle in zip(input_map, angles)
+        ]
+    )
 
     # crop nan values and resize map
     maps = []
@@ -187,7 +220,7 @@ def rotate_map_torch(input_map: Tensor, angles: Tensor) -> Tensor:
 
         crop_map = tensor[:, row_min:row_max, col_min:col_max]
         crop_map = crop_map.unsqueeze(0)
-        crop_map = scale_map_torch(crop_map, dims['h'])  # downsample again
+        crop_map = scale_map_torch(crop_map, dims["h"])  # downsample again
 
         maps.append(crop_map)
 
@@ -195,8 +228,8 @@ def rotate_map_torch(input_map: Tensor, angles: Tensor) -> Tensor:
 
 
 def extrapolate_torchlike(input_map: torch.Tensor):
-    dims = check_tensor(input_map, 'n 2 h h')
-    resolution = dims['h']
+    dims = check_tensor(input_map, "n 2 h h")
+    resolution = dims["h"]
     device = input_map.device
 
     input_map = input_map.detach().cpu().numpy()
@@ -220,13 +253,13 @@ def extrapolate_torchlike(input_map: torch.Tensor):
                     bm_2[:, j, i] = interp1d(tensor[:, j, i])
 
             with warnings.catch_warnings():
-                warnings.filterwarnings(action='ignore', message='Mean of empty slice')
+                warnings.filterwarnings(action="ignore", message="Mean of empty slice")
                 tensor = np.nanmean(np.stack([bm_1, bm_2]), axis=0)
 
         results.append(tensor)
 
     input_map = np.stack(results)
-    input_map = rearrange(input_map, 'n h w c -> n c h w')
+    input_map = rearrange(input_map, "n h w c -> n c h w")
     input_map = torch.from_numpy(input_map)
     input_map.to(device)
     input_map = input_map.clip(min=0, max=1)
@@ -234,18 +267,21 @@ def extrapolate_torchlike(input_map: torch.Tensor):
     return input_map
 
 
-
 def transform_coords(bm: np.ndarray, coords: np.ndarray) -> np.ndarray:
     dims = check_tensor(bm, "h w 2")
     check_tensor(coords, "n 2")
 
-    height = dims['h']
-    width = dims['w']
+    height = dims["h"]
+    width = dims["w"]
 
     points = np.linspace(0, 1, num=height), np.linspace(0, 1, num=width)
 
-    y_channel = scipy.interpolate.interpn(points, bm[..., 0], xi=coords, method='linear')
-    x_channel = scipy.interpolate.interpn(points, bm[..., 1], xi=coords, method='linear')
+    y_channel = scipy.interpolate.interpn(
+        points, bm[..., 0], xi=coords, method="linear"
+    )
+    x_channel = scipy.interpolate.interpn(
+        points, bm[..., 1], xi=coords, method="linear"
+    )
 
     return np.stack([y_channel, x_channel], axis=-1)
 

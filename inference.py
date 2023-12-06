@@ -6,7 +6,6 @@ import argparse
 import os
 import sys
 from pathlib import Path
-from typing import Optional
 
 import gdown
 import torch
@@ -27,7 +26,9 @@ from inv3d_util.path import list_dirs
 model_sources = yaml.safe_load((project_dir / "models.yaml").read_text())
 
 
-def inference(model_name: str, dataset: str, output_shape: tuple[int, int]):
+def inference(model_name: str, dataset: str, gpu: int, output_shape: tuple[int, int]):
+    os.environ["CUDA_VISIBLE_DEVICES"] = str(gpu)
+
     model_url = model_sources[model_name]
     model_path = Path(
         gdown.cached_download(
@@ -115,6 +116,12 @@ if __name__ == "__main__":
         help="Selects the inference dataset. All folders in the input directory can be selected.",
     )
     parser.add_argument(
+        "--gpu",
+        type=int,
+        required=True,
+        help="The index of the GPU to use for inference.",
+    )
+    parser.add_argument(
         "--output_width",
         type=int,
         default=1700,
@@ -131,5 +138,6 @@ if __name__ == "__main__":
     inference(
         model_name=args.model,
         dataset=args.dataset,
+        gpu=args.gpu,
         output_shape=(args.output_height, args.output_width),
     )
