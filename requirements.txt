@@ -26,7 +26,7 @@ timm==0.5.4
 tqdm==4.62.3
 unflatten==0.1.1
 vit_pytorch==0.38.1
-gdown==4.7.1
+gdown==4.6.0
 types-PyYAML==6.0.12.12
 ipykernel==6.26.0
 kaleido==0.2.1
